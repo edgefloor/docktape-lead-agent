@@ -19,7 +19,7 @@ See [`IMPLEMENTATION-PLAN.md`](IMPLEMENTATION-PLAN.md) for the detailed design.
 | Company | Status | Fit | Compliance |
 | --- | --- | ---: | --- |
 | Bitrise | `sales_ready` | 90 | Clear |
-| Qovery | `review_required` | Unknown | Review required |
+| Qovery | `review_required` | 15 (provisional) | Review required |
 | Holori | `do_not_engage` | Unknown | Flagged as an unlisted competitor |
 
 The generated workbook is [`output/lead-tracker.xlsx`](output/lead-tracker.xlsx). [`output/`](output/) records the completed runs + Slack screenshots.
