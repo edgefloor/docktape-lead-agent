@@ -1,0 +1,63 @@
+{
+  "lead_id": "0bf3ed2fc57cb664e9b77bb6",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": null
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io"
+  },
+  "accepted_profile": null,
+  "fit": {
+    "employee_points": null,
+    "cloud_points": null,
+    "score": null,
+    "score_status": "provisional",
+    "rationale": "Assessment failed, so both fit components are unknown."
+  },
+  "compliance_checks": [
+    {
+      "kind": "assessment",
+      "policy_entry": "assessment",
+      "outcome": "review_required",
+      "reason": "The assessment did not complete, so the engagement policy could not be cleared.",
+      "evidence_id": null
+    }
+  ],
+  "compliance_outcome": "review_required",
+  "final_status": "review_required",
+  "summary": "The automated assessment did not complete. Review the saved evidence and errors.",
+  "evidence_references": [
+    "https://bitrise.io/",
+    "https://bitrise.io/about",
+    "https://bitrise.io/careers",
+    "https://pitchbook.com/profiles/company/103930-84",
+    "https://tracxn.com/d/companies/bitrise/__ccB_f2ubNFHhC1H4HFZZjOF5oWnXyvidGNIbnvX1feo",
+    "https://www.crunchbase.com/organization/bitrise",
+    "https://www.zoominfo.com/pic/bitrise-ltd/407132818",
+    "https://bitrise.io/blog/post/infrastructure-engineering-interju",
+    "https://bitrise.io/blog/infrastructure-engineering-in-a-hyper-growth-environment",
+    "https://bitrise.io/enterprise-build-platform",
+    "https://docs.bitrise.io/en/bitrise-platform/infrastructure/bitrise-on-aws--cloud-controller/bitrise-on-aws-overview",
+    "https://bitrise.io"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": "gpt-5.6-luna",
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": null,
+  "warnings": [],
+  "errors": [
+    "AssessmentError: Jev request failed: HTTPStatusError"
+  ],
+  "synthetic": false,
+  "processed_at": "2026-09-21T10:18:53.266126Z",
+  "processing_seconds": 26.023,
+  "notification_status": "sent"
+}

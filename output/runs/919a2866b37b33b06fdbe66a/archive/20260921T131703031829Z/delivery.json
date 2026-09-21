@@ -1,0 +1,17 @@
+{
+  "lead_id": "919a2866b37b33b06fdbe66a",
+  "message_sha256": "b7467fc790a51cf7d9cf41138a8f8438eb781f4ac1246940627befe611ce5043",
+  "status": "sent",
+  "sent_at": "2026-09-21T12:35:41.829740Z",
+  "message_identifier": null,
+  "acknowledgment": "ok",
+  "attempts": [
+    {
+      "attempted_at": "2026-09-21T12:35:41.829531Z",
+      "status": "sent",
+      "acknowledgment": "ok",
+      "error": null,
+      "duplicate_possible": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Review required
+Company: Holori
+Fit: 60 (Provisional)
+
+Summary
+Holori is a French SaaS provider offering cloud FinOps, cost allocation, infrastructure visualization, monitoring, optimization recommendations, and automated documentation across major cloud providers. Its platform connects to customer cloud accounts and consolidates cloud costs and infrastructure data, indicating substantial use of cloud-based production functionality.
+
+Compliance
+Clear
+No supported competitor match to CloudTrim Inc. Basis: no_indication. | No supported competitor match to SpendWise Cloud. Basis: no_indication. | No supported competitor match to RightSize Cloud Co. Basis: no_indication. | Verified relevant jurisdictions (FR) are outside the policy-listed country set.

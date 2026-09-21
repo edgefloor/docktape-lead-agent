@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Review required
+Company: Qovery
+Fit: 15 (Provisional)
+
+Summary
+Qovery sells a production-grade infrastructure platform for Kubernetes provisioning, application deployment, and day-2 cloud operations, primarily in customers' own cloud accounts. Its offering is adjacent to cloud cost optimization and FinOps through general infrastructure provisioning and application deployment, but the evidence does not show core FinOps capabilities such as spend optimization, rightsizing, or commitment optimization. Qovery reports more than 200 organizations and a team of more than 40 members across Europe and North America.
+
+Compliance
+Clear
+All competitor and country checks cleared under the exercise policy.

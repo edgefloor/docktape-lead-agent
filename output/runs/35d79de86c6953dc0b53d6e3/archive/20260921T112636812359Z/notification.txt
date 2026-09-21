@@ -1,0 +1,32 @@
+Lead assessment
+
+Status: Review required
+Company: Holori
+Fit: Unknown (Provisional)
+
+Summary
+Holori is a French SaaS provider offering FinOps, cloud cost management, infrastructure visualization, monitoring, and optimization capabilities for AWS, Azure, GCP, and other cloud environments. Its platform connects to customer cloud accounts, centralizes billing and usage data, and provides dashboards, diagrams, allocation tools, alerts, and optimization recommendations. Holori SAS is identified in its terms as the French contracting entity, with a registered office in Toulouse, France.
+
+Compliance
+Clear
+No supported competitor match to CloudTrim Inc. Basis: no_indication. | No supported competitor match to SpendWise Cloud. Basis: no_indication. | No supported competitor match to RightSize Cloud Co. Basis: no_indication. | Verified relevant jurisdictions (FR) are outside the policy-listed country set.
+
+Sources
+• https://holori.com/
+• https://holori.com/contact/
+• https://www.linkedin.com/company/holori-cloud
+• https://holori.com/holori-finops-tool/
+• https://doc.holori.com/
+• https://holori.com/terms-of-use/
+• https://annuaire-entreprises.data.gouv.fr/entreprise/holori-holori-904828134
+• https://www.dnb.com/business-directory/company-profiles.holori.43937de4593f198a4662e9adc2afafa6.html
+• https://www.pappers.fr/entreprise/holori-904828134
+• https://www.datanyze.com/companies/holori/1162366060
+• https://holori.com/infrastructureview/
+• https://holori.com/cloud-diagrams/
+• https://holori.com/the-10-best-cloud-management-platforms-in-2026/
+• https://holori.com
+• https://dokumen.pub/serverless-computing-principles-and-paradigms-3031266323-9783031266324.html
+• https://pacificcitizen.org/wp-content/uploads/archives-menu/Vol.103_%2319_Nov_07_1986.pdf
+• https://www.facebook.com/groups/521076129792255/posts/1033011211932075/
+• https://www.inyocounty.us/sites/default/files/2023-05/20230516AgendaPacket.pdf

@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Do not engage
+Company: Holori
+Fit: Unknown (Provisional)
+
+Summary
+Holori sells a FinOps platform for multi-cloud cost visibility, allocation, reporting, and optimization, directly overlapping with the defined cloud cost optimization and FinOps competitive capabilities. The company also provides cloud infrastructure visualization, monitoring, configuration discovery, and automated documentation across AWS, Azure, and GCP through a customer-facing application.
+
+Compliance
+Flagged
+This company offers cloud cost management services that directly compete with us.

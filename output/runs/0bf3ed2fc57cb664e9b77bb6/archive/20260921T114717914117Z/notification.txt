@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Sales ready
+Company: Bitrise
+Fit: 90 (Complete)
+
+Summary
+Bitrise sells a mobile DevOps platform that helps engineering teams build, test, deploy, and release iOS and Android applications through managed CI/CD, build infrastructure, and release-management services. Its offering is substantially cloud-based, including managed build infrastructure, dynamically scaled virtual machines, Google Cloud workloads, and a dedicated Mac cloud for iOS builds. Bitrise reports serving more than 8,500 mobile teams worldwide.
+
+Compliance
+Clear
+No supported competitor match to CloudTrim Inc. Basis: no_indication. | No supported competitor match to SpendWise Cloud. Basis: no_indication. | No supported competitor match to RightSize Cloud Co. Basis: no_indication. | Verified relevant jurisdictions (HU) are outside the policy-listed country set. Multiple international offices are context only.

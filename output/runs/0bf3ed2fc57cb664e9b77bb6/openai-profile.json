@@ -1,0 +1,295 @@
+{
+  "attempts": [
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Bitrise",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "observed_aliases": [],
+        "business_description": {
+          "value": "Bitrise provides a mobile DevOps platform for building, testing, and deploying iOS, Android, and cross-platform applications, including CI/CD, release management, build caching, and related mobile development services.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_5eb1eee943183414dbb5",
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "jurisdictions": [
+          {
+            "entity_name": "Bitrise, Inc.",
+            "country": "US",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          },
+          {
+            "entity_name": "Bitrise Limited",
+            "country": "GB",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          },
+          {
+            "entity_name": "Bitrise Limited",
+            "country": "HU",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          }
+        ],
+        "employee_count_band": {
+          "value": "51-200",
+          "support_type": "self_reported",
+          "evidence_ids": [
+            "evidence_c9ea57100dd9891ef0d1"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Bitrise offers a fully managed, cloud-based build infrastructure for mobile CI/CD.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_8308e92eb55186e83655",
+              "evidence_0d3e74d38cbddb60bf20"
+            ]
+          },
+          {
+            "value": "Bitrise operates build infrastructure using Google Cloud for Linux builds and dedicated Mac infrastructure for iOS builds.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_a6cf7cf50fe257cddf2c"
+            ]
+          },
+          {
+            "value": "Bitrise supports running workflows on customer-controlled AWS, virtualized Mac, bare-metal, cloud, or on-premises infrastructure through Bitrise Runners.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_94beb628263ea83acad8",
+              "evidence_1f29215938299643a54f"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "substantial_cloud",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_8308e92eb55186e83655",
+            "evidence_a6cf7cf50fe257cddf2c",
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "competitive_overlap": {
+          "value": "no_overlap",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_5eb1eee943183414dbb5",
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "missing_facts": [
+          "Registered jurisdiction is not established by the evidence.",
+          "Contracting legal entity is not established by the evidence.",
+          "Ultimate parent is not established by the evidence.",
+          "Operational headquarters is not established by the evidence.",
+          "The submitted employee band is not independently verified.",
+          "No evidence establishes that Bitrise sells cloud cost optimization or FinOps services."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Bitrise sells a substantial mobile DevOps and CI/CD platform with managed cloud build infrastructure for iOS and Android applications.",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_8308e92eb55186e83655"
+            ]
+          },
+          {
+            "text": "Based on the available evidence, Bitrise does not appear to compete directly with a cloud cost optimization and FinOps provider; its offering is adjacent to general infrastructure and application deployment services instead.",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_5eb1eee943183414dbb5"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Bitrise",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "observed_aliases": [
+          "Bitrise Limited",
+          "Bitrise, Inc."
+        ],
+        "business_description": {
+          "value": "Bitrise sells a mobile DevOps platform for building, testing, and deploying iOS and Android applications, including CI/CD, release management, build caching, and CodePush capabilities.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697",
+            "evidence_a6cf7cf50fe257cddf2c"
+          ]
+        },
+        "jurisdictions": [
+          {
+            "entity_name": "Bitrise Limited",
+            "country": "GB",
+            "role": "registered_jurisdiction",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_abae5cf89d2d02848d0b"
+            ]
+          },
+          {
+            "entity_name": "Bitrise Limited",
+            "country": "GB",
+            "role": "contracting_entity",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_abae5cf89d2d02848d0b"
+            ]
+          },
+          {
+            "entity_name": "Bitrise, Inc.",
+            "country": "US",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          },
+          {
+            "entity_name": "Bitrise Limited",
+            "country": "GB",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          },
+          {
+            "entity_name": "Bitrise Limited",
+            "country": "HU",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          },
+          {
+            "entity_name": "Bitrise",
+            "country": "unknown",
+            "role": "operational_headquarters",
+            "support_type": "unknown",
+            "evidence_ids": []
+          },
+          {
+            "entity_name": "Bitrise",
+            "country": "unknown",
+            "role": "ultimate_parent",
+            "support_type": "unknown",
+            "evidence_ids": []
+          }
+        ],
+        "employee_count_band": {
+          "value": "51-200",
+          "support_type": "self_reported",
+          "evidence_ids": [
+            "evidence_c9ea57100dd9891ef0d1"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Bitrise offers a fully managed, cloud-based build infrastructure for mobile CI/CD.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_8308e92eb55186e83655"
+            ]
+          },
+          {
+            "value": "Bitrise operates dedicated Apple silicon and Linux build machines for application builds.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_71186e942c1475f6667c"
+            ]
+          },
+          {
+            "value": "Bitrise supports build execution on Google Cloud, AWS infrastructure, virtualized Mac infrastructure, bare-metal setups, and customer cloud or on-premises infrastructure.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_94beb628263ea83acad8"
+            ]
+          },
+          {
+            "value": "Bitrise describes infrastructure for dynamically scaling virtual machines and running large numbers of concurrent builds.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_a6cf7cf50fe257cddf2c"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "substantial_cloud",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_8308e92eb55186e83655",
+            "evidence_94beb628263ea83acad8",
+            "evidence_71186e942c1475f6667c"
+          ]
+        },
+        "competitive_overlap": {
+          "value": "adjacent_service",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697",
+            "evidence_a6cf7cf50fe257cddf2c"
+          ]
+        },
+        "missing_facts": [
+          "Current employee count independently verified from a non-submitted source.",
+          "Operational headquarters country.",
+          "Ultimate parent entity and country.",
+          "Current legal terms or corporate records confirming whether Bitrise Limited remains the contracting entity."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Bitrise provides a substantial cloud-based mobile DevOps and CI/CD platform, with managed build infrastructure, dedicated Apple silicon and Linux machines, and integrations with public, private, and on-premises infrastructure.",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_8308e92eb55186e83655",
+              "evidence_94beb628263ea83acad8",
+              "evidence_71186e942c1475f6667c"
+            ]
+          },
+          {
+            "text": "Bitrise is adjacent to cloud cost optimization and FinOps rather than a competing service because the evidence describes application CI/CD and mobile DevOps products, not cloud cost visibility, waste detection, rightsizing, or spend optimization.",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_a6cf7cf50fe257cddf2c"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

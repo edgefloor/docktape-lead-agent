@@ -1,0 +1,54 @@
+{
+  "version": "2026-09-21",
+  "effective_date": "2026-09-21",
+  "competitors": [
+    {
+      "id": "cloudtrim_inc",
+      "name": "CloudTrim Inc",
+      "aliases": ["Cloud Trim", "Cloud Trim Incorporated", "CloudTrim Incorporated"]
+    },
+    {
+      "id": "spendwise_cloud",
+      "name": "SpendWise Cloud",
+      "aliases": ["SpendWise"]
+    },
+    {
+      "id": "rightsize_cloud_co",
+      "name": "RightSize Cloud Co",
+      "aliases": ["RightSize Cloud Company", "Right Size Cloud"]
+    }
+  ],
+  "competitive_scope": {
+    "name": "Cloud cost optimization and FinOps",
+    "competing_capabilities": [
+      "multi-cloud cost visibility and allocation",
+      "cloud waste detection",
+      "rightsizing recommendations",
+      "commitment and reserved-capacity optimization",
+      "FinOps reporting and cloud spend optimization"
+    ],
+    "adjacent_capabilities": [
+      "application CI/CD",
+      "mobile DevOps",
+      "general infrastructure provisioning",
+      "application deployment platforms"
+    ],
+    "decision_rule": "Treat a vendor as a competing service when supported evidence shows that it sells one or more core competing capabilities. Cloud usage alone is not competitive overlap."
+  },
+  "country_codes": ["BY", "IR", "KP", "RU"],
+  "country_policy": {
+    "basis": "Fixed country screen required by this exercise",
+    "source": "https://ofac.treasury.gov/sanctions-programs-and-country-information/where-is-ofacs-country-list-what-countries-do-i-need-to-worry-about-in-terms-of-us-sanctions",
+    "source_checked_date": "2026-09-21",
+    "scope": "Flags verified registered, contracting, parent, or operational-headquarters jurisdictions in Belarus, Iran, North Korea, or Russia for this exercise only",
+    "screening_roles": [
+      "registered_jurisdiction",
+      "contracting_entity",
+      "ultimate_parent",
+      "operational_headquarters"
+    ],
+    "context_only_roles": ["office"],
+    "decision_rule": "Multiple locations are not a conflict unless sources disagree about the same entity and role. A listed-country office requires review but is not by itself a flag.",
+    "exclusions": "Not a complete OFAC, export-control, ownership, person, or entity screen. Cuba and other active sanctions programs are outside the fixed exercise set."
+  }
+}

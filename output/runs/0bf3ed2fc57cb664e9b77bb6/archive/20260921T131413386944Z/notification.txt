@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Sales ready
+Company: Bitrise
+Fit: 90 (Complete)
+
+Summary
+Bitrise is a mobile DevOps and CI/CD platform vendor serving iOS and Android development teams with managed build, test, deployment, release, caching, and update capabilities. The company operates substantial cloud infrastructure for managed mobile builds, including dedicated Apple silicon and Linux build environments. 1 proposed summary statement(s) lacked accepted evidence support.
+
+Compliance
+Clear
+All competitor and country checks cleared under the exercise policy.

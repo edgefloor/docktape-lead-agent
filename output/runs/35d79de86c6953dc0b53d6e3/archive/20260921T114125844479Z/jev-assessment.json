@@ -1,0 +1,692 @@
+{
+  "attempts": [
+    {
+      "requested_model": "jev-latest",
+      "resolved_model": "jev-1.13.0",
+      "raw_answers": {
+        "claim__identity": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "claim__business_description": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "claim__employee_count_band": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "claim__proposed_cloud_category": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 0.99,
+            "insufficient": 0.01,
+            "contradicted": 0.0
+          },
+          "confidence": 0.99
+        },
+        "claim__cloud_signal_0": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "contradicted": 0.0,
+            "insufficient": 0.0,
+            "supported": 1.0
+          },
+          "confidence": 1.0
+        },
+        "claim__cloud_signal_1": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 0.95,
+            "insufficient": 0.05,
+            "contradicted": 0.0
+          },
+          "confidence": 0.92
+        },
+        "claim__cloud_signal_2": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "contradicted": 0.0,
+            "insufficient": 0.0,
+            "supported": 1.0
+          },
+          "confidence": 1.0
+        },
+        "claim__cloud_signal_3": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "contradicted": 0.0,
+            "insufficient": 0.0,
+            "supported": 1.0
+          },
+          "confidence": 1.0
+        },
+        "summary__0": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "summary__1": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "employee_count_category": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "11-50": 0.0,
+            "unknown": 1.0,
+            "201+": 0.0,
+            "conflicting": 0.0,
+            "51-200": 0.0,
+            "1-10": 0.0
+          },
+          "confidence": 1.0
+        },
+        "cloud_category": {
+          "type": "choice",
+          "choice": "digital_product",
+          "probabilities": {
+            "substantial_cloud": 0.23,
+            "minimal": 0.01,
+            "unknown": 0.02,
+            "production_cloud": 0.05,
+            "conflicting": 0.0,
+            "digital_product": 0.69
+          },
+          "confidence": 0.63
+        },
+        "compliance_follow_up": {
+          "type": "choice",
+          "choice": "jurisdiction",
+          "probabilities": {
+            "spendwise_cloud": 0.0,
+            "rightsize_cloud_co": 0.0,
+            "jurisdiction": 0.95,
+            "none": 0.05,
+            "cloudtrim_inc": 0.0
+          },
+          "confidence": 0.93
+        },
+        "competitor_basis__cloudtrim_inc": {
+          "type": "choice",
+          "choice": "no_indication",
+          "probabilities": {
+            "no_indication": 0.51,
+            "distinct_entity": 0.29,
+            "likely_alias": 0.0,
+            "plausible_partial": 0.19,
+            "insufficient_identity": 0.01
+          },
+          "confidence": 0.4
+        },
+        "competitor_evidence__cloudtrim_inc": {
+          "type": "choice",
+          "choice": "none",
+          "probabilities": {
+            "evidence_7029d1c7793a8560d2a4": 0.0,
+            "evidence_3e82462da31de8292461": 0.0,
+            "evidence_09f17a6b952edef9dd3d": 0.01,
+            "evidence_6133166e81295a639749": 0.0,
+            "evidence_d27f78a9cccf71ddd82d": 0.0,
+            "evidence_3ca90bd27a946d4f33f0": 0.0,
+            "evidence_4716cec3032eb0be05eb": 0.0,
+            "evidence_4ce45b9ced0ab18f45da": 0.0,
+            "none": 0.68,
+            "evidence_d018ca60d7cad95682d4": 0.0,
+            "evidence_88bb45475878b208d1b9": 0.0,
+            "submitted_name": 0.09,
+            "evidence_e2d431fb1096d5c55006": 0.0,
+            "evidence_ea1b70f41342b2fe4fff": 0.01,
+            "evidence_54e53e03a2d7861b8978": 0.0,
+            "evidence_82f3e5b685565c36c79f": 0.02,
+            "evidence_372f834f5f418fafeeff": 0.0,
+            "evidence_d055a3e89201b1f92668": 0.17,
+            "evidence_2afc1ec884951152e84c": 0.0,
+            "evidence_baceff8d4951defd0ebf": 0.0,
+            "evidence_81368c23aeb5e3e02085": 0.0,
+            "evidence_335959caa72ba90f8c0f": 0.0,
+            "evidence_e681da908789a30e924d": 0.01,
+            "evidence_1325231aad8b15fcdc24": 0.0
+          },
+          "confidence": 0.66
+        },
+        "competitor_basis__spendwise_cloud": {
+          "type": "choice",
+          "choice": "no_indication",
+          "probabilities": {
+            "no_indication": 0.71,
+            "distinct_entity": 0.21,
+            "likely_alias": 0.0,
+            "plausible_partial": 0.07,
+            "insufficient_identity": 0.01
+          },
+          "confidence": 0.65
+        },
+        "competitor_evidence__spendwise_cloud": {
+          "type": "choice",
+          "choice": "none",
+          "probabilities": {
+            "evidence_7029d1c7793a8560d2a4": 0.0,
+            "evidence_2afc1ec884951152e84c": 0.0,
+            "evidence_09f17a6b952edef9dd3d": 0.0,
+            "evidence_6133166e81295a639749": 0.0,
+            "evidence_d27f78a9cccf71ddd82d": 0.0,
+            "evidence_4716cec3032eb0be05eb": 0.0,
+            "evidence_3ca90bd27a946d4f33f0": 0.0,
+            "evidence_4ce45b9ced0ab18f45da": 0.01,
+            "none": 0.71,
+            "evidence_d018ca60d7cad95682d4": 0.0,
+            "evidence_88bb45475878b208d1b9": 0.0,
+            "submitted_name": 0.1,
+            "evidence_e2d431fb1096d5c55006": 0.0,
+            "evidence_ea1b70f41342b2fe4fff": 0.01,
+            "evidence_54e53e03a2d7861b8978": 0.01,
+            "evidence_82f3e5b685565c36c79f": 0.03,
+            "evidence_372f834f5f418fafeeff": 0.01,
+            "evidence_d055a3e89201b1f92668": 0.12,
+            "evidence_3e82462da31de8292461": 0.0,
+            "evidence_baceff8d4951defd0ebf": 0.0,
+            "evidence_1325231aad8b15fcdc24": 0.0,
+            "evidence_81368c23aeb5e3e02085": 0.0,
+            "evidence_335959caa72ba90f8c0f": 0.0,
+            "evidence_e681da908789a30e924d": 0.0
+          },
+          "confidence": 0.68
+        },
+        "competitor_basis__rightsize_cloud_co": {
+          "type": "choice",
+          "choice": "no_indication",
+          "probabilities": {
+            "no_indication": 0.7,
+            "plausible_partial": 0.1,
+            "likely_alias": 0.0,
+            "distinct_entity": 0.19,
+            "insufficient_identity": 0.01
+          },
+          "confidence": 0.63
+        },
+        "competitor_evidence__rightsize_cloud_co": {
+          "type": "choice",
+          "choice": "none",
+          "probabilities": {
+            "evidence_7029d1c7793a8560d2a4": 0.0,
+            "evidence_2afc1ec884951152e84c": 0.01,
+            "evidence_09f17a6b952edef9dd3d": 0.01,
+            "evidence_6133166e81295a639749": 0.0,
+            "evidence_d27f78a9cccf71ddd82d": 0.0,
+            "evidence_4716cec3032eb0be05eb": 0.0,
+            "evidence_3ca90bd27a946d4f33f0": 0.0,
+            "evidence_4ce45b9ced0ab18f45da": 0.0,
+            "none": 0.71,
+            "evidence_d018ca60d7cad95682d4": 0.0,
+            "evidence_88bb45475878b208d1b9": 0.0,
+            "submitted_name": 0.12,
+            "evidence_e2d431fb1096d5c55006": 0.0,
+            "evidence_ea1b70f41342b2fe4fff": 0.0,
+            "evidence_54e53e03a2d7861b8978": 0.0,
+            "evidence_82f3e5b685565c36c79f": 0.01,
+            "evidence_372f834f5f418fafeeff": 0.0,
+            "evidence_d055a3e89201b1f92668": 0.12,
+            "evidence_3e82462da31de8292461": 0.0,
+            "evidence_baceff8d4951defd0ebf": 0.02,
+            "evidence_1325231aad8b15fcdc24": 0.0,
+            "evidence_335959caa72ba90f8c0f": 0.0,
+            "evidence_81368c23aeb5e3e02085": 0.0,
+            "evidence_e681da908789a30e924d": 0.0
+          },
+          "confidence": 0.68
+        }
+      },
+      "claim_support": {
+        "identity": "supported",
+        "business_description": "supported",
+        "employee_count_band": "supported",
+        "proposed_cloud_category": "supported",
+        "cloud_signal_0": "supported",
+        "cloud_signal_1": "supported",
+        "cloud_signal_2": "supported",
+        "cloud_signal_3": "supported"
+      },
+      "claim_confidence": {
+        "identity": 1.0,
+        "business_description": 1.0,
+        "employee_count_band": 1.0,
+        "proposed_cloud_category": 0.99,
+        "cloud_signal_0": 1.0,
+        "cloud_signal_1": 0.92,
+        "cloud_signal_2": 1.0,
+        "cloud_signal_3": 1.0
+      },
+      "employee_count_category": "unknown",
+      "employee_count_confidence": 1.0,
+      "cloud_category": "digital_product",
+      "cloud_confidence": 0.63,
+      "competitor_basis": {
+        "cloudtrim_inc": "no_indication",
+        "spendwise_cloud": "no_indication",
+        "rightsize_cloud_co": "no_indication"
+      },
+      "competitor_evidence": {
+        "cloudtrim_inc": "none",
+        "spendwise_cloud": "none",
+        "rightsize_cloud_co": "none"
+      },
+      "competitor_confidence": {
+        "cloudtrim_inc": 0.4,
+        "spendwise_cloud": 0.65,
+        "rightsize_cloud_co": 0.63
+      },
+      "compliance_follow_up": "jurisdiction",
+      "follow_up_confidence": 0.93,
+      "summary_support": [
+        "supported",
+        "supported"
+      ],
+      "summary_confidence": [
+        1.0,
+        1.0
+      ],
+      "validation_errors": []
+    },
+    {
+      "requested_model": "jev-latest",
+      "resolved_model": "jev-1.13.0",
+      "raw_answers": {
+        "claim__identity": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "claim__business_description": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "claim__employee_count_band": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 0.99
+        },
+        "claim__proposed_cloud_category": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 0.93,
+            "insufficient": 0.07,
+            "contradicted": 0.0
+          },
+          "confidence": 0.89
+        },
+        "claim__jurisdiction_0": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "claim__jurisdiction_1": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "claim__jurisdiction_2": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "insufficient": 0.08,
+            "supported": 0.9,
+            "contradicted": 0.02
+          },
+          "confidence": 0.85
+        },
+        "claim__cloud_signal_0": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "insufficient": 0.0,
+            "supported": 1.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "claim__cloud_signal_1": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 0.92,
+            "insufficient": 0.08,
+            "contradicted": 0.0
+          },
+          "confidence": 0.87
+        },
+        "claim__cloud_signal_2": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 0.99
+        },
+        "summary__0": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 1.0,
+            "insufficient": 0.0,
+            "contradicted": 0.0
+          },
+          "confidence": 1.0
+        },
+        "summary__1": {
+          "type": "choice",
+          "choice": "supported",
+          "probabilities": {
+            "supported": 0.88,
+            "insufficient": 0.11,
+            "contradicted": 0.01
+          },
+          "confidence": 0.83
+        },
+        "employee_count_category": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "unknown": 1.0,
+            "conflicting": 0.0,
+            "201+": 0.0,
+            "11-50": 0.0,
+            "51-200": 0.0,
+            "1-10": 0.0
+          },
+          "confidence": 1.0
+        },
+        "cloud_category": {
+          "type": "choice",
+          "choice": "substantial_cloud",
+          "probabilities": {
+            "substantial_cloud": 0.97,
+            "minimal": 0.0,
+            "unknown": 0.01,
+            "digital_product": 0.01,
+            "production_cloud": 0.01,
+            "conflicting": 0.0
+          },
+          "confidence": 0.96
+        },
+        "compliance_follow_up": {
+          "type": "choice",
+          "choice": "jurisdiction",
+          "probabilities": {
+            "cloudtrim_inc": 0.02,
+            "rightsize_cloud_co": 0.0,
+            "none": 0.12,
+            "jurisdiction": 0.86,
+            "spendwise_cloud": 0.0
+          },
+          "confidence": 0.82
+        },
+        "competitor_basis__cloudtrim_inc": {
+          "type": "choice",
+          "choice": "no_indication",
+          "probabilities": {
+            "insufficient_identity": 0.0,
+            "likely_alias": 0.0,
+            "no_indication": 0.47,
+            "plausible_partial": 0.19,
+            "distinct_entity": 0.34
+          },
+          "confidence": 0.34
+        },
+        "competitor_evidence__cloudtrim_inc": {
+          "type": "choice",
+          "choice": "none",
+          "probabilities": {
+            "evidence_372f834f5f418fafeeff": 0.0,
+            "evidence_9649cc738f015bef710f": 0.0,
+            "evidence_82f3e5b685565c36c79f": 0.0,
+            "evidence_87b15c32070e02626dcf": 0.0,
+            "evidence_b32badbfba65f7efcf8d": 0.0,
+            "evidence_ea1b70f41342b2fe4fff": 0.0,
+            "evidence_3e82462da31de8292461": 0.0,
+            "evidence_e2d431fb1096d5c55006": 0.0,
+            "evidence_bfa55395333215b0b94a": 0.01,
+            "evidence_d055a3e89201b1f92668": 0.19,
+            "evidence_4716cec3032eb0be05eb": 0.0,
+            "none": 0.54,
+            "evidence_88bb45475878b208d1b9": 0.0,
+            "evidence_09f17a6b952edef9dd3d": 0.04,
+            "evidence_e681da908789a30e924d": 0.01,
+            "submitted_name": 0.2,
+            "evidence_baceff8d4951defd0ebf": 0.0,
+            "evidence_81368c23aeb5e3e02085": 0.0,
+            "evidence_22225eb013fc43f127b2": 0.0,
+            "evidence_54e53e03a2d7861b8978": 0.0,
+            "evidence_3ca90bd27a946d4f33f0": 0.0,
+            "evidence_30a489bc2079a4e12e4d": 0.0,
+            "evidence_d27f78a9cccf71ddd82d": 0.0,
+            "evidence_7029d1c7793a8560d2a4": 0.0,
+            "evidence_4ce45b9ced0ab18f45da": 0.0,
+            "evidence_6133166e81295a639749": 0.0,
+            "evidence_1325231aad8b15fcdc24": 0.0,
+            "evidence_d018ca60d7cad95682d4": 0.0,
+            "evidence_2afc1ec884951152e84c": 0.0,
+            "evidence_335959caa72ba90f8c0f": 0.0
+          },
+          "confidence": 0.52
+        },
+        "competitor_basis__spendwise_cloud": {
+          "type": "choice",
+          "choice": "no_indication",
+          "probabilities": {
+            "insufficient_identity": 0.0,
+            "likely_alias": 0.0,
+            "no_indication": 0.71,
+            "plausible_partial": 0.07,
+            "distinct_entity": 0.22
+          },
+          "confidence": 0.64
+        },
+        "competitor_evidence__spendwise_cloud": {
+          "type": "choice",
+          "choice": "none",
+          "probabilities": {
+            "evidence_372f834f5f418fafeeff": 0.01,
+            "evidence_9649cc738f015bef710f": 0.0,
+            "evidence_82f3e5b685565c36c79f": 0.0,
+            "evidence_87b15c32070e02626dcf": 0.0,
+            "evidence_ea1b70f41342b2fe4fff": 0.01,
+            "evidence_b32badbfba65f7efcf8d": 0.0,
+            "evidence_d055a3e89201b1f92668": 0.18,
+            "evidence_e2d431fb1096d5c55006": 0.0,
+            "evidence_bfa55395333215b0b94a": 0.03,
+            "evidence_3e82462da31de8292461": 0.01,
+            "submitted_name": 0.17,
+            "none": 0.56,
+            "evidence_baceff8d4951defd0ebf": 0.0,
+            "evidence_09f17a6b952edef9dd3d": 0.01,
+            "evidence_4716cec3032eb0be05eb": 0.0,
+            "evidence_e681da908789a30e924d": 0.01,
+            "evidence_88bb45475878b208d1b9": 0.0,
+            "evidence_81368c23aeb5e3e02085": 0.0,
+            "evidence_22225eb013fc43f127b2": 0.0,
+            "evidence_54e53e03a2d7861b8978": 0.0,
+            "evidence_3ca90bd27a946d4f33f0": 0.0,
+            "evidence_30a489bc2079a4e12e4d": 0.0,
+            "evidence_d27f78a9cccf71ddd82d": 0.0,
+            "evidence_7029d1c7793a8560d2a4": 0.0,
+            "evidence_6133166e81295a639749": 0.0,
+            "evidence_1325231aad8b15fcdc24": 0.0,
+            "evidence_4ce45b9ced0ab18f45da": 0.0,
+            "evidence_d018ca60d7cad95682d4": 0.0,
+            "evidence_2afc1ec884951152e84c": 0.0,
+            "evidence_335959caa72ba90f8c0f": 0.0
+          },
+          "confidence": 0.53
+        },
+        "competitor_basis__rightsize_cloud_co": {
+          "type": "choice",
+          "choice": "no_indication",
+          "probabilities": {
+            "insufficient_identity": 0.0,
+            "distinct_entity": 0.25,
+            "no_indication": 0.64,
+            "plausible_partial": 0.11,
+            "likely_alias": 0.0
+          },
+          "confidence": 0.55
+        },
+        "competitor_evidence__rightsize_cloud_co": {
+          "type": "choice",
+          "choice": "none",
+          "probabilities": {
+            "evidence_372f834f5f418fafeeff": 0.0,
+            "evidence_9649cc738f015bef710f": 0.0,
+            "evidence_82f3e5b685565c36c79f": 0.0,
+            "evidence_87b15c32070e02626dcf": 0.0,
+            "evidence_ea1b70f41342b2fe4fff": 0.0,
+            "evidence_b32badbfba65f7efcf8d": 0.0,
+            "evidence_d055a3e89201b1f92668": 0.19,
+            "evidence_e2d431fb1096d5c55006": 0.0,
+            "evidence_bfa55395333215b0b94a": 0.01,
+            "evidence_3e82462da31de8292461": 0.0,
+            "evidence_88bb45475878b208d1b9": 0.0,
+            "none": 0.63,
+            "evidence_e681da908789a30e924d": 0.02,
+            "evidence_09f17a6b952edef9dd3d": 0.01,
+            "evidence_baceff8d4951defd0ebf": 0.0,
+            "evidence_4716cec3032eb0be05eb": 0.0,
+            "submitted_name": 0.13,
+            "evidence_81368c23aeb5e3e02085": 0.0,
+            "evidence_22225eb013fc43f127b2": 0.0,
+            "evidence_54e53e03a2d7861b8978": 0.0,
+            "evidence_3ca90bd27a946d4f33f0": 0.0,
+            "evidence_30a489bc2079a4e12e4d": 0.0,
+            "evidence_d27f78a9cccf71ddd82d": 0.0,
+            "evidence_7029d1c7793a8560d2a4": 0.0,
+            "evidence_6133166e81295a639749": 0.0,
+            "evidence_1325231aad8b15fcdc24": 0.0,
+            "evidence_4ce45b9ced0ab18f45da": 0.0,
+            "evidence_d018ca60d7cad95682d4": 0.0,
+            "evidence_2afc1ec884951152e84c": 0.01,
+            "evidence_335959caa72ba90f8c0f": 0.0
+          },
+          "confidence": 0.61
+        }
+      },
+      "claim_support": {
+        "identity": "supported",
+        "business_description": "supported",
+        "employee_count_band": "supported",
+        "proposed_cloud_category": "supported",
+        "jurisdiction_0": "supported",
+        "jurisdiction_1": "supported",
+        "jurisdiction_2": "supported",
+        "cloud_signal_0": "supported",
+        "cloud_signal_1": "supported",
+        "cloud_signal_2": "supported"
+      },
+      "claim_confidence": {
+        "identity": 1.0,
+        "business_description": 1.0,
+        "employee_count_band": 0.99,
+        "proposed_cloud_category": 0.89,
+        "jurisdiction_0": 1.0,
+        "jurisdiction_1": 1.0,
+        "jurisdiction_2": 0.85,
+        "cloud_signal_0": 1.0,
+        "cloud_signal_1": 0.87,
+        "cloud_signal_2": 0.99
+      },
+      "employee_count_category": "unknown",
+      "employee_count_confidence": 1.0,
+      "cloud_category": "substantial_cloud",
+      "cloud_confidence": 0.96,
+      "competitor_basis": {
+        "cloudtrim_inc": "no_indication",
+        "spendwise_cloud": "no_indication",
+        "rightsize_cloud_co": "no_indication"
+      },
+      "competitor_evidence": {
+        "cloudtrim_inc": "none",
+        "spendwise_cloud": "none",
+        "rightsize_cloud_co": "none"
+      },
+      "competitor_confidence": {
+        "cloudtrim_inc": 0.34,
+        "spendwise_cloud": 0.53,
+        "rightsize_cloud_co": 0.55
+      },
+      "compliance_follow_up": "jurisdiction",
+      "follow_up_confidence": 0.82,
+      "summary_support": [
+        "supported",
+        "supported"
+      ],
+      "summary_confidence": [
+        1.0,
+        0.83
+      ],
+      "validation_errors": []
+    }
+  ]
+}

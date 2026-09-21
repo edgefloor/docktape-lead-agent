@@ -1,0 +1,24 @@
+{
+  "original": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": "51-200"
+  },
+  "validated": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": "51-200"
+  },
+  "normalized": {
+    "name": "public company demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "bitrise",
+    "website_hostname": "bitrise.io",
+    "employee_count_band": "51-200"
+  },
+  "lead_id": "0bf3ed2fc57cb664e9b77bb6"
+}

@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Sales ready
+Company: Bitrise
+Fit: 90 (Complete)
+
+Summary
+Bitrise provides a substantial cloud-based mobile DevOps and CI/CD platform, with managed build infrastructure, dedicated Apple silicon and Linux machines, and integrations with public, private, and on-premises infrastructure. Bitrise is adjacent to cloud cost optimization and FinOps rather than a competing service because the evidence describes application CI/CD and mobile DevOps products, not cloud cost visibility, waste detection, rightsizing, or spend optimization.
+
+Compliance
+Clear
+All competitor and country checks cleared under the exercise policy.

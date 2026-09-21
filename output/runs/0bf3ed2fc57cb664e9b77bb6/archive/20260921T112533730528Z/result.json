@@ -1,0 +1,222 @@
+{
+  "lead_id": "0bf3ed2fc57cb664e9b77bb6",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": null
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io"
+  },
+  "accepted_profile": {
+    "identity": {
+      "value": "Bitrise",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_1935a00999547c844697",
+        "evidence_9917f03b93354239c0a4"
+      ]
+    },
+    "observed_aliases": [],
+    "business_description": {
+      "value": "Bitrise provides a mobile DevOps and CI/CD platform for building, testing, deploying, and managing iOS, Android, and cross-platform mobile applications.",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_1935a00999547c844697",
+        "evidence_a6cf7cf50fe257cddf2c"
+      ]
+    },
+    "jurisdictions": [
+      {
+        "entity_name": "Bitrise Limited",
+        "country": "GB",
+        "role": "registered_jurisdiction",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_abae5cf89d2d02848d0b"
+        ]
+      },
+      {
+        "entity_name": "Bitrise Limited",
+        "country": "GB",
+        "role": "contracting_entity",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_abae5cf89d2d02848d0b"
+        ]
+      },
+      {
+        "entity_name": "Bitrise, Inc.",
+        "country": "US",
+        "role": "office",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_9917f03b93354239c0a4"
+        ]
+      },
+      {
+        "entity_name": "Bitrise Limited",
+        "country": "GB",
+        "role": "office",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_9917f03b93354239c0a4"
+        ]
+      },
+      {
+        "entity_name": "Bitrise Limited",
+        "country": "HU",
+        "role": "office",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_9917f03b93354239c0a4"
+        ]
+      }
+    ],
+    "employee_count_band": {
+      "value": "unknown",
+      "support_type": "unknown",
+      "evidence_ids": []
+    },
+    "cloud_signals": [
+      {
+        "value": "Bitrise offers a fully managed, cloud-based build infrastructure for mobile CI/CD.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_8308e92eb55186e83655",
+          "evidence_0d3e74d38cbddb60bf20"
+        ]
+      },
+      {
+        "value": "Bitrise operates build infrastructure involving Google Cloud, virtual machines, dynamic scaling, and a large Mac cloud for iOS builds.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_a6cf7cf50fe257cddf2c"
+        ]
+      },
+      {
+        "value": "Bitrise supports execution on customer cloud or on-premises infrastructure through Bitrise Runners.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_1f29215938299643a54f"
+        ]
+      },
+      {
+        "value": "Bitrise provides managed mobile build, release-management, caching, and deployment services.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_1935a00999547c844697"
+        ]
+      }
+    ],
+    "proposed_cloud_category": {
+      "value": "substantial_cloud",
+      "support_type": "inferred",
+      "evidence_ids": [
+        "evidence_1935a00999547c844697",
+        "evidence_a6cf7cf50fe257cddf2c",
+        "evidence_8308e92eb55186e83655"
+      ]
+    },
+    "missing_facts": [
+      "Current employee count is not established; the available employee evidence states that Bitrise had nearly 100 employees in 2020.",
+      "Operational headquarters is not established; the company describes itself as remote-first.",
+      "Ultimate parent ownership is not established."
+    ],
+    "conflicts": [],
+    "sales_summary": [
+      {
+        "text": "Bitrise is a mobile DevOps platform offering managed CI/CD, build infrastructure, release management, build caching, and related services for mobile application teams.",
+        "evidence_ids": [
+          "evidence_1935a00999547c844697",
+          "evidence_8308e92eb55186e83655"
+        ]
+      },
+      {
+        "text": "The company identifies Bitrise Limited, incorporated and registered in England and Wales, as Bitrise and lists offices or locations in the United Kingdom, United States, and Hungary.",
+        "evidence_ids": [
+          "evidence_abae5cf89d2d02848d0b",
+          "evidence_9917f03b93354239c0a4"
+        ]
+      }
+    ]
+  },
+  "fit": {
+    "employee_points": null,
+    "cloud_points": 60,
+    "score": 60,
+    "score_status": "provisional",
+    "rationale": "employee count: unknown; cloud demand: 60 points."
+  },
+  "compliance_checks": [
+    {
+      "kind": "competitor",
+      "policy_entry": "CloudTrim Inc",
+      "outcome": "clear",
+      "reason": "No supported competitor match to CloudTrim Inc. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "SpendWise Cloud",
+      "outcome": "clear",
+      "reason": "No supported competitor match to SpendWise Cloud. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "RightSize Cloud Co",
+      "outcome": "clear",
+      "reason": "No supported competitor match to RightSize Cloud Co. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "country",
+      "policy_entry": "exercise_country_set",
+      "outcome": "clear",
+      "reason": "Verified relevant jurisdictions (GB) are outside the policy-listed country set. Multiple international offices are context only.",
+      "evidence_id": "evidence_abae5cf89d2d02848d0b"
+    }
+  ],
+  "compliance_outcome": "clear",
+  "final_status": "review_required",
+  "summary": "Bitrise is a mobile DevOps platform offering managed CI/CD, build infrastructure, release management, build caching, and related services for mobile application teams. The company identifies Bitrise Limited, incorporated and registered in England and Wales, as Bitrise and lists offices or locations in the United Kingdom, United States, and Hungary.",
+  "evidence_references": [
+    "https://bitrise.io/",
+    "https://bitrise.io/about",
+    "https://en.wikipedia.org/wiki/Bitrise",
+    "https://pitchbook.com/profiles/company/103930-84",
+    "https://leadiq.com/c/bitrise/5a1db8ae2300005b00b4d7fb",
+    "https://bitrise.io/legal/terms-of-service",
+    "https://bitrise.io/legal/partner-contributor-terms",
+    "https://www.linkedin.com/in/louis-husney-b56a72a",
+    "https://www.govinfo.gov/content/pkg/FR-1974-08-12/pdf/FR-1974-08-12.pdf",
+    "https://documents1.worldbank.org/curated/en/640021585934004225/pdf/Fintech-in-Europe-and-Central-Asia-Maximizing-Benefits-and-Managing-Risks.pdf",
+    "https://bitrise.io/platform/build-platform/bitrise-build-platform",
+    "https://bitrise.io/blog/post/infrastructure-engineering-interju",
+    "https://bitrise.io/platform/devops/build-platform",
+    "https://bitrise.io/platform/build-platform/bitrise-runners",
+    "https://bitrise.io",
+    "https://docs.bitrise.io/en/bitrise-platform/infrastructure/build-machines/build-machine-types.html",
+    "https://go.bitrise.io/terms-of-service",
+    "https://www.sec.gov/Archives/edgar/data/1872302/000119312522192378/d33263d424b4.htm",
+    "https://circleci.com/legal/terms-of-service/",
+    "https://www.octalsoftware.com/react-native-app-development"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": "gpt-5.6-luna",
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": "jev-1.13.0",
+  "warnings": [],
+  "errors": [],
+  "synthetic": false,
+  "processed_at": "2026-09-21T10:59:28.156048Z",
+  "processing_seconds": 41.239,
+  "notification_status": "sent"
+}

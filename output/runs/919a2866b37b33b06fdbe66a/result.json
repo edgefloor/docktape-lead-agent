@@ -1,0 +1,234 @@
+{
+  "lead_id": "919a2866b37b33b06fdbe66a",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "qovery-demo@example.invalid",
+    "company_name": "Qovery",
+    "website": "https://www.qovery.com",
+    "employee_count_band": "unknown"
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "qovery-demo@example.invalid",
+    "company_name": "Qovery",
+    "website": "https://www.qovery.com",
+    "employee_count_band": "unknown"
+  },
+  "accepted_profile": {
+    "identity": {
+      "value": "Qovery",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_bcace5d767f8944d13d8",
+        "evidence_fcfaa5919cbb160b6dc4"
+      ]
+    },
+    "observed_aliases": [],
+    "business_description": {
+      "value": "Qovery provides a self-service infrastructure platform and production-grade Kubernetes platform for deploying, provisioning, and operating applications and AI workloads in customers' own cloud accounts.",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_bcace5d767f8944d13d8",
+        "evidence_fcfaa5919cbb160b6dc4",
+        "evidence_d1d996c34f2fb217d6df",
+        "evidence_5995c572099ef29ee322"
+      ]
+    },
+    "jurisdictions": [
+      {
+        "entity_name": "Qovery",
+        "country": "FR",
+        "role": "operational_headquarters",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_bcace5d767f8944d13d8"
+        ]
+      },
+      {
+        "entity_name": "BIRDSIGHT (Qovery)",
+        "country": "FR",
+        "role": "registered_jurisdiction",
+        "support_type": "inferred",
+        "evidence_ids": [
+          "evidence_bcace5d767f8944d13d8"
+        ]
+      }
+    ],
+    "employee_count_band": {
+      "value": "11-50",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_bcace5d767f8944d13d8"
+      ]
+    },
+    "cloud_signals": [
+      {
+        "value": "Qovery's platform runs in customers' own cloud accounts and VPCs, including AWS, GCP, Azure, and other providers.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_fcfaa5919cbb160b6dc4",
+          "evidence_5995c572099ef29ee322"
+        ]
+      },
+      {
+        "value": "Qovery provisions and manages Kubernetes clusters, cloud resources, networking, IAM, encryption, autoscaling, upgrades, patches, and day-2 operations.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_5995c572099ef29ee322"
+        ]
+      },
+      {
+        "value": "Qovery provides deployment pipelines, preview environments, rollbacks, deployment logs, Terraform integration, and AI-agent infrastructure controls.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_d1d996c34f2fb217d6df",
+          "evidence_fcfaa5919cbb160b6dc4"
+        ]
+      }
+    ],
+    "proposed_cloud_category": {
+      "value": "unknown",
+      "support_type": "unknown",
+      "evidence_ids": []
+    },
+    "competitive_overlap": {
+      "value": "adjacent_service",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_d1d996c34f2fb217d6df",
+        "evidence_5995c572099ef29ee322"
+      ]
+    },
+    "missing_facts": [
+      "The exact registered legal entity name and registration details were not established.",
+      "The contracting entity was not established.",
+      "The ultimate parent company was not established.",
+      "The exact employee count was not established."
+    ],
+    "conflicts": [],
+    "sales_summary": [
+      {
+        "text": "Qovery sells a production-grade infrastructure platform for Kubernetes provisioning, application deployment, and day-2 cloud operations, primarily in customers' own cloud accounts.",
+        "evidence_ids": [
+          "evidence_bcace5d767f8944d13d8",
+          "evidence_fcfaa5919cbb160b6dc4",
+          "evidence_d1d996c34f2fb217d6df",
+          "evidence_5995c572099ef29ee322"
+        ]
+      },
+      {
+        "text": "Its offering is adjacent to cloud cost optimization and FinOps through general infrastructure provisioning and application deployment, but the evidence does not show core FinOps capabilities such as spend optimization, rightsizing, or commitment optimization.",
+        "evidence_ids": [
+          "evidence_d1d996c34f2fb217d6df",
+          "evidence_5995c572099ef29ee322"
+        ]
+      },
+      {
+        "text": "Qovery reports more than 200 organizations and a team of more than 40 members across Europe and North America.",
+        "evidence_ids": [
+          "evidence_bcace5d767f8944d13d8"
+        ]
+      }
+    ]
+  },
+  "fit": {
+    "employee_points": 15,
+    "cloud_points": null,
+    "score": 15,
+    "score_status": "provisional",
+    "rationale": "employee count: 15 points; cloud demand: unknown."
+  },
+  "compliance_checks": [
+    {
+      "kind": "competitor",
+      "policy_entry": "CloudTrim Inc",
+      "outcome": "clear",
+      "reason": "No supported competitor match to CloudTrim Inc. Basis: no_indication.",
+      "evidence_id": null,
+      "details": {
+        "basis": "no_indication",
+        "confidence": 0.43,
+        "evidence_selection": "none"
+      }
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "SpendWise Cloud",
+      "outcome": "clear",
+      "reason": "No supported competitor match to SpendWise Cloud. Basis: distinct_entity.",
+      "evidence_id": null,
+      "details": {
+        "basis": "distinct_entity",
+        "confidence": 0.33,
+        "evidence_selection": "none"
+      }
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "RightSize Cloud Co",
+      "outcome": "clear",
+      "reason": "No supported competitor match to RightSize Cloud Co. Basis: distinct_entity.",
+      "evidence_id": null,
+      "details": {
+        "basis": "distinct_entity",
+        "confidence": 0.4,
+        "evidence_selection": "none"
+      }
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "competitive_scope",
+      "outcome": "clear",
+      "reason": "Both reviewers classified the company outside the Cloud cost optimization and FinOps competitive scope (OpenAI: adjacent_service; Jev overlap: 0.97/3.00; non-material-overlap probability: 1.00).",
+      "evidence_id": "evidence_d1d996c34f2fb217d6df",
+      "details": {
+        "openai_classification": "adjacent_service",
+        "jev_score": 0.97,
+        "jev_confidence": 0.96,
+        "material_overlap_probability": 0.0,
+        "non_material_overlap_probability": 1.0,
+        "score_threshold": 2.0,
+        "decision_probability_threshold": 0.8
+      }
+    },
+    {
+      "kind": "country",
+      "policy_entry": "exercise_country_set",
+      "outcome": "clear",
+      "reason": "Verified relevant jurisdictions (FR) are outside the policy-listed country set.",
+      "evidence_id": "evidence_bcace5d767f8944d13d8",
+      "details": {}
+    }
+  ],
+  "compliance_outcome": "clear",
+  "final_status": "review_required",
+  "summary": "Qovery sells a production-grade infrastructure platform for Kubernetes provisioning, application deployment, and day-2 cloud operations, primarily in customers' own cloud accounts. Its offering is adjacent to cloud cost optimization and FinOps through general infrastructure provisioning and application deployment, but the evidence does not show core FinOps capabilities such as spend optimization, rightsizing, or commitment optimization. Qovery reports more than 200 organizations and a team of more than 40 members across Europe and North America.",
+  "evidence_references": [
+    "https://www.qovery.com/",
+    "https://www.qovery.com/about",
+    "https://www.qovery.com/talk-with-us",
+    "https://pitchbook.com/profiles/company/398937-25",
+    "https://www.qovery.com/guides",
+    "https://www.qovery.com/terms",
+    "https://altlibre.com/papers/your-ai-answers-to-a-foreign-government",
+    "https://www.zenml.io/llmops-tags/multi-agent-systems",
+    "https://stonetusker.com/newsletters/",
+    "https://www.datanyze.com/companies/qovery/481289896",
+    "https://www.qovery.com/solutions/platform-engineers",
+    "https://www.qovery.com/blog/the-fastest-way-to-k8s",
+    "https://www.qovery.com",
+    "https://www.qovery.com/product/deploy",
+    "https://www.qovery.com/product/provision"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": "gpt-5.6-luna",
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": "jev-1.13.0",
+  "warnings": [],
+  "errors": [],
+  "synthetic": false,
+  "processed_at": "2026-09-21T13:17:39.410544Z",
+  "processing_seconds": 36.375,
+  "notification_status": "sent"
+}

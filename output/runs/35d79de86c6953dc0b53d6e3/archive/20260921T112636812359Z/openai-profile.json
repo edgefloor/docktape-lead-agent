@@ -1,0 +1,228 @@
+{
+  "attempts": [
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Holori",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_82f3e5b685565c36c79f",
+            "evidence_d055a3e89201b1f92668"
+          ]
+        },
+        "observed_aliases": [
+          "HOLORI",
+          "Holori"
+        ],
+        "business_description": {
+          "value": "Holori provides a FinOps and cloud infrastructure visibility platform for centralizing cloud costs, allocating and optimizing spending, visualizing cloud infrastructure, monitoring infrastructure changes, and automating infrastructure documentation.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_82f3e5b685565c36c79f",
+            "evidence_e2d431fb1096d5c55006",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "jurisdictions": [],
+        "employee_count_band": {
+          "value": "unknown",
+          "support_type": "unknown",
+          "evidence_ids": []
+        },
+        "cloud_signals": [
+          {
+            "value": "Holori offers a hosted software platform accessible through app.holori.com and provides cloud cost management, FinOps, and infrastructure visualization capabilities.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_82f3e5b685565c36c79f"
+            ]
+          },
+          {
+            "value": "Holori connects with customer AWS, GCP, and Azure accounts using read-only access to generate infrastructure diagrams, monitor changes, and display resource configurations and costs.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_e2d431fb1096d5c55006",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          },
+          {
+            "value": "Holori supports centralized cloud cost data from multiple providers, including AWS, Azure, GCP, and Oracle.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_372f834f5f418fafeeff"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "digital_product",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_82f3e5b685565c36c79f",
+            "evidence_e2d431fb1096d5c55006",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "missing_facts": [
+          "Registered legal entity and jurisdiction",
+          "Contracting entity and jurisdiction",
+          "Ultimate parent",
+          "Operational headquarters or office locations",
+          "Employee count",
+          "Details of Holori's own production-cloud infrastructure, hosting providers, and deployment architecture"
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Holori is a FinOps software provider offering cloud cost visibility, allocation, optimization, and infrastructure visualization for engineering and finance teams.",
+            "evidence_ids": [
+              "evidence_82f3e5b685565c36c79f",
+              "evidence_ea1b70f41342b2fe4fff"
+            ]
+          },
+          {
+            "text": "Its platform connects to customer cloud accounts, including AWS, Azure, and GCP, to map infrastructure, monitor changes, and associate costs with cloud resources.",
+            "evidence_ids": [
+              "evidence_e2d431fb1096d5c55006",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Holori SAS",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bfa55395333215b0b94a"
+          ]
+        },
+        "observed_aliases": [
+          "Holori",
+          "HOLORI"
+        ],
+        "business_description": {
+          "value": "Holori is a SaaS FinOps and cloud infrastructure visibility platform that helps organizations centralize, visualize, allocate, monitor, and optimize cloud costs and infrastructure across providers including AWS, Azure, GCP, and Oracle.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_82f3e5b685565c36c79f",
+            "evidence_e2d431fb1096d5c55006",
+            "evidence_372f834f5f418fafeeff",
+            "evidence_bfa55395333215b0b94a"
+          ]
+        },
+        "jurisdictions": [
+          {
+            "entity_name": "Holori SAS",
+            "country": "FR",
+            "role": "registered_jurisdiction",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_bfa55395333215b0b94a"
+            ]
+          },
+          {
+            "entity_name": "Holori SAS",
+            "country": "FR",
+            "role": "contracting_entity",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_bfa55395333215b0b94a"
+            ]
+          },
+          {
+            "entity_name": "Holori SAS",
+            "country": "FR",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_bfa55395333215b0b94a",
+              "evidence_b27d233969329d4c2058"
+            ]
+          }
+        ],
+        "employee_count_band": {
+          "value": "unknown",
+          "support_type": "unknown",
+          "evidence_ids": []
+        },
+        "cloud_signals": [
+          {
+            "value": "Holori provides a SaaS service for managing and optimizing cloud infrastructure across multiple cloud providers.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_bfa55395333215b0b94a"
+            ]
+          },
+          {
+            "value": "The platform connects with read-only access to AWS, GCP, and Azure accounts to generate infrastructure diagrams and monitor resource changes.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_e2d431fb1096d5c55006"
+            ]
+          },
+          {
+            "value": "Holori centralizes cloud costs from multiple providers, provides optimization recommendations, and supports cost allocation and reporting.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_82f3e5b685565c36c79f",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          },
+          {
+            "value": "The service is accessed through Holori web applications, including app.holori.com.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_82f3e5b685565c36c79f"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "production_cloud",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_bfa55395333215b0b94a",
+            "evidence_e2d431fb1096d5c55006",
+            "evidence_82f3e5b685565c36c79f"
+          ]
+        },
+        "missing_facts": [
+          "Employee count was not provided or supported by the evidence.",
+          "Ultimate parent was not identified.",
+          "Operational headquarters was not independently established beyond the registered office address.",
+          "The specific cloud infrastructure, hosting providers, regions, and production architecture used to operate Holori were not established."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Holori is a French SaaS provider offering FinOps, cloud cost management, infrastructure visualization, monitoring, and optimization capabilities for AWS, Azure, GCP, and other cloud environments.",
+            "evidence_ids": [
+              "evidence_bfa55395333215b0b94a",
+              "evidence_e2d431fb1096d5c55006",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          },
+          {
+            "text": "Its platform connects to customer cloud accounts, centralizes billing and usage data, and provides dashboards, diagrams, allocation tools, alerts, and optimization recommendations.",
+            "evidence_ids": [
+              "evidence_82f3e5b685565c36c79f",
+              "evidence_e2d431fb1096d5c55006",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          },
+          {
+            "text": "Holori SAS is identified in its terms as the French contracting entity, with a registered office in Toulouse, France.",
+            "evidence_ids": [
+              "evidence_bfa55395333215b0b94a"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

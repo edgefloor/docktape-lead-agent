@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Review required
+Company: Qovery
+Fit: Unknown (Provisional)
+
+Summary
+Qovery is a France-based office with a reported 40+ person team that sells a production-grade Kubernetes and infrastructure platform for deployment, provisioning, and day-2 operations in customers’ cloud accounts. Its offering is adjacent to cloud cost optimization and FinOps through general infrastructure provisioning and application deployment, but the evidence does not show that Qovery sells core FinOps capabilities.
+
+Compliance
+Review required
+No supported competitor match to CloudTrim Inc. Basis: no_indication. | No supported competitor match to SpendWise Cloud. Basis: no_indication. | No supported competitor match to RightSize Cloud Co. Basis: no_indication. | Both reviewers classified the company outside the Cloud cost optimization and FinOps competitive scope (adjacent_service; adjacent_service). | No verified legal, contracting, parent, or operational-headquarters jurisdiction was established.

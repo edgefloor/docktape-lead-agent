@@ -1,0 +1,105 @@
+{
+  "attempts": [
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Holori",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_f7ead1a0eda82652c18f"
+          ]
+        },
+        "observed_aliases": [
+          "Holori Cloud"
+        ],
+        "business_description": {
+          "value": "Holori sells a FinOps and cloud infrastructure visibility platform that centralizes, visualizes, allocates, monitors, and optimizes cloud costs and infrastructure across major cloud providers.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_f7ead1a0eda82652c18f",
+            "evidence_e2d431fb1096d5c55006",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "jurisdictions": [],
+        "employee_count_band": {
+          "value": "unknown",
+          "support_type": "unknown",
+          "evidence_ids": [
+            "evidence_baceff8d4951defd0ebf"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "The platform connects to AWS, Azure, GCP, and other cloud providers to visualize infrastructure, resource configurations, and costs.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_e2d431fb1096d5c55006",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          },
+          {
+            "value": "Holori provides a hosted application for cloud cost management, infrastructure diagrams, monitoring, reporting, and optimization recommendations.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_f7ead1a0eda82652c18f",
+              "evidence_e2d431fb1096d5c55006"
+            ]
+          },
+          {
+            "value": "Holori states that billing and usage data can remain in the customer's environment while Holori provides insights.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_f7ead1a0eda82652c18f"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "digital_product",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_f7ead1a0eda82652c18f",
+            "evidence_e2d431fb1096d5c55006",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "competitive_overlap": {
+          "value": "competing_service",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_f7ead1a0eda82652c18f",
+            "evidence_ea1b70f41342b2fe4fff",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "missing_facts": [
+          "Registered jurisdiction is not supported by the evidence.",
+          "Contracting legal entity is not supported by the evidence.",
+          "Ultimate parent is not supported by the evidence.",
+          "Operational headquarters or office locations are not supported by the evidence.",
+          "Employee count is not available."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Holori appears to be a cloud FinOps software vendor offering multi-cloud cost visibility, allocation, infrastructure visualization, monitoring, and optimization.",
+            "evidence_ids": [
+              "evidence_f7ead1a0eda82652c18f",
+              "evidence_e2d431fb1096d5c55006",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          },
+          {
+            "text": "Its offering directly overlaps with cloud cost optimization and FinOps capabilities, including spend reporting, cost allocation, waste detection, and optimization recommendations.",
+            "evidence_ids": [
+              "evidence_f7ead1a0eda82652c18f",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

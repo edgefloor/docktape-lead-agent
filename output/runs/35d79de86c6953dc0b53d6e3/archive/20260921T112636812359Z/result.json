@@ -1,0 +1,211 @@
+{
+  "lead_id": "35d79de86c6953dc0b53d6e3",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "Holori",
+    "website": "https://holori.com",
+    "employee_count_band": null
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "Holori",
+    "website": "https://holori.com"
+  },
+  "accepted_profile": {
+    "identity": {
+      "value": "Holori SAS",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_bfa55395333215b0b94a"
+      ]
+    },
+    "observed_aliases": [],
+    "business_description": {
+      "value": "Holori is a SaaS FinOps and cloud infrastructure visibility platform that helps organizations centralize, visualize, allocate, monitor, and optimize cloud costs and infrastructure across providers including AWS, Azure, GCP, and Oracle.",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_82f3e5b685565c36c79f",
+        "evidence_e2d431fb1096d5c55006",
+        "evidence_372f834f5f418fafeeff",
+        "evidence_bfa55395333215b0b94a"
+      ]
+    },
+    "jurisdictions": [
+      {
+        "entity_name": "Holori SAS",
+        "country": "FR",
+        "role": "registered_jurisdiction",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_bfa55395333215b0b94a"
+        ]
+      },
+      {
+        "entity_name": "Holori SAS",
+        "country": "FR",
+        "role": "contracting_entity",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_bfa55395333215b0b94a"
+        ]
+      },
+      {
+        "entity_name": "Holori SAS",
+        "country": "FR",
+        "role": "office",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_bfa55395333215b0b94a",
+          "evidence_b27d233969329d4c2058"
+        ]
+      }
+    ],
+    "employee_count_band": {
+      "value": "unknown",
+      "support_type": "unknown",
+      "evidence_ids": []
+    },
+    "cloud_signals": [
+      {
+        "value": "Holori provides a SaaS service for managing and optimizing cloud infrastructure across multiple cloud providers.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_bfa55395333215b0b94a"
+        ]
+      },
+      {
+        "value": "The platform connects with read-only access to AWS, GCP, and Azure accounts to generate infrastructure diagrams and monitor resource changes.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_e2d431fb1096d5c55006"
+        ]
+      },
+      {
+        "value": "Holori centralizes cloud costs from multiple providers, provides optimization recommendations, and supports cost allocation and reporting.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_82f3e5b685565c36c79f",
+          "evidence_372f834f5f418fafeeff"
+        ]
+      },
+      {
+        "value": "The service is accessed through Holori web applications, including app.holori.com.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_82f3e5b685565c36c79f"
+        ]
+      }
+    ],
+    "proposed_cloud_category": {
+      "value": "unknown",
+      "support_type": "unknown",
+      "evidence_ids": []
+    },
+    "missing_facts": [
+      "Employee count was not provided or supported by the evidence.",
+      "Ultimate parent was not identified.",
+      "Operational headquarters was not independently established beyond the registered office address.",
+      "The specific cloud infrastructure, hosting providers, regions, and production architecture used to operate Holori were not established."
+    ],
+    "conflicts": [],
+    "sales_summary": [
+      {
+        "text": "Holori is a French SaaS provider offering FinOps, cloud cost management, infrastructure visualization, monitoring, and optimization capabilities for AWS, Azure, GCP, and other cloud environments.",
+        "evidence_ids": [
+          "evidence_bfa55395333215b0b94a",
+          "evidence_e2d431fb1096d5c55006",
+          "evidence_372f834f5f418fafeeff"
+        ]
+      },
+      {
+        "text": "Its platform connects to customer cloud accounts, centralizes billing and usage data, and provides dashboards, diagrams, allocation tools, alerts, and optimization recommendations.",
+        "evidence_ids": [
+          "evidence_82f3e5b685565c36c79f",
+          "evidence_e2d431fb1096d5c55006",
+          "evidence_372f834f5f418fafeeff"
+        ]
+      },
+      {
+        "text": "Holori SAS is identified in its terms as the French contracting entity, with a registered office in Toulouse, France.",
+        "evidence_ids": [
+          "evidence_bfa55395333215b0b94a"
+        ]
+      }
+    ]
+  },
+  "fit": {
+    "employee_points": null,
+    "cloud_points": null,
+    "score": null,
+    "score_status": "provisional",
+    "rationale": "employee count: unknown; cloud demand: unknown."
+  },
+  "compliance_checks": [
+    {
+      "kind": "competitor",
+      "policy_entry": "CloudTrim Inc",
+      "outcome": "clear",
+      "reason": "No supported competitor match to CloudTrim Inc. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "SpendWise Cloud",
+      "outcome": "clear",
+      "reason": "No supported competitor match to SpendWise Cloud. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "RightSize Cloud Co",
+      "outcome": "clear",
+      "reason": "No supported competitor match to RightSize Cloud Co. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "country",
+      "policy_entry": "exercise_country_set",
+      "outcome": "clear",
+      "reason": "Verified relevant jurisdictions (FR) are outside the policy-listed country set.",
+      "evidence_id": "evidence_bfa55395333215b0b94a"
+    }
+  ],
+  "compliance_outcome": "clear",
+  "final_status": "review_required",
+  "summary": "Holori is a French SaaS provider offering FinOps, cloud cost management, infrastructure visualization, monitoring, and optimization capabilities for AWS, Azure, GCP, and other cloud environments. Its platform connects to customer cloud accounts, centralizes billing and usage data, and provides dashboards, diagrams, allocation tools, alerts, and optimization recommendations. Holori SAS is identified in its terms as the French contracting entity, with a registered office in Toulouse, France.",
+  "evidence_references": [
+    "https://holori.com/",
+    "https://holori.com/contact/",
+    "https://www.linkedin.com/company/holori-cloud",
+    "https://holori.com/holori-finops-tool/",
+    "https://doc.holori.com/",
+    "https://holori.com/terms-of-use/",
+    "https://annuaire-entreprises.data.gouv.fr/entreprise/holori-holori-904828134",
+    "https://www.dnb.com/business-directory/company-profiles.holori.43937de4593f198a4662e9adc2afafa6.html",
+    "https://www.pappers.fr/entreprise/holori-904828134",
+    "https://www.datanyze.com/companies/holori/1162366060",
+    "https://holori.com/infrastructureview/",
+    "https://holori.com/cloud-diagrams/",
+    "https://holori.com/the-10-best-cloud-management-platforms-in-2026/",
+    "https://holori.com",
+    "https://dokumen.pub/serverless-computing-principles-and-paradigms-3031266323-9783031266324.html",
+    "https://pacificcitizen.org/wp-content/uploads/archives-menu/Vol.103_%2319_Nov_07_1986.pdf",
+    "https://www.facebook.com/groups/521076129792255/posts/1033011211932075/",
+    "https://www.inyocounty.us/sites/default/files/2023-05/20230516AgendaPacket.pdf"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": "gpt-5.6-luna",
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": "jev-1.13.0",
+  "warnings": [
+    "Page fetch failed for https://app.holori.com/: HTTPStatusError: Server error '500 Internal Server Error' for url 'https://firecrawl.szotyifing.fun/v1/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+  ],
+  "errors": [],
+  "synthetic": false,
+  "processed_at": "2026-09-21T11:03:08.274526Z",
+  "processing_seconds": 52.258,
+  "notification_status": "sent"
+}

@@ -1,0 +1,182 @@
+{
+  "lead_id": "35d79de86c6953dc0b53d6e3",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "Holori",
+    "website": "https://holori.com",
+    "employee_count_band": "unknown"
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "Holori",
+    "website": "https://holori.com",
+    "employee_count_band": "unknown"
+  },
+  "accepted_profile": {
+    "identity": {
+      "value": "Holori",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_d055a3e89201b1f92668",
+        "evidence_82f3e5b685565c36c79f"
+      ]
+    },
+    "observed_aliases": [],
+    "business_description": {
+      "value": "Holori provides a FinOps and cloud infrastructure visibility platform for consolidating, allocating, monitoring, and optimizing cloud costs across providers including AWS, Azure, GCP, and Oracle.",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_82f3e5b685565c36c79f",
+        "evidence_e2d431fb1096d5c55006",
+        "evidence_372f834f5f418fafeeff"
+      ]
+    },
+    "jurisdictions": [],
+    "employee_count_band": {
+      "value": "unknown",
+      "support_type": "self_reported",
+      "evidence_ids": [
+        "evidence_baceff8d4951defd0ebf"
+      ]
+    },
+    "cloud_signals": [
+      {
+        "value": "Holori operates a customer-facing software platform accessible through app.holori.com.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_82f3e5b685565c36c79f"
+        ]
+      },
+      {
+        "value": "The product connects to AWS, Azure, GCP, Oracle, and other cloud providers to visualize infrastructure and consolidate cloud costs.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_372f834f5f418fafeeff",
+          "evidence_e2d431fb1096d5c55006"
+        ]
+      },
+      {
+        "value": "Holori provides cloud infrastructure monitoring, automated documentation, cost dashboards, allocation, and optimization recommendations.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_82f3e5b685565c36c79f",
+          "evidence_e2d431fb1096d5c55006"
+        ]
+      }
+    ],
+    "proposed_cloud_category": {
+      "value": "digital_product",
+      "support_type": "inferred",
+      "evidence_ids": [
+        "evidence_82f3e5b685565c36c79f",
+        "evidence_372f834f5f418fafeeff"
+      ]
+    },
+    "competitive_overlap": {
+      "value": "unknown",
+      "support_type": "unknown",
+      "evidence_ids": []
+    },
+    "missing_facts": [
+      "Registered legal entity and jurisdiction are not supported.",
+      "Contracting entity is not supported.",
+      "Ultimate parent is not supported.",
+      "Operational headquarters and office locations are not supported.",
+      "Employee count is not available beyond the submitted unknown value."
+    ],
+    "conflicts": [],
+    "sales_summary": [
+      {
+        "text": "Holori sells a FinOps platform that provides multi-cloud cost visibility, allocation, reporting, monitoring, and optimization recommendations.",
+        "evidence_ids": [
+          "evidence_82f3e5b685565c36c79f",
+          "evidence_372f834f5f418fafeeff"
+        ]
+      },
+      {
+        "text": "Its product connects to major cloud providers and visualizes infrastructure, configurations, assets, and associated costs.",
+        "evidence_ids": [
+          "evidence_e2d431fb1096d5c55006",
+          "evidence_372f834f5f418fafeeff"
+        ]
+      }
+    ]
+  },
+  "fit": {
+    "employee_points": null,
+    "cloud_points": null,
+    "score": null,
+    "score_status": "provisional",
+    "rationale": "employee count: unknown; cloud demand: unknown."
+  },
+  "compliance_checks": [
+    {
+      "kind": "competitor",
+      "policy_entry": "CloudTrim Inc",
+      "outcome": "clear",
+      "reason": "No supported competitor match to CloudTrim Inc. Basis: distinct_entity.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "SpendWise Cloud",
+      "outcome": "clear",
+      "reason": "No supported competitor match to SpendWise Cloud. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "RightSize Cloud Co",
+      "outcome": "clear",
+      "reason": "No supported competitor match to RightSize Cloud Co. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "competitive_scope",
+      "outcome": "flagged",
+      "reason": "OpenAI and Jev independently identified an unlisted competing service in Cloud cost optimization and FinOps.",
+      "evidence_id": "evidence_82f3e5b685565c36c79f"
+    },
+    {
+      "kind": "country",
+      "policy_entry": "exercise_country_set",
+      "outcome": "review_required",
+      "reason": "No verified legal, contracting, parent, or operational-headquarters jurisdiction was established.",
+      "evidence_id": null
+    }
+  ],
+  "compliance_outcome": "flagged",
+  "final_status": "do_not_engage",
+  "summary": "Holori sells a FinOps platform that provides multi-cloud cost visibility, allocation, reporting, monitoring, and optimization recommendations. Its product connects to major cloud providers and visualizes infrastructure, configurations, assets, and associated costs. 1 proposed summary statement(s) lacked accepted evidence support.",
+  "evidence_references": [
+    "https://holori.com/",
+    "https://doc.holori.com/",
+    "https://www.linkedin.com/company/holori-cloud",
+    "https://holori.com/holori-finops-tool/",
+    "https://holori.com/contact/",
+    "https://holori.com/terms-of-use/",
+    "https://labs.cloudsecurityalliance.org/research/eu-tech-sovereignty-cloud-ai-enterprise-risk-v1-0-csa-styled/",
+    "https://www.inyocounty.us/sites/default/files/2023-05/20230516AgendaPacket.pdf",
+    "https://www.academia.edu/49356917/HISTORY_OF_THE_YEZIDIS_210412_endnotes",
+    "https://holori.com/infrastructureview/",
+    "https://holori.com/cloud-diagrams/",
+    "https://holori.com/the-10-best-cloud-management-platforms-in-2026/",
+    "https://holori.com"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": "gpt-5.6-luna",
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": "jev-1.13.0",
+  "warnings": [
+    "Page fetch failed for https://app.holori.com/: HTTPStatusError: Server error '500 Internal Server Error' for url 'https://firecrawl.szotyifing.fun/v1/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+  ],
+  "errors": [],
+  "synthetic": false,
+  "processed_at": "2026-09-21T11:58:09.681460Z",
+  "processing_seconds": 35.358,
+  "notification_status": "sent"
+}

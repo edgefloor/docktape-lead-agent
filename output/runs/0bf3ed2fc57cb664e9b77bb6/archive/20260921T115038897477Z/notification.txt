@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Review required
+Company: Bitrise
+Fit: 90 (Complete)
+
+Summary
+Bitrise sells a substantial cloud-based mobile DevOps platform, including managed build infrastructure, cloud runners, CI/CD, testing, deployment, and release-management capabilities. Bitrise appears adjacent rather than directly competitive to a cloud cost optimization and FinOps vendor because its supported offerings focus on application CI/CD and mobile DevOps, not cloud spend optimization.
+
+Compliance
+Review required
+The distinct_entity decision for CloudTrim Inc has no supporting evidence basis. | The possible match to SpendWise Cloud has confidence 0.47, below 0.80. Basis: distinct_entity. | The possible match to RightSize Cloud Co has confidence 0.38, below 0.80. Basis: distinct_entity. | Both reviewers classified the company outside the Cloud cost optimization and FinOps competitive scope (adjacent_service; adjacent_service). | No verified legal, contracting, parent, or operational-headquarters jurisdiction was established. | competitor decision lacks a consistent evidence basis: cloudtrim_inc

@@ -1,0 +1,131 @@
+{
+  "attempts": [
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Qovery",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8",
+            "evidence_fcfaa5919cbb160b6dc4"
+          ]
+        },
+        "observed_aliases": [
+          "BIRDSIGHT (Qovery)"
+        ],
+        "business_description": {
+          "value": "Qovery provides a self-service infrastructure platform and production-grade Kubernetes platform for deploying, provisioning, and operating applications and AI workloads in customers' own cloud accounts.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8",
+            "evidence_fcfaa5919cbb160b6dc4",
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "jurisdictions": [
+          {
+            "entity_name": "Qovery",
+            "country": "FR",
+            "role": "operational_headquarters",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8"
+            ]
+          },
+          {
+            "entity_name": "BIRDSIGHT (Qovery)",
+            "country": "FR",
+            "role": "registered_jurisdiction",
+            "support_type": "inferred",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8"
+            ]
+          }
+        ],
+        "employee_count_band": {
+          "value": "11-50",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Qovery's platform runs in customers' own cloud accounts and VPCs, including AWS, GCP, Azure, and other providers.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_fcfaa5919cbb160b6dc4",
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "value": "Qovery provisions and manages Kubernetes clusters, cloud resources, networking, IAM, encryption, autoscaling, upgrades, patches, and day-2 operations.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "value": "Qovery provides deployment pipelines, preview environments, rollbacks, deployment logs, Terraform integration, and AI-agent infrastructure controls.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_d1d996c34f2fb217d6df",
+              "evidence_fcfaa5919cbb160b6dc4"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "substantial_cloud",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_fcfaa5919cbb160b6dc4",
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "competitive_overlap": {
+          "value": "adjacent_service",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "missing_facts": [
+          "The exact registered legal entity name and registration details were not established.",
+          "The contracting entity was not established.",
+          "The ultimate parent company was not established.",
+          "The exact employee count was not established."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Qovery sells a production-grade infrastructure platform for Kubernetes provisioning, application deployment, and day-2 cloud operations, primarily in customers' own cloud accounts.",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8",
+              "evidence_fcfaa5919cbb160b6dc4",
+              "evidence_d1d996c34f2fb217d6df",
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "text": "Its offering is adjacent to cloud cost optimization and FinOps through general infrastructure provisioning and application deployment, but the evidence does not show core FinOps capabilities such as spend optimization, rightsizing, or commitment optimization.",
+            "evidence_ids": [
+              "evidence_d1d996c34f2fb217d6df",
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "text": "Qovery reports more than 200 organizations and a team of more than 40 members across Europe and North America.",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

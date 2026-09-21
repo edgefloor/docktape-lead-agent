@@ -1,0 +1,262 @@
+{
+  "attempts": [
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Qovery",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8",
+            "evidence_fcfaa5919cbb160b6dc4"
+          ]
+        },
+        "observed_aliases": [
+          "BIRDSIGHT"
+        ],
+        "business_description": {
+          "value": "Qovery provides a production-grade Kubernetes and infrastructure platform that helps engineering teams provision cloud infrastructure, deploy applications, manage environments, and handle day-2 operations in their own cloud accounts.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8",
+            "evidence_fcfaa5919cbb160b6dc4",
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "jurisdictions": [
+          {
+            "entity_name": "Qovery",
+            "country": "FR",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8"
+            ]
+          }
+        ],
+        "employee_count_band": {
+          "value": "11-50",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Qovery provisions Kubernetes clusters in customers' own cloud accounts across AWS, GCP, Azure, Scaleway, and other providers.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "value": "Qovery provides application deployment, environments, rollbacks, CI/CD integration, and preview environments.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_d1d996c34f2fb217d6df"
+            ]
+          },
+          {
+            "value": "Qovery operates a control plane while customer workloads, data, and secrets remain in the customer's cloud or VPC; it also offers a self-hosted control plane.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_fcfaa5919cbb160b6dc4",
+              "evidence_bcace5d767f8944d13d8",
+              "evidence_5995c572099ef29ee322"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "substantial_cloud",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_fcfaa5919cbb160b6dc4",
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "competitive_overlap": {
+          "value": "adjacent_service",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "missing_facts": [
+          "Registered jurisdiction and legal contracting entity are not established by fetched page evidence.",
+          "Ultimate parent is not established.",
+          "Operational headquarters is not established separately from the Paris office/location statement."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Qovery sells a cloud infrastructure and application deployment platform for provisioning Kubernetes, deploying workloads, and managing production operations in customers' own cloud accounts.",
+            "evidence_ids": [
+              "evidence_fcfaa5919cbb160b6dc4",
+              "evidence_d1d996c34f2fb217d6df",
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "text": "The company appears adjacent to cloud cost optimization and FinOps vendors because it provides general infrastructure provisioning and application CI/CD capabilities, but the evidence does not show that it sells core FinOps capabilities such as waste detection, rightsizing, or commitment optimization.",
+            "evidence_ids": [
+              "evidence_d1d996c34f2fb217d6df",
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "text": "Qovery reports a team of more than 40 people across Europe and North America, with an office/location identified in Paris, France.",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Qovery",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8",
+            "evidence_fcfaa5919cbb160b6dc4"
+          ]
+        },
+        "observed_aliases": [
+          "BIRDSIGHT (Qovery)"
+        ],
+        "business_description": {
+          "value": "Qovery provides a self-service, production-grade Kubernetes and infrastructure platform for deploying, provisioning, and operating workloads on customers’ own cloud accounts, with support for human and AI-agent workflows.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8",
+            "evidence_fcfaa5919cbb160b6dc4",
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "jurisdictions": [
+          {
+            "entity_name": "Qovery",
+            "country": "FR",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8"
+            ]
+          },
+          {
+            "entity_name": "Qovery",
+            "country": "unknown",
+            "role": "registered_jurisdiction",
+            "support_type": "unknown",
+            "evidence_ids": []
+          },
+          {
+            "entity_name": "Qovery",
+            "country": "unknown",
+            "role": "contracting_entity",
+            "support_type": "unknown",
+            "evidence_ids": []
+          },
+          {
+            "entity_name": "Qovery",
+            "country": "unknown",
+            "role": "ultimate_parent",
+            "support_type": "unknown",
+            "evidence_ids": []
+          },
+          {
+            "entity_name": "Qovery",
+            "country": "unknown",
+            "role": "operational_headquarters",
+            "support_type": "unknown",
+            "evidence_ids": []
+          }
+        ],
+        "employee_count_band": {
+          "value": "11-50",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Qovery provisions Kubernetes clusters on customers’ own cloud accounts and supports AWS, GCP, Azure, Scaleway, and other providers.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "value": "Qovery deploys applications, databases, Helm charts, jobs, Terraform resources, and AI workloads through its platform.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_d1d996c34f2fb217d6df",
+              "evidence_fcfaa5919cbb160b6dc4"
+            ]
+          },
+          {
+            "value": "Qovery operates a control plane while customer workloads, data, and secrets remain in the customer’s cloud or VPC; it also advertises a self-hosted control plane.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8",
+              "evidence_fcfaa5919cbb160b6dc4",
+              "evidence_5995c572099ef29ee322"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "substantial_cloud",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_bcace5d767f8944d13d8",
+            "evidence_fcfaa5919cbb160b6dc4",
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "competitive_overlap": {
+          "value": "adjacent_service",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_d1d996c34f2fb217d6df",
+            "evidence_5995c572099ef29ee322"
+          ]
+        },
+        "missing_facts": [
+          "The precise registered legal entity and contracting entity are not established by fetched page evidence.",
+          "The ultimate parent company is not established.",
+          "An operational headquarters, distinct from the Paris office, is not established.",
+          "Exact employee count is not established; only a 40+ team size is reported.",
+          "No evidence establishes that Qovery sells core cloud cost optimization or FinOps capabilities such as waste detection, rightsizing, or reserved-capacity optimization."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Qovery is a France-based office with a reported 40+ person team that sells a production-grade Kubernetes and infrastructure platform for deployment, provisioning, and day-2 operations in customers’ cloud accounts.",
+            "evidence_ids": [
+              "evidence_bcace5d767f8944d13d8",
+              "evidence_d1d996c34f2fb217d6df",
+              "evidence_5995c572099ef29ee322"
+            ]
+          },
+          {
+            "text": "Its offering is adjacent to cloud cost optimization and FinOps through general infrastructure provisioning and application deployment, but the evidence does not show that Qovery sells core FinOps capabilities.",
+            "evidence_ids": [
+              "evidence_d1d996c34f2fb217d6df",
+              "evidence_5995c572099ef29ee322"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

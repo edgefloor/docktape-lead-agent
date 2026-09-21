@@ -1,0 +1,15 @@
+{
+  "synthetic": true,
+  "certificate_hostnames": [
+    "example.com"
+  ],
+  "evidence": [
+    {
+      "source_type": "page",
+      "source_url": "https://example.com/cloudtrim/about",
+      "excerpt": "Synthetic fixture: Cloud Trim Incorporated also operates under the name CloudTrim Inc. It is a fictional cloud cost management company headquartered in the United States.",
+      "company_association": "submitted_domain",
+      "truncated": false
+    }
+  ]
+}

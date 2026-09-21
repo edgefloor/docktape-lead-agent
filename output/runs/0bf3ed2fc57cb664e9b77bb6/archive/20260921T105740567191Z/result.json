@@ -1,0 +1,190 @@
+{
+  "lead_id": "0bf3ed2fc57cb664e9b77bb6",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": null
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io"
+  },
+  "accepted_profile": {
+    "identity": {
+      "value": "Bitrise",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_fa817d1094b67e2b6cda",
+        "evidence_1935a00999547c844697"
+      ]
+    },
+    "observed_aliases": [],
+    "business_description": {
+      "value": "Bitrise provides a mobile DevOps platform for building, testing, deploying, and managing iOS, Android, and cross-platform applications, including CI/CD, build infrastructure, release management, build caching, and CodePush updates.",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_1935a00999547c844697",
+        "evidence_c2a017aa861a1341f58e",
+        "evidence_a6cf7cf50fe257cddf2c"
+      ]
+    },
+    "headquarters_country": {
+      "value": "unknown",
+      "support_type": "unknown",
+      "evidence_ids": []
+    },
+    "employee_count_band": {
+      "value": "unknown",
+      "support_type": "unknown",
+      "evidence_ids": []
+    },
+    "cloud_signals": [
+      {
+        "value": "Bitrise offers a fully managed, cloud-based build infrastructure for mobile CI/CD.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_8308e92eb55186e83655",
+          "evidence_0d3e74d38cbddb60bf20"
+        ]
+      },
+      {
+        "value": "Bitrise operates scalable Mac build infrastructure and dedicated Apple silicon build environments.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_94beb628263ea83acad8",
+          "evidence_1935a00999547c844697"
+        ]
+      },
+      {
+        "value": "Bitrise supports running workflows on Google Cloud, AWS EC2, virtualized Mac infrastructure, or bare-metal AWS setups.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_94beb628263ea83acad8"
+        ]
+      },
+      {
+        "value": "Bitrise's infrastructure engineering materials describe Google Cloud-based Linux builds and a dynamically scaled Mac cloud for iOS builds.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_a6cf7cf50fe257cddf2c"
+        ]
+      }
+    ],
+    "proposed_cloud_category": {
+      "value": "substantial_cloud",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_94beb628263ea83acad8",
+        "evidence_a6cf7cf50fe257cddf2c",
+        "evidence_1935a00999547c844697"
+      ]
+    },
+    "missing_facts": [
+      "Current employee count is not established by a current direct company source.",
+      "A single headquarters country is not established; Bitrise lists offices and legal entities in multiple countries.",
+      "Current cloud infrastructure scale, usage volume, and cloud expenditure are not provided.",
+      "Current ownership or public-company status is not established by the evidence."
+    ],
+    "conflicts": [
+      "Headquarters evidence conflicts: PitchBook identifies London, United Kingdom, as headquarters, while LeadIQ identifies Budapest, Hungary; Bitrise's official About page lists locations in the United States, United Kingdom, and Hungary without designating one headquarters.",
+      "Employee information is time-sensitive: an older Bitrise infrastructure article says the company had nearly 100 employees, while a 2026 PitchBook snippet reports 200 total employees."
+    ],
+    "sales_summary": [
+      {
+        "text": "Bitrise is a mobile DevOps and CI/CD platform serving iOS, Android, and cross-platform application teams.",
+        "evidence_ids": [
+          "evidence_1935a00999547c844697",
+          "evidence_5eb1eee943183414dbb5"
+        ]
+      },
+      {
+        "text": "The company operates substantial cloud infrastructure, including managed build environments, scalable Mac and Apple silicon capacity, and integrations with Google Cloud and AWS.",
+        "evidence_ids": [
+          "evidence_94beb628263ea83acad8",
+          "evidence_a6cf7cf50fe257cddf2c",
+          "evidence_1935a00999547c844697"
+        ]
+      },
+      {
+        "text": "Its cloud footprint and infrastructure engineering requirements suggest a potentially relevant target for cloud infrastructure, platform engineering, and optimization discussions.",
+        "evidence_ids": [
+          "evidence_a6cf7cf50fe257cddf2c",
+          "evidence_94beb628263ea83acad8"
+        ]
+      }
+    ]
+  },
+  "fit": {
+    "employee_points": null,
+    "cloud_points": 60,
+    "score": 60,
+    "score_status": "provisional",
+    "rationale": "employee count: unknown; cloud demand: 60 points."
+  },
+  "compliance_checks": [
+    {
+      "kind": "competitor",
+      "policy_entry": "CloudTrim Inc",
+      "outcome": "review_required",
+      "reason": "The possible match to CloudTrim Inc has confidence 0.34, below 0.80. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "SpendWise Cloud",
+      "outcome": "review_required",
+      "reason": "The possible match to SpendWise Cloud has confidence 0.32, below 0.80. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "RightSize Cloud Co",
+      "outcome": "review_required",
+      "reason": "The possible match to RightSize Cloud Co has confidence 0.37, below 0.80. Basis: no_indication.",
+      "evidence_id": null
+    },
+    {
+      "kind": "country",
+      "policy_entry": "exercise_country_set",
+      "outcome": "review_required",
+      "reason": "Headquarters is conflicting at confidence 0.36; claim verification accepted: False.",
+      "evidence_id": "evidence_c2a017aa861a1341f58e"
+    }
+  ],
+  "compliance_outcome": "review_required",
+  "final_status": "review_required",
+  "summary": "Bitrise is a mobile DevOps and CI/CD platform serving iOS, Android, and cross-platform application teams. The company operates substantial cloud infrastructure, including managed build environments, scalable Mac and Apple silicon capacity, and integrations with Google Cloud and AWS. Its cloud footprint and infrastructure engineering requirements suggest a potentially relevant target for cloud infrastructure, platform engineering, and optimization discussions.",
+  "evidence_references": [
+    "https://bitrise.io/",
+    "https://bitrise.io/about",
+    "https://pitchbook.com/profiles/company/103930-84",
+    "https://bitrise.io/careers",
+    "https://app.bitrise.io/",
+    "https://tracxn.com/d/companies/bitrise/__ccB_f2ubNFHhC1H4HFZZjOF5oWnXyvidGNIbnvX1feo",
+    "https://www.reveliolabs.com/companies/bitrise/employees",
+    "https://leadiq.com/c/bitrise/5a1db8ae2300005b00b4d7fb",
+    "https://bitrise.io/platform/build-platform/bitrise-build-platform",
+    "https://bitrise.io/blog/post/infrastructure-engineering-interju",
+    "https://bitrise.io/platform/devops/build-platform",
+    "https://bitrise.io/platform/build-platform/bitrise-runners",
+    "https://bitrise.io",
+    "https://en.wikipedia.org/wiki/Bitrise",
+    "https://bitrise.io/contact",
+    "https://find-and-update.company-information.service.gov.uk/company/09594679"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": "gpt-5.6-luna",
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": "jev-1.13.0",
+  "warnings": [],
+  "errors": [],
+  "synthetic": false,
+  "processed_at": "2026-09-21T10:46:30.760079Z",
+  "processing_seconds": 55.99,
+  "notification_status": "sent"
+}

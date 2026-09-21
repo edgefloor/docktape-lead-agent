@@ -1,0 +1,30 @@
+Lead assessment
+
+Status: Review required
+Company: Bitrise
+Fit: 60 (Provisional)
+
+Summary
+Bitrise is a mobile DevOps and CI/CD platform serving iOS, Android, and cross-platform application teams. The company operates substantial cloud infrastructure, including managed build environments, scalable Mac and Apple silicon capacity, and integrations with Google Cloud and AWS. Its cloud footprint and infrastructure engineering requirements suggest a potentially relevant target for cloud infrastructure, platform engineering, and optimization discussions.
+
+Compliance
+Review required
+The possible match to CloudTrim Inc has confidence 0.34, below 0.80. Basis: no_indication. | The possible match to SpendWise Cloud has confidence 0.32, below 0.80. Basis: no_indication. | The possible match to RightSize Cloud Co has confidence 0.37, below 0.80. Basis: no_indication. | Headquarters is conflicting at confidence 0.36; claim verification accepted: False.
+
+Sources
+• https://bitrise.io/
+• https://bitrise.io/about
+• https://pitchbook.com/profiles/company/103930-84
+• https://bitrise.io/careers
+• https://app.bitrise.io/
+• https://tracxn.com/d/companies/bitrise/__ccB_f2ubNFHhC1H4HFZZjOF5oWnXyvidGNIbnvX1feo
+• https://www.reveliolabs.com/companies/bitrise/employees
+• https://leadiq.com/c/bitrise/5a1db8ae2300005b00b4d7fb
+• https://bitrise.io/platform/build-platform/bitrise-build-platform
+• https://bitrise.io/blog/post/infrastructure-engineering-interju
+• https://bitrise.io/platform/devops/build-platform
+• https://bitrise.io/platform/build-platform/bitrise-runners
+• https://bitrise.io
+• https://en.wikipedia.org/wiki/Bitrise
+• https://bitrise.io/contact
+• https://find-and-update.company-information.service.gov.uk/company/09594679

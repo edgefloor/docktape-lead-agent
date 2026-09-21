@@ -1,0 +1,6 @@
+{
+  "attempts": [],
+  "errors": [
+    "AssessmentError: profile cites invalid evidence: headquarters_country: unknown claims must not cite evidence"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "original": {
+    "name": "Public Company Demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "Holori",
+    "website": "https://holori.com"
+  },
+  "validated": {
+    "name": "Public Company Demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "Holori",
+    "website": "https://holori.com",
+    "employee_count_band": null
+  },
+  "normalized": {
+    "name": "public company demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "holori",
+    "website_hostname": "holori.com",
+    "employee_count_band": null
+  },
+  "lead_id": "35d79de86c6953dc0b53d6e3"
+}

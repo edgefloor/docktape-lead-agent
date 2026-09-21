@@ -1,0 +1,6 @@
+{
+  "attempts": [],
+  "errors": [
+    "AssessmentError: OpenAI profile failed schema validation: 4 validation errors for CompanyProfile\njurisdictions.0.country\n  Value error, country must be an ISO two-letter code or unknown [type=value_error, input_value='Hungary', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\njurisdictions.1.country\n  Value error, country must be an ISO two-letter code or unknown [type=value_error, input_value='United States', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\njurisdictions.2.country\n  Value error, country must be an ISO two-letter code or unknown [type=value_error, input_value='United Kingdom', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\njurisdictions.3.country\n  Value error, country must be an ISO two-letter code or unknown [type=value_error, input_value='Hungary', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_e"
+  ]
+}

@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Do not engage
+Company: Holori
+Fit: Unknown (Provisional)
+
+Summary
+Holori sells a FinOps and cloud cost management platform for multi-cloud cost visibility, allocation, infrastructure monitoring, and optimization. Its capabilities overlap directly with cloud cost optimization and FinOps offerings, including cost allocation, waste detection, and optimization recommendations.
+
+Compliance
+Flagged
+No supported competitor match to CloudTrim Inc. Basis: no_indication. | No supported competitor match to SpendWise Cloud. Basis: no_indication. | No supported competitor match to RightSize Cloud Co. Basis: no_indication. | OpenAI and Jev independently identified an unlisted competing service in Cloud cost optimization and FinOps. | No verified legal, contracting, parent, or operational-headquarters jurisdiction was established.

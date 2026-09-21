@@ -1,0 +1,12 @@
+Lead assessment
+
+Status: Review required
+Company: Bitrise
+Fit: 60 (Provisional)
+
+Summary
+Bitrise is a mobile DevOps and CI/CD platform that helps engineering teams build, test, deploy, and update iOS and Android applications. The company operates substantial cloud infrastructure, including managed cloud runners, Google Cloud Linux build infrastructure, a dedicated Mac cloud for iOS builds, and AWS-based managed infrastructure capabilities. Bitrise is adjacent to cloud cost optimization and FinOps rather than a competing service because the evidence supports application CI/CD and mobile DevOps offerings, not core FinOps capabilities such as cloud spend optimization or rightsizing.
+
+Compliance
+Review required
+No supported competitor match to CloudTrim Inc. Basis: distinct_entity. | No supported competitor match to SpendWise Cloud. Basis: distinct_entity. | No supported competitor match to RightSize Cloud Co. Basis: distinct_entity. | Unlisted competitor screening is unresolved: OpenAI proposed adjacent_service; Jev rated overlap 0.69/3.00 at confidence 0.69. | Verified relevant jurisdictions (GB, HU) are outside the policy-listed country set. Multiple international offices are context only.

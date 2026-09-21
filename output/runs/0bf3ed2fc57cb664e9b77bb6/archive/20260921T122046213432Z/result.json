@@ -1,0 +1,231 @@
+{
+  "lead_id": "0bf3ed2fc57cb664e9b77bb6",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": "51-200"
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": "51-200"
+  },
+  "accepted_profile": {
+    "identity": {
+      "value": "Bitrise",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_1935a00999547c844697",
+        "evidence_9917f03b93354239c0a4"
+      ]
+    },
+    "observed_aliases": [],
+    "business_description": {
+      "value": "Bitrise sells a mobile DevOps platform for building, testing, deploying, releasing, and managing iOS and Android applications, including managed CI/CD, build infrastructure, release management, build caching, and CodePush services.",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_1935a00999547c844697",
+        "evidence_5189dd1bf1a5648cc319"
+      ]
+    },
+    "jurisdictions": [
+      {
+        "entity_name": "Bitrise Limited",
+        "country": "GB",
+        "role": "registered_jurisdiction",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_abae5cf89d2d02848d0b"
+        ]
+      },
+      {
+        "entity_name": "Bitrise Limited",
+        "country": "GB",
+        "role": "contracting_entity",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_abae5cf89d2d02848d0b"
+        ]
+      },
+      {
+        "entity_name": "Bitrise, Inc.",
+        "country": "US",
+        "role": "office",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_9917f03b93354239c0a4"
+        ]
+      },
+      {
+        "entity_name": "Bitrise Limited",
+        "country": "GB",
+        "role": "office",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_9917f03b93354239c0a4"
+        ]
+      },
+      {
+        "entity_name": "Bitrise Limited",
+        "country": "HU",
+        "role": "office",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_9917f03b93354239c0a4"
+        ]
+      }
+    ],
+    "employee_count_band": {
+      "value": "51-200",
+      "support_type": "self_reported",
+      "evidence_ids": [
+        "evidence_c9ea57100dd9891ef0d1"
+      ]
+    },
+    "cloud_signals": [
+      {
+        "value": "Bitrise operates a managed mobile CI/CD cloud and provides dedicated Apple silicon build infrastructure.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_1935a00999547c844697",
+          "evidence_082cf4e96d8619021a9a"
+        ]
+      },
+      {
+        "value": "Bitrise operates build infrastructure involving Google Cloud for Linux builds and a dedicated Mac cloud for iOS builds.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_a6cf7cf50fe257cddf2c"
+        ]
+      },
+      {
+        "value": "Bitrise Runners can execute workflows in a customer's cloud or on-premises infrastructure.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_eadc6212eb538dd431f0"
+        ]
+      }
+    ],
+    "proposed_cloud_category": {
+      "value": "substantial_cloud",
+      "support_type": "inferred",
+      "evidence_ids": [
+        "evidence_1935a00999547c844697",
+        "evidence_082cf4e96d8619021a9a",
+        "evidence_a6cf7cf50fe257cddf2c"
+      ]
+    },
+    "competitive_overlap": {
+      "value": "unknown",
+      "support_type": "unknown",
+      "evidence_ids": []
+    },
+    "missing_facts": [
+      "The ultimate parent company is not identified in the evidence.",
+      "The operational headquarters is not established by fetched page evidence.",
+      "The employee-count submission is not independently corroborated by fetched evidence.",
+      "No evidence shows that Bitrise sells multi-cloud cost visibility, cloud waste detection, rightsizing, commitment optimization, or FinOps reporting services."
+    ],
+    "conflicts": [],
+    "sales_summary": [
+      {
+        "text": "Bitrise is a mobile DevOps platform provider offering managed CI/CD, build infrastructure, testing, release management, caching, and CodePush capabilities for mobile application teams.",
+        "evidence_ids": [
+          "evidence_1935a00999547c844697",
+          "evidence_5189dd1bf1a5648cc319"
+        ]
+      },
+      {
+        "text": "The company has substantial cloud operations, including managed build infrastructure and dedicated Apple silicon and Mac-based environments, but its disclosed offerings do not overlap with cloud cost optimization or FinOps services.",
+        "evidence_ids": [
+          "evidence_1935a00999547c844697",
+          "evidence_082cf4e96d8619021a9a",
+          "evidence_a6cf7cf50fe257cddf2c"
+        ]
+      }
+    ]
+  },
+  "fit": {
+    "employee_points": null,
+    "cloud_points": 60,
+    "score": 60,
+    "score_status": "provisional",
+    "rationale": "employee count: unknown; cloud demand: 60 points."
+  },
+  "compliance_checks": [
+    {
+      "kind": "competitor",
+      "policy_entry": "CloudTrim Inc",
+      "outcome": "clear",
+      "reason": "No supported competitor match to CloudTrim Inc. Basis: distinct_entity.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "SpendWise Cloud",
+      "outcome": "clear",
+      "reason": "No supported competitor match to SpendWise Cloud. Basis: distinct_entity.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "RightSize Cloud Co",
+      "outcome": "clear",
+      "reason": "No supported competitor match to RightSize Cloud Co. Basis: distinct_entity.",
+      "evidence_id": null
+    },
+    {
+      "kind": "competitor",
+      "policy_entry": "competitive_scope",
+      "outcome": "clear",
+      "reason": "Both reviewers classified the company outside the Cloud cost optimization and FinOps competitive scope (OpenAI: no_overlap; Jev overlap: 0.57/3.00; non-material-overlap probability: 1.00).",
+      "evidence_id": "evidence_1935a00999547c844697"
+    },
+    {
+      "kind": "country",
+      "policy_entry": "exercise_country_set",
+      "outcome": "clear",
+      "reason": "Verified relevant jurisdictions (GB) are outside the policy-listed country set. Multiple international offices are context only.",
+      "evidence_id": "evidence_abae5cf89d2d02848d0b"
+    }
+  ],
+  "compliance_outcome": "clear",
+  "final_status": "review_required",
+  "summary": "Bitrise is a mobile DevOps platform provider offering managed CI/CD, build infrastructure, testing, release management, caching, and CodePush capabilities for mobile application teams. The company has substantial cloud operations, including managed build infrastructure and dedicated Apple silicon and Mac-based environments, but its disclosed offerings do not overlap with cloud cost optimization or FinOps services.",
+  "evidence_references": [
+    "https://bitrise.io/",
+    "https://bitrise.io/about",
+    "https://bitrise.io/careers",
+    "https://app.bitrise.io/",
+    "https://bitrise.io/customer-stories",
+    "https://bitrise.io/legal/terms-of-service",
+    "https://bitrise.io/legal/partner-contributor-terms",
+    "https://my.linkedin.com/in/sandeep-sarin-3bb9402b",
+    "https://www.govinfo.gov/content/pkg/FR-1974-08-12/pdf/FR-1974-08-12.pdf",
+    "https://documents1.worldbank.org/curated/en/640021585934004225/pdf/Fintech-in-Europe-and-Central-Asia-Maximizing-Benefits-and-Managing-Risks.pdf",
+    "https://bitrise.io/blog/post/infrastructure-engineering-interju",
+    "https://bitrise.io/platform/build-platform/bitrise-build-platform",
+    "https://bitrise.io/platform/build-platform/bitrise-runners",
+    "https://hu.linkedin.com/company/bitrise",
+    "https://bitrise.io",
+    "https://go.bitrise.io/terms-of-service",
+    "https://www.sec.gov/Archives/edgar/data/1872302/000119312522192378/d33263d424b4.htm",
+    "https://circleci.com/legal/terms-of-service/",
+    "https://www.octalsoftware.com/react-native-app-development"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": "gpt-5.6-luna",
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": "jev-1.13.0",
+  "warnings": [],
+  "errors": [],
+  "synthetic": false,
+  "processed_at": "2026-09-21T12:20:16.128819Z",
+  "processing_seconds": 38.671,
+  "notification_status": "sent"
+}

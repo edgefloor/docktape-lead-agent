@@ -1,0 +1,20 @@
+Lead assessment
+Status: review_required
+Company: Bitrise
+Fit: unknown (provisional)
+Summary: The automated assessment did not complete. Review the saved evidence and errors.
+Compliance: review_required. The assessment did not complete, so the engagement policy could not be cleared.
+Sources:
+- https://bitrise.io/about
+- https://bitrise.io/
+- https://bitrise.io/careers
+- https://pitchbook.com/profiles/company/103930-84
+- https://bitrise.io/pricing
+- https://tracxn.com/d/companies/bitrise/__ccB_f2ubNFHhC1H4HFZZjOF5oWnXyvidGNIbnvX1feo
+- https://www.gartner.com/reviews/product/bitrise
+- https://hu.linkedin.com/company/bitrise
+- https://bitrise.io/blog/post/infrastructure-engineering-interju
+- https://bitrise.io/blog/infrastructure-engineering-in-a-hyper-growth-environment
+- https://bitrise.io/enterprise-build-platform
+- https://bitrise.io/platform/devops/build-platform
+- https://bitrise.io

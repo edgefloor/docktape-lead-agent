@@ -1,0 +1,34 @@
+Lead assessment
+
+Status: Review required
+Company: Bitrise
+Fit: 60 (Provisional)
+
+Summary
+Bitrise is a mobile DevOps platform offering managed CI/CD, build infrastructure, release management, build caching, and related services for mobile application teams. The company identifies Bitrise Limited, incorporated and registered in England and Wales, as Bitrise and lists offices or locations in the United Kingdom, United States, and Hungary.
+
+Compliance
+Clear
+No supported competitor match to CloudTrim Inc. Basis: no_indication. | No supported competitor match to SpendWise Cloud. Basis: no_indication. | No supported competitor match to RightSize Cloud Co. Basis: no_indication. | Verified relevant jurisdictions (GB) are outside the policy-listed country set. Multiple international offices are context only.
+
+Sources
+• https://bitrise.io/
+• https://bitrise.io/about
+• https://en.wikipedia.org/wiki/Bitrise
+• https://pitchbook.com/profiles/company/103930-84
+• https://leadiq.com/c/bitrise/5a1db8ae2300005b00b4d7fb
+• https://bitrise.io/legal/terms-of-service
+• https://bitrise.io/legal/partner-contributor-terms
+• https://www.linkedin.com/in/louis-husney-b56a72a
+• https://www.govinfo.gov/content/pkg/FR-1974-08-12/pdf/FR-1974-08-12.pdf
+• https://documents1.worldbank.org/curated/en/640021585934004225/pdf/Fintech-in-Europe-and-Central-Asia-Maximizing-Benefits-and-Managing-Risks.pdf
+• https://bitrise.io/platform/build-platform/bitrise-build-platform
+• https://bitrise.io/blog/post/infrastructure-engineering-interju
+• https://bitrise.io/platform/devops/build-platform
+• https://bitrise.io/platform/build-platform/bitrise-runners
+• https://bitrise.io
+• https://docs.bitrise.io/en/bitrise-platform/infrastructure/build-machines/build-machine-types.html
+• https://go.bitrise.io/terms-of-service
+• https://www.sec.gov/Archives/edgar/data/1872302/000119312522192378/d33263d424b4.htm
+• https://circleci.com/legal/terms-of-service/
+• https://www.octalsoftware.com/react-native-app-development

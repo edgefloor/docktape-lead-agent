@@ -1,0 +1,232 @@
+{
+  "attempts": [
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Bitrise",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697",
+            "evidence_c2a017aa861a1341f58e"
+          ]
+        },
+        "observed_aliases": [
+          "bitrise.io",
+          "Bitrise CI",
+          "Bitrise Build Platform"
+        ],
+        "business_description": {
+          "value": "Bitrise provides a mobile DevOps and CI/CD platform for building, testing, deploying, and managing iOS and Android applications, including managed build infrastructure, release management, build caching, and CodePush updates.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697",
+            "evidence_5eb1eee943183414dbb5",
+            "evidence_c2a017aa861a1341f58e"
+          ]
+        },
+        "headquarters_country": {
+          "value": "unknown",
+          "support_type": "unknown",
+          "evidence_ids": []
+        },
+        "employee_count_band": {
+          "value": "51-200",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_76ff4070ee2fa7c1e9c2"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Bitrise operates a managed, cloud-based build infrastructure for mobile CI/CD.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_8308e92eb55186e83655",
+              "evidence_0d3e74d38cbddb60bf20"
+            ]
+          },
+          {
+            "value": "Bitrise provides scalable Mac build infrastructure and supports deployment on Google Cloud, AWS EC2, virtualized Mac infrastructure, and bare-metal AWS setups.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_94beb628263ea83acad8",
+              "evidence_1935a00999547c844697"
+            ]
+          },
+          {
+            "value": "Bitrise infrastructure includes virtual machines, networking, dynamic build scaling, scheduling, and a Mac cloud; the company reports supporting hundreds to thousands of concurrent builds.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_a6cf7cf50fe257cddf2c",
+              "evidence_1935a00999547c844697"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "substantial_cloud",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_a6cf7cf50fe257cddf2c",
+            "evidence_94beb628263ea83acad8",
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "missing_facts": [
+          "Current legal headquarters country is not established by fetched company-page evidence.",
+          "Current employee count is not confirmed by a current direct company source.",
+          "No quantified cloud infrastructure spend, capacity, or revenue allocation is available."
+        ],
+        "conflicts": [
+          "Headquarters information conflicts across third-party snippets: PitchBook states London, United Kingdom, while LeadIQ and Tracxn state Budapest, Hungary. The fetched company page lists offices in the United States, United Kingdom, and Hungary but does not identify a headquarters."
+        ],
+        "sales_summary": [
+          {
+            "text": "Bitrise is a mobile DevOps platform serving more than 8,500 mobile teams, with managed CI/CD, Apple Silicon build infrastructure, release management, caching, and CodePush capabilities.",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697"
+            ]
+          },
+          {
+            "text": "The company operates substantial cloud infrastructure, including scalable virtual-machine build services, a large Mac cloud, dynamic scheduling, and integrations with Google Cloud and AWS.",
+            "evidence_ids": [
+              "evidence_a6cf7cf50fe257cddf2c",
+              "evidence_94beb628263ea83acad8",
+              "evidence_8308e92eb55186e83655"
+            ]
+          },
+          {
+            "text": "Bitrise appears to fit a production-cloud profile rather than a company merely consuming cloud services, although current employee count, headquarters, and infrastructure economics remain unconfirmed.",
+            "evidence_ids": [
+              "evidence_a6cf7cf50fe257cddf2c",
+              "evidence_76ff4070ee2fa7c1e9c2"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Bitrise",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_fa817d1094b67e2b6cda",
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "observed_aliases": [
+          "Bitrise CI",
+          "Bitrise Build Platform",
+          "Bitrise AI",
+          "Build Hub",
+          "Release Management",
+          "Build Cache",
+          "CodePush"
+        ],
+        "business_description": {
+          "value": "Bitrise provides a mobile DevOps platform for building, testing, deploying, and managing iOS, Android, and cross-platform applications, including CI/CD, build infrastructure, release management, build caching, and CodePush updates.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697",
+            "evidence_c2a017aa861a1341f58e",
+            "evidence_a6cf7cf50fe257cddf2c"
+          ]
+        },
+        "headquarters_country": {
+          "value": "unknown",
+          "support_type": "unknown",
+          "evidence_ids": [
+            "evidence_c2a017aa861a1341f58e",
+            "evidence_76ff4070ee2fa7c1e9c2"
+          ]
+        },
+        "employee_count_band": {
+          "value": "51-200",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_76ff4070ee2fa7c1e9c2"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Bitrise offers a fully managed, cloud-based build infrastructure for mobile CI/CD.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_8308e92eb55186e83655",
+              "evidence_0d3e74d38cbddb60bf20"
+            ]
+          },
+          {
+            "value": "Bitrise operates scalable Mac build infrastructure and dedicated Apple silicon build environments.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_94beb628263ea83acad8",
+              "evidence_1935a00999547c844697"
+            ]
+          },
+          {
+            "value": "Bitrise supports running workflows on Google Cloud, AWS EC2, virtualized Mac infrastructure, or bare-metal AWS setups.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_94beb628263ea83acad8"
+            ]
+          },
+          {
+            "value": "Bitrise's infrastructure engineering materials describe Google Cloud-based Linux builds and a dynamically scaled Mac cloud for iOS builds.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_a6cf7cf50fe257cddf2c"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "substantial_cloud",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_94beb628263ea83acad8",
+            "evidence_a6cf7cf50fe257cddf2c",
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "missing_facts": [
+          "Current employee count is not established by a current direct company source.",
+          "A single headquarters country is not established; Bitrise lists offices and legal entities in multiple countries.",
+          "Current cloud infrastructure scale, usage volume, and cloud expenditure are not provided.",
+          "Current ownership or public-company status is not established by the evidence."
+        ],
+        "conflicts": [
+          "Headquarters evidence conflicts: PitchBook identifies London, United Kingdom, as headquarters, while LeadIQ identifies Budapest, Hungary; Bitrise's official About page lists locations in the United States, United Kingdom, and Hungary without designating one headquarters.",
+          "Employee information is time-sensitive: an older Bitrise infrastructure article says the company had nearly 100 employees, while a 2026 PitchBook snippet reports 200 total employees."
+        ],
+        "sales_summary": [
+          {
+            "text": "Bitrise is a mobile DevOps and CI/CD platform serving iOS, Android, and cross-platform application teams.",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_5eb1eee943183414dbb5"
+            ]
+          },
+          {
+            "text": "The company operates substantial cloud infrastructure, including managed build environments, scalable Mac and Apple silicon capacity, and integrations with Google Cloud and AWS.",
+            "evidence_ids": [
+              "evidence_94beb628263ea83acad8",
+              "evidence_a6cf7cf50fe257cddf2c",
+              "evidence_1935a00999547c844697"
+            ]
+          },
+          {
+            "text": "Its cloud footprint and infrastructure engineering requirements suggest a potentially relevant target for cloud infrastructure, platform engineering, and optimization discussions.",
+            "evidence_ids": [
+              "evidence_a6cf7cf50fe257cddf2c",
+              "evidence_94beb628263ea83acad8"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

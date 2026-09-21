@@ -1,0 +1,29 @@
+Lead assessment
+
+Status: Review required
+Company: Bitrise
+Fit: Unknown (Provisional)
+
+Summary
+The automated assessment did not complete. Review the saved evidence and errors.
+
+Compliance
+Review required
+The assessment did not complete, so the engagement policy could not be cleared.
+
+Sources
+• https://bitrise.io/
+• https://bitrise.io/about
+• https://bitrise.io/careers
+• https://app.bitrise.io/
+• https://bitrise.io/resources/compare/bitrise-vs-circle-ci
+• https://bitrise.io/legal/terms-of-service
+• https://bitrise.io/legal/partner-contributor-terms
+• https://www.linkedin.com/in/louis-husney-b56a72a
+• https://www.govinfo.gov/content/pkg/FR-1974-08-12/pdf/FR-1974-08-12.pdf
+• https://documents1.worldbank.org/curated/en/640021585934004225/pdf/Fintech-in-Europe-and-Central-Asia-Maximizing-Benefits-and-Managing-Risks.pdf
+• https://bitrise.io/blog/post/infrastructure-engineering-interju
+• https://bitrise.io/platform/build-platform/bitrise-build-platform
+• https://bitrise.io/platform/devops/build-platform
+• https://bitrise.io/platform/build-platform/bitrise-runners
+• https://bitrise.io

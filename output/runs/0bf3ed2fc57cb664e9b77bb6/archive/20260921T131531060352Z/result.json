@@ -1,0 +1,68 @@
+{
+  "lead_id": "0bf3ed2fc57cb664e9b77bb6",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": "51-200"
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": "51-200"
+  },
+  "accepted_profile": null,
+  "fit": {
+    "employee_points": null,
+    "cloud_points": null,
+    "score": null,
+    "score_status": "provisional",
+    "rationale": "Assessment failed, so both fit components are unknown."
+  },
+  "compliance_checks": [
+    {
+      "kind": "assessment",
+      "policy_entry": "assessment",
+      "outcome": "review_required",
+      "reason": "The assessment did not complete, so the engagement policy could not be cleared.",
+      "evidence_id": null,
+      "details": {}
+    }
+  ],
+  "compliance_outcome": "review_required",
+  "final_status": "review_required",
+  "summary": "The automated assessment did not complete. Review the saved evidence and errors.",
+  "evidence_references": [
+    "https://bitrise.io/about",
+    "https://bitrise.io/",
+    "https://bitrise.io/careers",
+    "https://pitchbook.com/profiles/company/103930-84",
+    "https://bitrise.io/pricing",
+    "https://bitrise.io/legal/terms-of-service",
+    "https://bitrise.io/legal/partner-contributor-terms",
+    "https://my.linkedin.com/in/sandeep-sarin-3bb9402b",
+    "https://www.govinfo.gov/content/pkg/FR-1974-08-12/pdf/FR-1974-08-12.pdf",
+    "https://documents1.worldbank.org/curated/en/640021585934004225/pdf/Fintech-in-Europe-and-Central-Asia-Maximizing-Benefits-and-Managing-Risks.pdf",
+    "https://bitrise.io/blog/post/infrastructure-engineering-interju",
+    "https://bitrise.io/platform/build-platform/bitrise-build-platform",
+    "https://bitrise.io/platform/devops/build-platform",
+    "https://bitrise.io/platform/build-platform/bitrise-runners",
+    "https://bitrise.io"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": null,
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": null,
+  "warnings": [],
+  "errors": [
+    "AssessmentError: profile cites invalid evidence: competitive_overlap: evidence_1935a00999547c844697c0a4"
+  ],
+  "synthetic": false,
+  "processed_at": "2026-09-21T13:14:49.287230Z",
+  "processing_seconds": 35.898,
+  "notification_status": "sent"
+}

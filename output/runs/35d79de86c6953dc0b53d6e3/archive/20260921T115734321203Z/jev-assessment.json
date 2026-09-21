@@ -1,0 +1,6 @@
+{
+  "attempts": [],
+  "errors": [
+    "ValidationError: 1 validation error for JevAssessment\nraw_answers.competitor_evidence__spendwise_cloud\n  Value error, choice probabilities must not be empty [type=value_error, input_value=ChoiceAnswer(type='choice...lities={}, confidence=0), input_type=ChoiceAnswer]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error"
+  ]
+}

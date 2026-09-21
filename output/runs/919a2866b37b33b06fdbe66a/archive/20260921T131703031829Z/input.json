@@ -1,0 +1,24 @@
+{
+  "original": {
+    "name": "Public Company Demo",
+    "email": "qovery-demo@example.invalid",
+    "company_name": "Qovery",
+    "website": "https://www.qovery.com",
+    "employee_count_band": "unknown"
+  },
+  "validated": {
+    "name": "Public Company Demo",
+    "email": "qovery-demo@example.invalid",
+    "company_name": "Qovery",
+    "website": "https://www.qovery.com",
+    "employee_count_band": "unknown"
+  },
+  "normalized": {
+    "name": "public company demo",
+    "email": "qovery-demo@example.invalid",
+    "company_name": "qovery",
+    "website_hostname": "qovery.com",
+    "employee_count_band": "unknown"
+  },
+  "lead_id": "919a2866b37b33b06fdbe66a"
+}

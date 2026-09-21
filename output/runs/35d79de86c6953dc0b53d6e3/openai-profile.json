@@ -1,0 +1,103 @@
+{
+  "attempts": [
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Holori",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_82f3e5b685565c36c79f",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "observed_aliases": [
+          "HOLORI",
+          "Holori ☁️"
+        ],
+        "business_description": {
+          "value": "Holori provides a FinOps and cloud infrastructure visibility platform that centralizes, visualizes, allocates, monitors, and optimizes cloud costs and infrastructure across providers including AWS, Azure, GCP, and Oracle.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_82f3e5b685565c36c79f",
+            "evidence_e2d431fb1096d5c55006",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "jurisdictions": [],
+        "employee_count_band": {
+          "value": "unknown",
+          "support_type": "self_reported",
+          "evidence_ids": [
+            "evidence_baceff8d4951defd0ebf"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Holori operates a customer-facing cloud platform with an application available at app.holori.com.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_82f3e5b685565c36c79f"
+            ]
+          },
+          {
+            "value": "Holori connects to customers' AWS, GCP, and Azure environments to generate infrastructure diagrams, monitor changes, and display resource configurations and costs.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_e2d431fb1096d5c55006"
+            ]
+          },
+          {
+            "value": "Holori centralizes multi-provider cloud costs, provides dashboards and reports, and offers cost optimization recommendations and allocation features.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_82f3e5b685565c36c79f",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "production_cloud",
+          "support_type": "inferred",
+          "evidence_ids": [
+            "evidence_82f3e5b685565c36c79f",
+            "evidence_e2d431fb1096d5c55006",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "competitive_overlap": {
+          "value": "competing_service",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_82f3e5b685565c36c79f",
+            "evidence_372f834f5f418fafeeff"
+          ]
+        },
+        "missing_facts": [
+          "Legal entity name and contracting entity are not established by fetched page evidence.",
+          "Registered jurisdiction, operational headquarters, and office locations are not established by fetched page evidence.",
+          "Employee count is unknown and has not been independently verified.",
+          "Ultimate parent, if any, is unknown."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Holori sells a FinOps platform for multi-cloud cost visibility, allocation, reporting, and optimization, directly overlapping with the defined cloud cost optimization and FinOps competitive capabilities.",
+            "evidence_ids": [
+              "evidence_82f3e5b685565c36c79f",
+              "evidence_372f834f5f418fafeeff"
+            ]
+          },
+          {
+            "text": "The company also provides cloud infrastructure visualization, monitoring, configuration discovery, and automated documentation across AWS, Azure, and GCP through a customer-facing application.",
+            "evidence_ids": [
+              "evidence_e2d431fb1096d5c55006",
+              "evidence_82f3e5b685565c36c79f"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

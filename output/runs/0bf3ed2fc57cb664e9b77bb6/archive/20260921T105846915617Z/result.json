@@ -1,0 +1,66 @@
+{
+  "lead_id": "0bf3ed2fc57cb664e9b77bb6",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io",
+    "employee_count_band": null
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "bitrise-demo@example.invalid",
+    "company_name": "Bitrise",
+    "website": "https://bitrise.io"
+  },
+  "accepted_profile": null,
+  "fit": {
+    "employee_points": null,
+    "cloud_points": null,
+    "score": null,
+    "score_status": "provisional",
+    "rationale": "Assessment failed, so both fit components are unknown."
+  },
+  "compliance_checks": [
+    {
+      "kind": "assessment",
+      "policy_entry": "assessment",
+      "outcome": "review_required",
+      "reason": "The assessment did not complete, so the engagement policy could not be cleared.",
+      "evidence_id": null
+    }
+  ],
+  "compliance_outcome": "review_required",
+  "final_status": "review_required",
+  "summary": "The automated assessment did not complete. Review the saved evidence and errors.",
+  "evidence_references": [
+    "https://bitrise.io/",
+    "https://bitrise.io/about",
+    "https://bitrise.io/careers",
+    "https://app.bitrise.io/",
+    "https://bitrise.io/resources/compare/bitrise-vs-circle-ci",
+    "https://bitrise.io/legal/terms-of-service",
+    "https://bitrise.io/legal/partner-contributor-terms",
+    "https://www.linkedin.com/in/louis-husney-b56a72a",
+    "https://www.govinfo.gov/content/pkg/FR-1974-08-12/pdf/FR-1974-08-12.pdf",
+    "https://documents1.worldbank.org/curated/en/640021585934004225/pdf/Fintech-in-Europe-and-Central-Asia-Maximizing-Benefits-and-Managing-Risks.pdf",
+    "https://bitrise.io/blog/post/infrastructure-engineering-interju",
+    "https://bitrise.io/platform/build-platform/bitrise-build-platform",
+    "https://bitrise.io/platform/devops/build-platform",
+    "https://bitrise.io/platform/build-platform/bitrise-runners",
+    "https://bitrise.io"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": null,
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": null,
+  "warnings": [],
+  "errors": [
+    "AssessmentError: OpenAI profile failed schema validation: 4 validation errors for CompanyProfile\njurisdictions.0.country\n  Value error, country must be an ISO two-letter code or unknown [type=value_error, input_value='Hungary', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\njurisdictions.1.country\n  Value error, country must be an ISO two-letter code or unknown [type=value_error, input_value='United States', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\njurisdictions.2.country\n  Value error, country must be an ISO two-letter code or unknown [type=value_error, input_value='United Kingdom', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error\njurisdictions.3.country\n  Value error, country must be an ISO two-letter code or unknown [type=value_error, input_value='Hungary', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_e"
+  ],
+  "synthetic": false,
+  "processed_at": "2026-09-21T10:58:00.925210Z",
+  "processing_seconds": 20.356,
+  "notification_status": "sent"
+}

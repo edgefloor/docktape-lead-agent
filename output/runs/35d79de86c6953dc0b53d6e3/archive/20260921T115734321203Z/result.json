@@ -1,0 +1,67 @@
+{
+  "lead_id": "35d79de86c6953dc0b53d6e3",
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "Holori",
+    "website": "https://holori.com",
+    "employee_count_band": "unknown"
+  },
+  "original_submission": {
+    "name": "Public Company Demo",
+    "email": "holori-demo@example.invalid",
+    "company_name": "Holori",
+    "website": "https://holori.com",
+    "employee_count_band": "unknown"
+  },
+  "accepted_profile": null,
+  "fit": {
+    "employee_points": null,
+    "cloud_points": null,
+    "score": null,
+    "score_status": "provisional",
+    "rationale": "Assessment failed, so both fit components are unknown."
+  },
+  "compliance_checks": [
+    {
+      "kind": "assessment",
+      "policy_entry": "assessment",
+      "outcome": "review_required",
+      "reason": "The assessment did not complete, so the engagement policy could not be cleared.",
+      "evidence_id": null
+    }
+  ],
+  "compliance_outcome": "review_required",
+  "final_status": "review_required",
+  "summary": "The automated assessment did not complete. Review the saved evidence and errors.",
+  "evidence_references": [
+    "https://holori.com/",
+    "https://doc.holori.com/",
+    "https://www.linkedin.com/company/holori-cloud",
+    "https://holori.com/holori-finops-tool/",
+    "https://holori.com/contact/",
+    "https://holori.com/terms-of-use/",
+    "https://labs.cloudsecurityalliance.org/research/eu-tech-sovereignty-cloud-ai-enterprise-risk-v1-0-csa-styled/",
+    "https://www.inyocounty.us/sites/default/files/2023-05/20230516AgendaPacket.pdf",
+    "https://www.academia.edu/49356917/HISTORY_OF_THE_YEZIDIS_210412_endnotes",
+    "https://holori.com/infrastructureview/",
+    "https://holori.com/cloud-diagrams/",
+    "https://holori.com/the-10-best-cloud-management-platforms-in-2026/",
+    "https://holori.com"
+  ],
+  "policy_version": "2026-09-21",
+  "openai_requested_model": "gpt-5.6-luna",
+  "openai_returned_model": "gpt-5.6-luna",
+  "jev_requested_model": "jev-latest",
+  "jev_resolved_model": null,
+  "warnings": [
+    "Page fetch failed for https://app.holori.com/: HTTPStatusError: Server error '500 Internal Server Error' for url 'https://firecrawl.szotyifing.fun/v1/scrape'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+  ],
+  "errors": [
+    "ValidationError: 1 validation error for JevAssessment\nraw_answers.competitor_evidence__spendwise_cloud\n  Value error, choice probabilities must not be empty [type=value_error, input_value=ChoiceAnswer(type='choice...lities={}, confidence=0), input_type=ChoiceAnswer]\n    For further information visit https://errors.pydantic.dev/2.13/v/value_error"
+  ],
+  "synthetic": false,
+  "processed_at": "2026-09-21T11:56:29.502802Z",
+  "processing_seconds": 36.976,
+  "notification_status": "sent"
+}

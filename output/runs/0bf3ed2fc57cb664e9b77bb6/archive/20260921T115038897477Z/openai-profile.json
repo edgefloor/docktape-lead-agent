@@ -1,0 +1,168 @@
+{
+  "attempts": [
+    {
+      "requested_model": "gpt-5.6-luna",
+      "returned_model": "gpt-5.6-luna",
+      "profile": {
+        "identity": {
+          "value": "Bitrise",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697"
+          ]
+        },
+        "observed_aliases": [
+          "Bitrise, Inc.",
+          "Bitrise Limited"
+        ],
+        "business_description": {
+          "value": "Bitrise provides a mobile DevOps platform for building, testing, deploying, and releasing iOS and Android applications, including CI/CD, managed build infrastructure, release management, build caching, and CodePush updates.",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697",
+            "evidence_81dc1244c4d9cf918199",
+            "evidence_082cf4e96d8619021a9a",
+            "evidence_4bf03e0b470f0cb113dd"
+          ]
+        },
+        "jurisdictions": [
+          {
+            "entity_name": "Bitrise, Inc.",
+            "country": "US",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          },
+          {
+            "entity_name": "Bitrise Limited",
+            "country": "GB",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          },
+          {
+            "entity_name": "Bitrise Limited",
+            "country": "HU",
+            "role": "office",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_9917f03b93354239c0a4"
+            ]
+          },
+          {
+            "entity_name": "Bitrise",
+            "country": "unknown",
+            "role": "registered_jurisdiction",
+            "support_type": "unknown",
+            "evidence_ids": []
+          },
+          {
+            "entity_name": "Bitrise",
+            "country": "unknown",
+            "role": "contracting_entity",
+            "support_type": "unknown",
+            "evidence_ids": []
+          },
+          {
+            "entity_name": "Bitrise",
+            "country": "unknown",
+            "role": "ultimate_parent",
+            "support_type": "unknown",
+            "evidence_ids": []
+          },
+          {
+            "entity_name": "Bitrise",
+            "country": "unknown",
+            "role": "operational_headquarters",
+            "support_type": "unknown",
+            "evidence_ids": []
+          }
+        ],
+        "employee_count_band": {
+          "value": "51-200",
+          "support_type": "self_reported",
+          "evidence_ids": [
+            "evidence_c9ea57100dd9891ef0d1"
+          ]
+        },
+        "cloud_signals": [
+          {
+            "value": "Bitrise sells a managed mobile CI/CD platform with cloud runners and dedicated Apple silicon infrastructure for building, testing, and deploying applications.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_082cf4e96d8619021a9a",
+              "evidence_4bf03e0b470f0cb113dd"
+            ]
+          },
+          {
+            "value": "Bitrise operates and scales infrastructure for virtual machines, networking, Linux builds in Google Cloud, and Mac build infrastructure.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_a6cf7cf50fe257cddf2c"
+            ]
+          },
+          {
+            "value": "Bitrise provides a Cloud Controller for Bitrise-managed infrastructure in a customer AWS environment.",
+            "support_type": "direct",
+            "evidence_ids": [
+              "evidence_0969d747bb3899438ecb"
+            ]
+          }
+        ],
+        "proposed_cloud_category": {
+          "value": "substantial_cloud",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697",
+            "evidence_082cf4e96d8619021a9a",
+            "evidence_a6cf7cf50fe257cddf2c",
+            "evidence_0969d747bb3899438ecb"
+          ]
+        },
+        "competitive_overlap": {
+          "value": "adjacent_service",
+          "support_type": "direct",
+          "evidence_ids": [
+            "evidence_1935a00999547c844697",
+            "evidence_082cf4e96d8619021a9a",
+            "evidence_4bf03e0b470f0cb113dd"
+          ]
+        },
+        "missing_facts": [
+          "Registered jurisdiction and legal domicile are not established by the available evidence.",
+          "Contracting entity is not established by the available evidence.",
+          "Ultimate parent is not established by the available evidence.",
+          "Operational headquarters is not established by fetched page evidence.",
+          "No evidence identifies Bitrise as a seller of cloud cost visibility, waste detection, rightsizing, commitment optimization, or FinOps reporting."
+        ],
+        "conflicts": [],
+        "sales_summary": [
+          {
+            "text": "Bitrise sells a substantial cloud-based mobile DevOps platform, including managed build infrastructure, cloud runners, CI/CD, testing, deployment, and release-management capabilities.",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_082cf4e96d8619021a9a",
+              "evidence_a6cf7cf50fe257cddf2c"
+            ]
+          },
+          {
+            "text": "Bitrise appears adjacent rather than directly competitive to a cloud cost optimization and FinOps vendor because its supported offerings focus on application CI/CD and mobile DevOps, not cloud spend optimization.",
+            "evidence_ids": [
+              "evidence_1935a00999547c844697",
+              "evidence_082cf4e96d8619021a9a",
+              "evidence_4bf03e0b470f0cb113dd"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "errors": [
+    "Follow-up reassessment failed: AssessmentError: profile cites invalid evidence: business_description: evidence_82cf4e96d8619021a9a"
+  ]
+}

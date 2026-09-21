@@ -1,0 +1,26 @@
+[project]
+name = "docktape-lead-agent"
+version = "0.1.0"
+description = "Bounded public-evidence research and qualification for sales leads"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1,<1",
+    "openai>=1.109.0,<3",
+    "openpyxl>=3.1.5,<4",
+    "pydantic>=2.11.9,<3",
+    "python-dotenv>=1.1.1,<2",
+    "rapidfuzz>=3.14.1,<4",
+    "tldextract>=5.3.0,<6",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.4.2,<9",
+    "respx>=0.22.0,<1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+pythonpath = ["."]
