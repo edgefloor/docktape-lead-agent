@@ -22,7 +22,7 @@ See [`IMPLEMENTATION-PLAN.md`](IMPLEMENTATION-PLAN.md) for the detailed design.
 | Qovery | `review_required` | Unknown | Review required |
 | Holori | `do_not_engage` | Unknown | Flagged as an unlisted competitor |
 
-The generated workbook is [`output/lead-tracker.xlsx`](output/lead-tracker.xlsx). [`output/DEMO-VERIFICATION.md`](output/DEMO-VERIFICATION.md) records the completed runs.
+The generated workbook is [`output/lead-tracker.xlsx`](output/lead-tracker.xlsx). [`output/`](output/) records the completed runs + Slack screenshots.
 
 Submit screenshots from the Slack test channel separately as visual proof.
 
