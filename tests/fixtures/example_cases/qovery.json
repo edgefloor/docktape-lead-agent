@@ -1,0 +1,957 @@
+{
+  "source": {
+    "run_id": "919a2866b37b33b06fdbe66a",
+    "snapshot": "last completed assessment attempt from historical demo output",
+    "reviewed_at": "2026-09-23"
+  },
+  "submission": {
+    "name": "Public Company Demo",
+    "email": "qovery-demo@example.invalid",
+    "company_name": "Qovery",
+    "website": "https://www.qovery.com",
+    "employee_count_band": "unknown"
+  },
+  "research": {
+    "evidence": [
+      {
+        "id": "evidence_09f17a6b952edef9dd3d",
+        "source_type": "submitted_field",
+        "source_url": null,
+        "excerpt": "name: Public Company Demo",
+        "retrieved_at": "2026-09-21T13:17:03.051870Z",
+        "company_association": "submitted",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      },
+      {
+        "id": "evidence_ceb86a070066d2560426",
+        "source_type": "submitted_field",
+        "source_url": null,
+        "excerpt": "email: qovery-demo@example.invalid",
+        "retrieved_at": "2026-09-21T13:17:03.051870Z",
+        "company_association": "submitted",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      },
+      {
+        "id": "evidence_862c56c170ca0f69f19d",
+        "source_type": "submitted_field",
+        "source_url": null,
+        "excerpt": "company_name: Qovery",
+        "retrieved_at": "2026-09-21T13:17:03.051870Z",
+        "company_association": "submitted",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      },
+      {
+        "id": "evidence_65b665672831a5a1a7bf",
+        "source_type": "submitted_field",
+        "source_url": null,
+        "excerpt": "website: https://www.qovery.com",
+        "retrieved_at": "2026-09-21T13:17:03.051870Z",
+        "company_association": "submitted",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      },
+      {
+        "id": "evidence_baceff8d4951defd0ebf",
+        "source_type": "submitted_field",
+        "source_url": null,
+        "excerpt": "employee_count_band: unknown",
+        "retrieved_at": "2026-09-21T13:17:03.051870Z",
+        "company_association": "submitted",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      },
+      {
+        "id": "evidence_617478cb42e70b3cac8e",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/",
+        "excerpt": "Qovery is the agentic infrastructure platform that helps humans and agents handle provisioning, deployments and day-2 operations on their own cloud account, with their rules.",
+        "retrieved_at": "2026-09-21T13:17:13.087998Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com official company",
+        "result_title": "Qovery - The Agentic Infrastructure Platform",
+        "result_position": 1
+      },
+      {
+        "id": "evidence_e1c1af63c495d46405e7",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/about",
+        "excerpt": "The same hundred problems, solved differently at every company, maintained by whoever drew the short straw. In 2020, Morgan and I started Qovery with a simple thesis: if we could give every engineering team a production-grade infrastructure platform - running in their own cloud, governed by their own policies - we could give them back the time ...",
+        "retrieved_at": "2026-09-21T13:17:13.089446Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com official company",
+        "result_title": "About Qovery",
+        "result_position": 2
+      },
+      {
+        "id": "evidence_5fe0fd1ec0571da54748",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/talk-with-us",
+        "excerpt": "An infrastructure control plane for platform teams and their coding agents - Claude Code, Cursor, Codex. Policy-checked before it runs, logged and reversible, on your own cloud. Talk with a solution engineer.",
+        "retrieved_at": "2026-09-21T13:17:13.090474Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com official company",
+        "result_title": "Talk with us - Qovery, the Agentic Infrastructure Platform",
+        "result_position": 3
+      },
+      {
+        "id": "evidence_29d8d11bf0f1243f2acc",
+        "source_type": "search_snippet",
+        "source_url": "https://pitchbook.com/profiles/company/398937-25",
+        "excerpt": "Qovery ; Primary IndustrySoftware Development Applications ; Vertical(s)CloudTech & DevOps, SaaS, Artificial Intelligence & Machine Learning ; HQ Location. Paris, ...",
+        "retrieved_at": "2026-09-21T13:17:13.152696Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com official company",
+        "result_title": "Qovery 2026 Company Profile: Valuation, Funding & Investors | PitchBook",
+        "result_position": 4
+      },
+      {
+        "id": "evidence_1198130f12b9a159582a",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/guides",
+        "excerpt": "Qovery is the agentic infrastructure platform that helps humans and agents handle provisioning, deployments and day-2 operations on their own cloud account, ...",
+        "retrieved_at": "2026-09-21T13:17:13.154565Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com official company",
+        "result_title": "Guides - Qovery",
+        "result_position": 5
+      },
+      {
+        "id": "evidence_168ada9c3f2187d0fd3a",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/terms",
+        "excerpt": "Access to the platform Access to the platform requires legal capacity. If registering on behalf of a legal entity, you represent that you have the authority to bind that entity to these terms. The platform is designed for both professional customers (businesses) and individual customers.",
+        "retrieved_at": "2026-09-21T13:17:13.921179Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com employee count legal entity jurisdiction headquarters",
+        "result_title": "Terms of Service - Qovery",
+        "result_position": 1
+      },
+      {
+        "id": "evidence_57386d27bdc2ee0afb9a",
+        "source_type": "search_snippet",
+        "source_url": "https://altlibre.com/papers/your-ai-answers-to-a-foreign-government",
+        "excerpt": "2026. szept. 7. ... An Nvidia GPU in a Finnish hall run by a Dutch company under Union law passes all three. ... staff while the parent and jurisdiction are foreign.",
+        "retrieved_at": "2026-09-21T13:17:13.991940Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com employee count legal entity jurisdiction headquarters",
+        "result_title": "Your AI Answers to a Foreign Government - AltLibre",
+        "result_position": 2
+      },
+      {
+        "id": "evidence_b214c960006631534df2",
+        "source_type": "search_snippet",
+        "source_url": "https://www.zenml.io/llmops-tags/multi-agent-systems",
+        "excerpt": "Otto, founded by Suli Omar, addresses the challenge of making AI agents accessible to non-technical users by embedding agent workflows directly ...",
+        "retrieved_at": "2026-09-21T13:17:14.146117Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com employee count legal entity jurisdiction headquarters",
+        "result_title": "multi_agent_systems - LLMOps Database - ZenML",
+        "result_position": 3
+      },
+      {
+        "id": "evidence_9087486d577459423448",
+        "source_type": "search_snippet",
+        "source_url": "https://stonetusker.com/newsletters/",
+        "excerpt": "Third, count the hours work stopped because an environment, dataset, or ... An employee leaves the company. Access is revoked automatically. A ...",
+        "retrieved_at": "2026-09-21T13:17:14.256254Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com employee count legal entity jurisdiction headquarters",
+        "result_title": "Newsletters - DevOps, Platform Engineering & CI/CD ... - Stonetusker",
+        "result_position": 4
+      },
+      {
+        "id": "evidence_7b0c4daacc6202a9fc03",
+        "source_type": "search_snippet",
+        "source_url": "https://www.datanyze.com/companies/qovery/481289896",
+        "excerpt": "Find contact information for Qovery. Learn about their Networking Software, Software market share, competitors, and Qovery's email format.",
+        "retrieved_at": "2026-09-21T13:17:14.303550Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com employee count legal entity jurisdiction headquarters",
+        "result_title": "Qovery Company Profile | Management and Employees List - Datanyze",
+        "result_position": 5
+      },
+      {
+        "id": "evidence_2e7220c90ae5f9165bb1",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/",
+        "excerpt": "Qovery is the agentic infrastructure platform that helps humans and agents handle provisioning, deployments and day-2 operations on their own cloud account, with their rules.",
+        "retrieved_at": "2026-09-21T13:17:15.708420Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com cloud infrastructure engineering",
+        "result_title": "Qovery - The Agentic Infrastructure Platform",
+        "result_position": 1
+      },
+      {
+        "id": "evidence_678565407e61c18aae72",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/about",
+        "excerpt": "Qovery gives engineering teams a production-grade Kubernetes platform - running in their own cloud, governed by their own policies - so they can stop rebuilding infrastructure and start shipping product. Founded in 2020 by Romaric Philogene and Morgan Perry, Qovery is backed by the founders of Docker, Datadog, and Contentsquare. We are a team of 40+ across Europe and North America, building ...",
+        "retrieved_at": "2026-09-21T13:17:15.709444Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com cloud infrastructure engineering",
+        "result_title": "About Qovery",
+        "result_position": 2
+      },
+      {
+        "id": "evidence_3c54632f0e0d12011a1f",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/guides",
+        "excerpt": "Qovery is the agentic infrastructure platform that helps humans and agents handle provisioning, deployments and day-2 operations on their own cloud account, ...",
+        "retrieved_at": "2026-09-21T13:17:15.710385Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com cloud infrastructure engineering",
+        "result_title": "Guides - Qovery",
+        "result_position": 3
+      },
+      {
+        "id": "evidence_95248f2b851b0ad1cbc8",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/solutions/platform-engineers",
+        "excerpt": "Qovery operates infrastructure in your own cloud account. Control plane and data plane are separated - nothing migrates to a multi-tenant platform. 200+.",
+        "retrieved_at": "2026-09-21T13:17:15.711370Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com cloud infrastructure engineering",
+        "result_title": "For Platform Engineers - Qovery",
+        "result_position": 4
+      },
+      {
+        "id": "evidence_752dcdbb1bfc169caa61",
+        "source_type": "search_snippet",
+        "source_url": "https://www.qovery.com/blog/the-fastest-way-to-k8s",
+        "excerpt": "2026. jan. 3. ... Which Platforms Let AI Agents Deploy to Production Without Cloud Credentials? ... Qovery is the agentic infrastructure platform that helps humans ...",
+        "retrieved_at": "2026-09-21T13:17:15.712252Z",
+        "company_association": "unverified",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": "Qovery qovery.com cloud infrastructure engineering",
+        "result_title": "The fastest way to K8s: how Qovery builds self-service environments ...",
+        "result_position": 5
+      },
+      {
+        "id": "evidence_fcfaa5919cbb160b6dc4",
+        "source_type": "page",
+        "source_url": "https://www.qovery.com",
+        "excerpt": "[Webinar Sept 24: Heroku to AWS in one command, with an agent doing the work.Webinar Sept 24: Heroku to AWS in one command, with an agent doing the work.\\\n\\\nSave your spot](https://www.linkedin.com/events/7501174580007399424/)\n\n![](https://www.qovery.com/illustrations/home-v1/hero-mesh.webp)\n\nSelf-service infrastructure for any cloud and agents\n====================================================\n\nDeploy on Kubernetes, AWS, GCP, Scaleway, or Azure without picking a lane. Get the best developer experience to ship, and keep every deploy inside your guardrails, whether triggered by your team or an AI agent\n\n[Start for free](https://console.qovery.com/)\n\nStart with agent\n\n14 days free trial, no credit card required\n\n![Qovery Deploy preview](https://www.qovery.com/illustrations/home-v1/hero-deploy.png)\n\nDeployAgentProvisionObserveSecureOptimize\n\nDeploy\n\nPowering infrastructure for 200+ companies\n------------------------------------------\n\n[4.8 on G2 with +80 reviews](https://www.g2.com/products/qovery-qovery/reviews)\n\n[All customer stories](https://www.qovery.com/case-studies)\n\n![Talkspace](https://www.qovery.com/logos/customers/talkspace.svg)\n\n![Powens](https://www.qovery.com/logos/customers/powens.svg)\n\n![Alan](https://www.qovery.com/logos/customers/alan.svg)\n\n![Prosperity](https://www.qovery.com/logos/customers/prosperity.svg)\n\n[![](https://www.qovery.com/illustrations/home-v1/alan-testimonial.png)\\\n\\\n![Alan](https://www.qovery.com/logos/customers/alan.svg)\\\n\\\nDeployment speed\\\n\\\n### Alan cut deployment time from 55 minutes to 8 minutes after moving off Elastic Beanstalk onto Qovery.](https://www.qovery.com/case-studies/alan-case-study)\n\n![Hyperline](https://www.qovery.com/logos/customers/hyperline.svg)\n\n![Getsafe](https://www.qovery.com/logos/customers/getsafe.svg)\n\n![Spiko](https://www.qovery.com/logos/customers/spiko.svg)\n\n![SoFive](https://www.qovery.com/logos/customers/sofive.svg)\n\n![Talkspace](https://www.qovery.com/logos/customers/talkspace.svg)\n\n![Alan](https://www.qovery.com/logos/customers/alan.svg)\n\n![Powens](https://www.qovery.com/logos/customers/powens.svg)\n\n![Prosperity](https://www.qovery.com/logos/customers/prosperity.svg)\n\n[![](https://www.qovery.com/illustrations/home-v1/alan-testimonial.png)\\\n\\\n![Alan](https://www.qovery.com/logos/customers/alan.svg)\\\n\\\nDeployment speed\\\n\\\n### Alan cut deployment time from 55 minutes to 8 minutes after moving off Elastic Beanstalk onto Qovery.](https://www.qovery.com/case-studies/alan-case-study)\n\n![Hyperline](https://www.qovery.com/logos/customers/hyperline.svg)\n\n![Getsafe](https://www.qovery.com/logos/customers/getsafe.svg)\n\n![Spiko](https://www.qovery.com/logos/customers/spiko.svg)\n\n![SoFive](https://www.qovery.com/logos/customers/sofive.svg)\n\n[All customer stories](https://www.qovery.com/case-studies)\n\nInfrastructure is now the bottleneck\n------------------------------------\n\nThe systems teams rely on were designed years ago, for problems that have since changed shape. Qovery tackles them.\n\n![](https://www.qovery.com/illustrations/bottleneck/workloads-growing.png)\n\n### Workloads keep growing\n\nServices, deployments, environments, AI workloads. All of it lands on your infrastructure.\n\n![](https://www.qovery.com/illustrations/bottleneck/agents-access.png)\n\n### Agents need a secure access to your infra\n\nThey deploy, debug and make changes. That access needs permissions, boundaries and an audit trail.\n\n![](https://www.qovery.com/illustrations/bottleneck/devops-piling-up.png)\n\n### Day-to-day devops work keeps piling up\n\nSomeone still has to upgrade the clusters, patch the dependencies and handle the incidents.\n\nWherever you're coming from, Qovery fits right in\n-------------------------------------------------\n\nComing from a PaaS, a self-managed cluster or another provider? Move off easily with Qovery's migration tooling, no re-architecture required, and everything stays in your own cloud account.\n\n[Our migration guide](https://www.qovery.com/migrate)\n\n![](https://www.qovery.com/logos/qovery-logo-white.svg)powered migration\n\n![](https://www.qovery.com/logos/competitors/vercel.svg)Vercel\n\n![](https://www.qovery.com/logos/cloud/aws.svg)EKS\n\nApplication moved\n\n32\n\nMigration time\n\n2h32\n\n![](https://www.qovery.com/logos/qovery-logo-white.svg)powered migration\n\n![](https://www.qovery.com/logos/competitors/railway.svg)Railway\n\n![](https://www.qovery.com/logos/cloud/scaleway.svg)Scaleway\n\nApplication moved\n\n124\n\nMigration time\n\n2h32\n\n![](https://www.qovery.com/logos/qovery-logo-white.svg)powered migration\n\n![](https://www.qovery.com/logos/competitors/heroku-mark.svg)Heroku\n\n![](https://www.qovery.com/logos/cloud/aws.svg)\n\nApplication moved\n\n37\n\nMigration time\n\n1h57\n\nDeploy anything, anywhere, all at once\n--------------------------------------\n\nShip every service without building or maintaining the pipeline behind it.\n\n![Qovery deployment interface from the Figma homepage design](https://www.qovery.com/illustrations/home-v1/deploy.png)\n\n### Easy deploys with blueprints\n\nUse Qovery-maintained templates to kick-start your services, or start from scratch\n\n### Trigger from anywhere\n\nUse our console, CLI, API or any AI tool with our deploy Qovery skill\n\n### Integrated with the tool you already use\n\nKeep your pipelines, and deploy from any git or container registry\n\n### Monitor deployments in real time\n\nFollow build and deploy logs live, and roll back to any previous version if the deploy goes badly\n\n[All deployment capabilities](https://www.qovery.com/product/deploy)\n\nAgents you can trust with production\n------------------------------------\n\nHand agents real work while keeping the entire control and sovereignty on the data you give them access to.\n\n![Qovery agent access interface from the Figma homepage design](https://www.qovery.com/illustrations/home-v1/agents.png)\n\n### Deploy your agent and workflow easily\n\nDeploy AI workloads on your infrastructure with strict guardrails and controls\n\n### Create tailored access for each agent\n\nCreate Policy API token for better control on what each agent can do and have access to\n\n### Drive Qovery from Claude Code or Codex\n\nDeploy and manage through the MCP server and skills, without switching back to Qovery\n\n### Easy troubleshoot with the built-in Copilot\n\nCut troubleshooting time: Copilot reads your logs, events and config to explain a failed deploy.\n\n[All agents capabilities](https://www.qovery.com/agents)\n\n![](https://www.qovery.com/illustrations/testimonials/qovery-bottom-left.svg)![](https://www.qovery.com/illustrations/testimonials/qovery-top-right.svg)\n\n> We can be much more flexible with the way we want to release different features. With Qovery, we feel much more confident that they’re thoroughly tested and ready to go.\n\n![](https://www.qovery.com/illustrations/home-v1/jack-miller.png)\n\nJack Miller\n\nDirector of SRE and Security at Talkspace\n\nProduction-ready from day one\n-----------------------------\n\nAnd let Qovery handles all the day-2 operations for you.\n\n![Qovery production-ready cloud management visual from the Figma homepage design](https://www.qovery.com/illustrations/home-v1/production-ready.png)\n\n### Run on any cloud\n\nServices, deployments, environments, AI workloads. All of it lands on your infrastructure.\n\n### Production-ready configuration\n\nNetworking, IAM, encryption and autoscaling, configured\n\n### Upgrades and patches handled\n\nNetworking, IAM, encryption and autoscaling, configured\n\n### Bring your existing clusters\n\nLeverage everything Qovery offers, deployments, environments, guardrails, on your current clusters\n\n[All provision features](https://www.qovery.com/product/provision)\n\nBuilt for teams working together\n--------------------------------\n\nLet your whole team ship in parallel, each with the right access, without stepping on each other's work\n\n![Qovery preview environment comment workflow from the Figma homepage design](https://www.qovery.com/illustrations/home-v1/team-collaboration.png)\n\n### Preview environments\n\nOne per pull request, torn down automatically when it's no longer needed\n\n### Templates your team can reuse\n\nLet your team deploy services your admins have already set up and approved\n\n### Built-in guardrails\n\nApprovals, quotas, and environment restrictions enforced automatically, not through tickets\n\n### Give everyone the right access\n\nGive each person the right access per project and environment, from read-only to full control\n\n[See how team collaborates on Qovery](https://www.qovery.com/solutions/platform-engineers)\n\n![](https://www.qovery.com/illustrations/home-v1/compliance/product-logo-watermark.svg)\n\nTailored for regulated industries\n---------------------------------\n\nQovery is and helps you stay compliant. Every human and AI action is attributed and logged, ready for your next audit.\n\n![](https://www.qovery.com/illustrations/home-v1/compliance/soc.svg)\n\n### SOC 2 Type II\n\nIndependent audit of security controls, verified over time.\n\n![](https://www.qovery.com/illustrations/home-v1/compliance/hipaa.svg)\n\n### HIPAA\n\nUS regulation on handling health information.\n\n![](https://www.qovery.com/illustrations/home-v1/compliance/gdpr.svg)\n\n### GDPR\n\nEU regulation on personal data protection.\n\n![](https://www.qovery.com/illustrations/home-v1/compliance/dora.svg)\n\n### DORA\n\nEU regulation on digital resilience for financial entities.\n\nWorking in a regulated industry? See how teams run Qovery under their compliance requirements\n\n[Talk with us](https://www.qovery.com/talk-with-us)\n\nFrequently asked questions\n--------------------------\n\nWhat is Qovery, exactly?\n\nA self-service platform that sits between your team (human or AI agent) and your own cloud account, so you can deploy on Kubernetes, AWS, GCP, or Azure without building or hiring for that layer yourself.\n\nWhen is the best time to try Qovery?\n\nYou don't need a six-month plan to start. These are the moments teams usually reach out:\n\n*   You're about to hire your first platform engineer, and wondering if you actually need to.\n*   You've outgrown Heroku, Render, or a PaaS that's become a black box.\n*   Your release cycle slips because of the CI/CD queue, not your code.\n*   Security just blocked an AI coding tool because nobody could account for its access.\n*   Your last compliance audit turned into a week of manual screenshots.\n*   Leadership just asked how you're going to let AI agents ship code safely.\n\n[Start free trial](https://console.qovery.com/)\n (14 days with no credit card) or [talk to us directly](https://www.qovery.com/talk-with-us)\n.\n\nDo I need to rewrite my app to use it?\n\nNo. Connect your existing git repo or container registry, keep your Dockerfile or Procfile, and Qovery handles the deployment pipeline, no re-architecture required.\n\nDoes Qovery run in my cloud account, or yours?\n\nYours. Qovery is Bring Your Own Cloud (BYOC), it orchestrates, but your data and compute stay inside your own AWS, GCP, or Azure account. Nothing runs through Qovery's infrastructure.\n\nHow long does migrating off Heroku or Render take?\n\nIt varies by setup, but customers have moved in days rather than months. Elevo automated their Heroku-based staging environments and cut cycle time in half. Qovery's migration tooling avoids a full rewrite.\n\nCan AI coding agents deploy through Qovery safely?\n\nYes. Agents get scoped access through Qovery Skills, the same policy-as-code guardrails, permissions, and audit logging your human engineers use, instead of raw personal credentials.\n\nWhat happens after the free trial?\n\nYou get 14 days to test on your own infrastructure, no credit card required, then move to a paid plan or talk to sales if you want a hands-on migration or enterprise setup.\n\n![](https://www.qovery.com/illustrations/home-v1/closing-cta-corner-left.svg)![](https://www.qovery.com/illustrations/home-v1/closing-cta-corner-right.svg)\n\n![](https://www.qovery.com/illustrations/home-v1/closing-cta-mesh-desktop.svg)![](https://www.qovery.com/illustrations/home-v1/closing-cta-mesh-mobile.svg)\n\nReady to build the future of your inf",
+        "retrieved_at": "2026-09-21T13:17:17.131447Z",
+        "company_association": "submitted_domain",
+        "truncated": true,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      },
+      {
+        "id": "evidence_bcace5d767f8944d13d8",
+        "source_type": "page",
+        "source_url": "https://www.qovery.com/about",
+        "excerpt": "[Webinar Sept 24: Heroku to AWS in one command, with an agent doing the work.Webinar Sept 24: Heroku to AWS in one command, with an agent doing the work.\\\n\\\nSave your spot](https://www.linkedin.com/events/7501174580007399424/)\n\nAbout - Est. 2020\n\nParis, France\n\nThe platform your  \nengineers deserve.\n======================================\n\nQovery gives engineering teams a production-grade Kubernetes platform - running in their own cloud, governed by their own policies - so they can stop rebuilding infrastructure and start shipping product.\n\nFounded in 2020 by Romaric Philogene and Morgan Perry, Qovery is backed by the founders of Docker, Datadog, and Contentsquare. We are a team of 40+ across Europe and North America, building the control plane for the AI era.\n\n01Founder letter\n\n![Romaric Philogene, CEO & Co-founder](https://www.qovery.com/authors/romaric.avif)\n\nRomaric Philogene - CEO & Co-founder\n\nThe first time I got paged at 2 AM, I was 22 and working at a Paris startup that had just closed its Series A. The database had run out of disk. The fix took four minutes. Getting through the VPN, finding the right dashboard, and remembering which runbook to follow took forty-five.\n\nThat pattern repeated everywhere I worked. Smart engineers spending their best hours on undifferentiated infrastructure work - not because they wanted to, but because every team rebuilds the same platform glue from scratch. Terraform modules, CI pipelines, RBAC matrices, cost dashboards, secret rotation scripts. The same hundred problems, solved differently at every company, maintained by whoever drew the short straw.\n\nIn 2020, Morgan and I started Qovery with a simple thesis: if we could give every engineering team a production-grade infrastructure platform - running in their own cloud, governed by their own policies - we could give them back the time they were losing to infrastructure busywork.\n\nFour years later, 200+ organizations run on Qovery. But the thesis has evolved. The rise of AI coding agents - Claude, Cursor, Codex - changed what \"self-service\" means. It is no longer just humans who need to deploy. Agents do too. And they need the same guardrails: RBAC, policy enforcement, audit trails, cost controls.\n\nSo we built the Qovery Skill, the MCP server, and the agentic control plane. One API that humans and agents share. Same permissions, same audit log, same compliance posture.\n\nThe infrastructure problem has not changed since my first 2 AM page. But the solution finally has.\n\nRomaric Philogene\n\nCEO & Co-founder, Qovery\n\n02Mission\n\n> \"Give every engineering team - and every AI agent - a production-grade Kubernetes platform they can trust. In their cloud. Under their rules.\"\n\n200+\n\nOrganizations\n\n4\n\nCloud providers\n\n40+\n\nTeam members\n\n50%\n\nWomen in leadership\n\n03Principles\n\nWhat we believe.\n----------------\n\nI.\n\n### Your cloud, always.\n\nQovery runs a control plane. Your workloads, your data, your secrets stay in your VPC - encrypted with your keys, governed by your policies. We are never a sub-processor of your customer data.\n\nII.\n\n### Policy, not permissions.\n\nWe believe in declarative guardrails, not ticket queues. Define what is allowed once - as code - and the platform enforces it on every deploy, every rollback, every scale event.\n\nIII.\n\n### Agents are first-class.\n\nAI agents get the same API, the same RBAC scope, and the same audit trail as human engineers. The control plane does not care who triggered the deploy - it cares that the policy was satisfied.\n\nIV.\n\n### Ship the standard.\n\nVanilla Kubernetes. Standard Helm charts. Open Terraform providers. No proprietary CRDs, no custom resource formats. If you leave Qovery, your manifests still work.\n\nV.\n\n### Earn trust with evidence.\n\nSOC 2, HIPAA, DORA, PCI DSS - compliance is not a checkbox on our marketing page. It is an architectural property of the platform, backed by audit logs, policy-as-code, and exportable evidence.\n\n04Timeline\n\nHow we got here.\n----------------\n\n2007\n\n### First pager\n\nRomaric gets his first 2 AM infrastructure alert. The fix takes 4 minutes. Finding the runbook takes 45.\n\n2012\n\n### First platform\n\nBuilds an internal developer platform at a Paris startup. Realizes every team rebuilds the same glue.\n\n2018\n\n### The gap\n\nAfter working at multiple scale-ups, the pattern is clear: platform engineering is the most duplicated effort in tech.\n\n2020\n\n### Qovery founded\n\nRomaric and Morgan incorporate BIRDSIGHT (Qovery) in Paris. First commit to the Rust deployment engine.\n\n2021\n\n### First customers\n\nEarly adopters deploy production workloads. The BYOC architecture proves that you can have PaaS simplicity without giving up cloud ownership.\n\n2023\n\n### Growth\n\nFunding from world-class angels: the CEO & CTO of Datadog, co-founder of Docker, ex-CTO of Twilio. Team grows to 30+.\n\n2025\n\n### AI era begins\n\nMCP server, Qovery Skill, and AI Copilot launch. Agents become first-class citizens of the platform.\n\n2026\n\n### Fleet scale\n\n200+ organizations, 1000+ clusters managed. 40+ team members across Europe and North America.\n\n05Team & investors\n\nThe people.\n-----------\n\nA team of 40+ engineers, designers, and operators - fully remote across Europe and North America. 50% women at board and C-level. Backed by founders who built the infrastructure the internet runs on.\n\n40+\n\nTeam members\n\n100%\n\nRemote (EU + NA)\n\n50%\n\nWomen in board & C-level\n\n15+\n\nNationalities\n\nBacked by\n\nOlivier Pomel\n\nCEO, Datadog\n\nAlexis Le-Quoc\n\nCTO, Datadog\n\nSebastien Pahl\n\nCo-founder, Docker\n\nOtt Kaukver\n\nCTO, Checkout (ex-CTO Twilio & Skype)\n\nJonathan Cherki\n\nCEO, Contentsquare\n\nInstitutional investors\n\n[![IRIS](https://www.qovery.com/logos/investors/iris.svg)](https://www.iris.vc/)\n[![Crane.vc](https://www.qovery.com/logos/investors/crane.svg)](https://crane.vc/)\n[![Speedinvest](https://www.qovery.com/logos/investors/speedinvest.svg)](https://www.speedinvest.com/)\n[![IrregEx](https://www.qovery.com/logos/investors/irregex.svg)](https://www.irregex.vc/)\n[![Techstars](https://www.qovery.com/logos/investors/techstars.svg)](https://www.techstars.com/)\n\nAngel investors\n\nJonathan Benhamou\n\nCEO, PeopleDoc\n\nClement Buyse\n\nCo-founder, PeopleDoc\n\nJean-Baptiste Aviat\n\nCTO, Sqreen\n\nJeremy Thomas\n\nCEO, GitGuardian\n\nAntoine Ayoub\n\nCo-founder, Le Wagon\n\nLiam Boogard-Azoulay\n\nVP Marketing, Scaleway\n\nJulien Quintard\n\nCEO, Routine (ex-MD Techstars)\n\nChristophe Chausson\n\nCEO, Chausson Finance\n\nGregoire Delpit\n\nHead of Strategy, Checkout\n\nAntoine Nougue\n\nHead of Commercial, Checkout\n\nCyril Chemla\n\nCEO, ProcessOut\n\nGeorges Gomes\n\nCEO, Dev.Riots\n\nAmirhossein Malekzadeh\n\nCEO, Logmatic\n\nAneel Lakhani\n\nInvestor, Crane Venture\n\nMarie Outtier\n\nCo-founder, Aiden\n\nMario Matar\n\nCTO, Monbanquet\n\nNagib Beydoun\n\nCEO, Yeeld\n\nValentine Baudouin\n\nPartner, Founders Future\n\nYang Tran\n\nAssociate, Speedinvest\n\nTechstars\n\nInstitutional investor\n\n06Open source\n\nBuilt in the open.\n------------------\n\nThe deployment engine that powers every Qovery cluster is open source. We believe infrastructure tooling should be auditable, extensible, and free from lock-in.\n\n[qovery/engineRust - 2.1k\\\n\\\nThe deployment engine that powers every Qovery cluster. Manages the full lifecycle of applications, databases, and jobs on Kubernetes.](https://github.com/Qovery/engine)\n[qovery/qovery-cliGo - 180+\\\n\\\nTerminal-first workflows for deploying, managing, and debugging applications on Qovery.](https://github.com/Qovery/qovery-cli)\n[Terraform ProviderGo - Official\\\n\\\nDeclare Qovery environments as infrastructure-as-code. State-managed, reviewable via PR, zero drift.](https://www.qovery.com/docs/getting-started/introduction)\n[DocumentationMDX - \\-\\\n\\\nComprehensive guides, API reference, and tutorials for every Qovery feature and integration.](https://www.qovery.com/docs/getting-started/introduction)\n\nBuild the  \nfuture of cloud.\n----------------------------\n\nWe are a fully remote team of engineers, designers, and operators building the infrastructure layer for the AI era. If you care about developer experience, Kubernetes, and shipping things that matter - we should talk.\n\n[See open roles](https://www.qovery.com/careers)\n[Read our blog](https://www.qovery.com/blog)",
+        "retrieved_at": "2026-09-21T13:17:18.210187Z",
+        "company_association": "submitted_domain",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      },
+      {
+        "id": "evidence_d1d996c34f2fb217d6df",
+        "source_type": "page",
+        "source_url": "https://www.qovery.com/product/deploy",
+        "excerpt": "[Webinar Sept 24: Heroku to AWS in one command, with an agent doing the work.Webinar Sept 24: Heroku to AWS in one command, with an agent doing the work.\\\n\\\nSave your spot](https://www.linkedin.com/events/7501174580007399424/)\n\n![](https://www.qovery.com/illustrations/products/deploy-background.png)\n\n![](https://www.qovery.com/illustrations/products/deploy-background.png)\n\n![](https://www.qovery.com/illustrations/products/deploy-background.png)\n\nGet anything into production,  \nwithout building the pipeline\n=============================================================\n\nConnect a repo and Qovery handles the rest: build, deploy, environments, rollbacks. Your team ships instead of maintaining the machinery that ships.\n\n[Deploy now](https://console.qovery.com/)\n[Documentation](https://www.qovery.com/docs/getting-started/guides/qovery-101/deploy)\n\n![Qovery Deploy interface](https://www.qovery.com/illustrations/home-v1/hero-deploy.png)\n\nTrusted by +200 companies to simplify their infrastructure burden\n\n![Getsafe](https://www.qovery.com/logos/customers/getsafe.svg)![Spiko](https://www.qovery.com/logos/customers/spiko.svg)![Charles.co](https://www.qovery.com/logos/customers/charles.svg)![RentalReady](https://www.qovery.com/logos/customers/rentalready.svg)![Hyperline](https://www.qovery.com/logos/customers/hyperline.svg)![The Mobile First Company](https://www.qovery.com/logos/customers/themobilefirstcompany.svg)![Talkspace](https://www.qovery.com/logos/customers/talkspace.svg)![Alan](https://www.qovery.com/logos/customers/alan.svg)![Powens](https://www.qovery.com/logos/customers/powens.svg)![Prosperity](https://www.qovery.com/logos/customers/prosperity.svg)![](https://www.qovery.com/logos/customers/getsafe.svg)![](https://www.qovery.com/logos/customers/spiko.svg)![](https://www.qovery.com/logos/customers/charles.svg)![](https://www.qovery.com/logos/customers/rentalready.svg)![](https://www.qovery.com/logos/customers/hyperline.svg)![](https://www.qovery.com/logos/customers/themobilefirstcompany.svg)![](https://www.qovery.com/logos/customers/talkspace.svg)![](https://www.qovery.com/logos/customers/alan.svg)![](https://www.qovery.com/logos/customers/powens.svg)![](https://www.qovery.com/logos/customers/prosperity.svg)\n\nDeploy anything with self-service experience\n--------------------------------------------\n\nYour platform team sets up what's allowed, then developers ship on their own\n\n![Supported workloads including applications, agents, databases, jobs, Terraform and Helm charts](https://www.qovery.com/illustrations/products/deploy-workloads@2x.png)\n\n### Deploy all types of workloads\n\nApps, databases, Helm charts, jobs or Terraform, you can deploy anything in Qovery\n\n![Deploy a maintained blueprint from the Qovery catalog](https://www.qovery.com/illustrations/products/deploy-blueprints@2x.png)\n\n### Easy deploy with blueprints\n\nDeploy Qovery-maintained blueprints like S3, ElastiCache or RDS, or the ones your team approves\n\n![Deploy through an AI agent using the Qovery skill](https://www.qovery.com/illustrations/products/deploy-anywhere@2x.png)\n\n### Deploy from wherever you work\n\nWhether it’s the console, CLI, API, Terraform provider or our AI skill, deploy from where it suits you best\n\n![Qovery automatically creates a preview environment when a pull request is opened](https://www.qovery.com/illustrations/products/deploy-pull-requests@2x.png)\n\nGive every pull request its own environment\n-------------------------------------------\n\nNo more queuing for staging or testing on someone else's changes. Every branch gets validated on its own, before it reaches production.\n\n*   ![](https://www.qovery.com/illustrations/products/bullets/git-branch-plus.svg)Created automatically on pull request, destroyed on merge\n*   ![](https://www.qovery.com/illustrations/products/bullets/copy.svg)A 1-to-1 copy of your environment\n*   ![](https://www.qovery.com/illustrations/products/bullets/link.svg)Its own URL to share with reviewers, product or QA\n\n[Preview environments](https://www.qovery.com/solutions/ephemeral-environments)\n\n![Cloud resources provisioned alongside applications in a Qovery environment](https://www.qovery.com/illustrations/products/deploy-cloud-resources@2x.png)\n\nProvision any cloud resource, in the same environment\n-----------------------------------------------------\n\nYour S3 buckets, queues and managed databases live alongside the services that use them, in one environment. No separate Terraform repo to keep in sync, no glue between your apps and your cloud resources\n\n*   Provision with Terraform or OpenTofu\n*   Cloud resources linked to the environment lifecycle\n*   Terraform runs in your own cluster\n\n![](https://www.qovery.com/illustrations/testimonials/qovery-bottom-left.svg)![](https://www.qovery.com/illustrations/testimonials/qovery-top-right.svg)\n\n> Our deployment times went from 55 minutes to 8 minutes. It’s a night-and-day difference.\n\n![](https://www.qovery.com/illustrations/products/deploy-portrait.png)\n\nJean-Baptiste Barth\n\nInfrastructure Lead at Alan\n\nProduction-grade by default\n---------------------------\n\nAll the best deployment practices, included from the start\n\n![](https://www.qovery.com/illustrations/products/icons/878-333342.svg)\n\n### CI/CD integration\n\nKeep your existing pipeline and let Qovery handle the deploy, or let it handle both\n\n![](https://www.qovery.com/illustrations/products/icons/878-333348.svg)\n\n### Deploy from any registry\n\nShip an image your CI already built, from ECR, GHCR, Docker Hub or a private registry\n\n![](https://www.qovery.com/illustrations/products/icons/878-333161.svg)\n\n### Zero-downtime deployments\n\nRolling updates with health checks, so a release never interrupts your users\n\n![](https://www.qovery.com/illustrations/products/icons/878-333174.svg)\n\n### Automatic rollback\n\nA failed deployment reverts on its own, without anyone stepping in\n\n![](https://www.qovery.com/illustrations/products/icons/878-333187.svg)\n\n### Auto-deploy\n\nEvery commit on the branches you choose ships automatically\n\n![](https://www.qovery.com/illustrations/products/icons/878-333206.svg)\n\n### Pipeline management\n\nOrder services and dependencies so they deploy in the right sequence\n\n![](https://www.qovery.com/illustrations/products/icons/878-333213.svg)\n\n### Deployment logs\n\nFollow build and deploy steps live, and see exactly where one stops\n\n![](https://www.qovery.com/illustrations/products/icons/878-333226.svg)\n\n### Deployment history\n\nEvery deployment recorded per environment, with who triggered it and what changed\n\n![](https://www.qovery.com/illustrations/products/icons/878-333240.svg)\n\n### Environment cloning\n\nDuplicate a full environment in one click, services, databases and configuration included\n\nExplore beyond deploy\n---------------------\n\n[### Provision](https://www.qovery.com/product/provision)\n[![](https://www.qovery.com/illustrations/home-v1/product-logo-agent.svg)\\\n\\\n### Agents](https://www.qovery.com/agents)\n[### Observe](https://www.qovery.com/product/observe)\n[### Secure](https://www.qovery.com/product/secure)\n[### Optimize](https://www.qovery.com/product/optimize)\n\n![](https://www.qovery.com/illustrations/home-v1/closing-cta-corner-left.svg)![](https://www.qovery.com/illustrations/home-v1/closing-cta-corner-right.svg)\n\n![](https://www.qovery.com/illustrations/home-v1/closing-cta-mesh-desktop.svg)![](https://www.qovery.com/illustrations/home-v1/closing-cta-mesh-mobile.svg)\n\nReady to build the future of your infrastructure?\n-------------------------------------------------\n\n[Get started](https://console.qovery.com/)\n[Talk with us](https://www.qovery.com/talk-with-us)",
+        "retrieved_at": "2026-09-21T13:17:19.136101Z",
+        "company_association": "submitted_domain",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      },
+      {
+        "id": "evidence_5995c572099ef29ee322",
+        "source_type": "page",
+        "source_url": "https://www.qovery.com/product/provision",
+        "excerpt": "[Webinar Sept 24: Heroku to AWS in one command, with an agent doing the work.Webinar Sept 24: Heroku to AWS in one command, with an agent doing the work.\\\n\\\nSave your spot](https://www.linkedin.com/events/7501174580007399424/)\n\n![](https://www.qovery.com/illustrations/products/provision-background.png)\n\n![](https://www.qovery.com/illustrations/products/provision-background.png)\n\n![](https://www.qovery.com/illustrations/products/provision-background.png)\n\nProduction-grade infrastructure from your first cluster\n=======================================================\n\nQovery provision your Kubernetes clusters on your own cloud account, configured the way they should be, or let you import an existing one\n\n[Create your cluster](https://console.qovery.com/)\n[Documentation](https://www.qovery.com/docs/getting-started/guides/qovery-101/provision)\n\n![Qovery Provision interface](https://www.qovery.com/illustrations/home-v1/hero-provision.png)\n\nTrusted by +200 companies to simplify their infrastructure burden\n\n![Getsafe](https://www.qovery.com/logos/customers/getsafe.svg)![Spiko](https://www.qovery.com/logos/customers/spiko.svg)![Charles.co](https://www.qovery.com/logos/customers/charles.svg)![RentalReady](https://www.qovery.com/logos/customers/rentalready.svg)![Hyperline](https://www.qovery.com/logos/customers/hyperline.svg)![The Mobile First Company](https://www.qovery.com/logos/customers/themobilefirstcompany.svg)![Talkspace](https://www.qovery.com/logos/customers/talkspace.svg)![Alan](https://www.qovery.com/logos/customers/alan.svg)![Powens](https://www.qovery.com/logos/customers/powens.svg)![Prosperity](https://www.qovery.com/logos/customers/prosperity.svg)![](https://www.qovery.com/logos/customers/getsafe.svg)![](https://www.qovery.com/logos/customers/spiko.svg)![](https://www.qovery.com/logos/customers/charles.svg)![](https://www.qovery.com/logos/customers/rentalready.svg)![](https://www.qovery.com/logos/customers/hyperline.svg)![](https://www.qovery.com/logos/customers/themobilefirstcompany.svg)![](https://www.qovery.com/logos/customers/talkspace.svg)![](https://www.qovery.com/logos/customers/alan.svg)![](https://www.qovery.com/logos/customers/powens.svg)![](https://www.qovery.com/logos/customers/prosperity.svg)\n\nProduction-ready from day one\n-----------------------------\n\nNo Kubernetes expertise required to get a cluster that holds up in production\n\n![Qovery clusters running across managed and self-managed cloud providers](https://www.qovery.com/illustrations/products/provision-cloud-provider@2x.png)\n\n### Run on any cloud provider\n\nAWS, GCP, Azure, Scaleway and more, all in your own cloud account\n\n![Production-ready AWS cluster configuration created by Qovery](https://www.qovery.com/illustrations/products/provision-production-ready@2x.png)\n\n### Production-ready configuration\n\nNetworking, IAM, encryption and autoscaling, set up out of the box.\n\n![Timeline of automated Kubernetes upgrades, security patches and node maintenance](https://www.qovery.com/illustrations/products/provision-day-2-operations@2x.png)\n\n### All you days-2 operations are covered\n\nKubernetes versions, security patches and node maintenance, done for you\n\n![Qovery running on a bring-your-own cloud cluster](https://www.qovery.com/illustrations/products/provision-byoc@2x.png)\n\n### Bring your own cluster or VPC\n\nBYOC or BYOK (Bring Your Own Kubernetes), inside your VPC or not, Qovery runs wherever you need it\n\n![](https://www.qovery.com/illustrations/testimonials/qovery-bottom-left.svg)![](https://www.qovery.com/illustrations/testimonials/qovery-top-right.svg)\n\n> We didn't have to hire someone full-time or rely on external expertise. Qovery orchestrated everything for us.\n\n![](https://www.qovery.com/illustrations/products/provision-portrait.png)\n\nClément Garbay\n\nCTO and co-founder at Hyperline\n\nEverything your infrastructure needs\n------------------------------------\n\nAll the best deployment practices, included from the start\n\n![](https://www.qovery.com/illustrations/products/icons/886-397011.svg)\n\n### Cluster autoscaling\n\nNodes scale with your workloads, up and back down.\n\n![](https://www.qovery.com/illustrations/products/icons/886-397019.svg)\n\n### Node pools\n\nSeparate pools with their own specs, sized for the workloads that run on them.\n\n![](https://www.qovery.com/illustrations/products/icons/886-397026.svg)\n\n### GPU instances\n\nRun AI and compute-heavy workloads on GPU nodes.\n\n![](https://www.qovery.com/illustrations/products/icons/886-397044.svg)\n\n### Spot instances\n\nRun non-critical workloads at a fraction of the cost.\n\n![](https://www.qovery.com/illustrations/products/icons/886-397051.svg)\n\n### Environment sleep schedules\n\nShut down environments outside working hours automatically.\n\n![](https://www.qovery.com/illustrations/products/icons/886-397056.svg)\n\n### Multi-region\n\nDeploy clusters in the regions your users and regulations require.\n\n![](https://www.qovery.com/illustrations/products/icons/886-397063.svg)\n\n### Private networking\n\nConnect your clusters to your existing networks and VPCs.\n\n![](https://www.qovery.com/illustrations/products/icons/886-397077.svg)\n\n### Self-hosted control plane\n\nRun Qovery inside your own perimeter, air-gapped if needed.\n\n![](https://www.qovery.com/illustrations/products/icons/886-397084.svg)\n\n### Cluster configuration as code\n\nManage your clusters with the Terraform provider.\n\nExplore beyond provision\n------------------------\n\n[### Deploy](https://www.qovery.com/product/deploy)\n[![](https://www.qovery.com/illustrations/home-v1/product-logo-agent.svg)\\\n\\\n### Agents](https://www.qovery.com/agents)\n[### Observe](https://www.qovery.com/product/observe)\n[### Secure](https://www.qovery.com/product/secure)\n[### Optimize](https://www.qovery.com/product/optimize)\n\n![](https://www.qovery.com/illustrations/home-v1/closing-cta-corner-left.svg)![](https://www.qovery.com/illustrations/home-v1/closing-cta-corner-right.svg)\n\n![](https://www.qovery.com/illustrations/home-v1/closing-cta-mesh-desktop.svg)![](https://www.qovery.com/illustrations/home-v1/closing-cta-mesh-mobile.svg)\n\nReady to build the future of your infrastructure?\n-------------------------------------------------\n\n[Get started](https://console.qovery.com/)\n[Talk with us](https://www.qovery.com/talk-with-us)",
+        "retrieved_at": "2026-09-21T13:17:20.156129Z",
+        "company_association": "submitted_domain",
+        "truncated": false,
+        "synthetic": false,
+        "search_query": null,
+        "result_title": null,
+        "result_position": null
+      }
+    ],
+    "certificate_context": {
+      "apex": "qovery.com",
+      "hostnames": [
+        "qovery.com",
+        "docs.qovery.com",
+        "discord.qovery.com",
+        "roadmap.qovery.com",
+        "tutorial.qovery.com",
+        "start.qovery.com",
+        "auth.qovery.com",
+        "jobs.qovery.com",
+        "engineering.qovery.com",
+        "guide.qovery.com",
+        "console.qovery.com",
+        "engine.qovery.com",
+        "api.qovery.com",
+        "shop.qovery.com",
+        "community.qovery.com",
+        "ph.qovery.com",
+        "discuss.qovery.com",
+        "api-doc.qovery.com",
+        "hub.qovery.com",
+        "status.qovery.com",
+        "onboarding.qovery.com",
+        "phprox.qovery.com",
+        "new.console.qovery.com",
+        "trust.qovery.com",
+        "changelog.qovery.com",
+        "get.qovery.com",
+        "help.qovery.com",
+        "migrate.qovery.com",
+        "helm.qovery.com",
+        "new-gateway-api.qovery.com",
+        "console-backdev.qovery.com",
+        "www.qovery.com",
+        "dash.qovery.com",
+        "amp.qovery.com",
+        "trkv3.qovery.com",
+        "www-2.qovery.com",
+        "fr1.qovery.com",
+        "new-gateway-api.fr1.qovery.com",
+        "stats.qovery.com",
+        "vaultemort.qovery.com",
+        "dev-custom-dns-qovery-ci-testing.qovery.com",
+        "custom-dns-qovery-ci-testing.qovery.com",
+        "panic.qovery.com",
+        "grpc.qovery.com",
+        "api-dev.qovery.com",
+        "grpc-dev.qovery.com",
+        "nats-external-dev.qovery.com",
+        "mkt.qovery.com",
+        "nats-internal.qovery.com",
+        "console-beta.qovery.com",
+        "console-v1.qovery.com",
+        "console-staging.qovery.com",
+        "nats-external.qovery.com",
+        "www-staging.qovery.com",
+        "console-preview-ec2.qovery.com",
+        "storybook-v3-staging.qovery.com",
+        "docsv2.qovery.com",
+        "console-dev.qovery.com",
+        "webhook.qovery.com",
+        "nats-internal-dev.qovery.com",
+        "api-core-dev.qovery.com",
+        "staging.qovery.com",
+        "console-v3-staging.qovery.com",
+        "careers-preprod.qovery.com",
+        "forum.qovery.com",
+        "storybook.qovery.com",
+        "storybook-staging.qovery.com",
+        "prismic-handler.qovery.com",
+        "airflow.qovery.com",
+        "urlshortener.qovery.com",
+        "lemtrail.qovery.com",
+        "rde.qovery.com",
+        "new-console.qovery.com",
+        "demo-gateway-api-service.qovery.com",
+        "rde-api.qovery.com",
+        "e.qovery.com",
+        "content.qovery.com",
+        "churnradar.qovery.com",
+        "join.qovery.com",
+        "kb.qovery.com",
+        "wildcard.qovery.com"
+      ],
+      "malformed_count": 0,
+      "wildcard_count": 0,
+      "duplicate_count": 0,
+      "out_of_scope_count": 0,
+      "omitted_count": 0,
+      "response_truncated": false,
+      "unavailable": false,
+      "warning": null
+    },
+    "queries": [
+      "Qovery qovery.com official company",
+      "Qovery qovery.com employee count legal entity jurisdiction headquarters",
+      "Qovery qovery.com cloud infrastructure engineering"
+    ],
+    "page_requests": [
+      "https://www.qovery.com",
+      "https://www.qovery.com/about",
+      "https://www.qovery.com/product/deploy",
+      "https://www.qovery.com/product/provision"
+    ],
+    "warnings": [],
+    "synthetic": false,
+    "follow_up_failed": false
+  },
+  "profile": {
+    "identity": {
+      "value": "Qovery",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_bcace5d767f8944d13d8",
+        "evidence_fcfaa5919cbb160b6dc4"
+      ]
+    },
+    "observed_aliases": [
+      "BIRDSIGHT (Qovery)"
+    ],
+    "business_description": {
+      "value": "Qovery provides a self-service infrastructure platform and production-grade Kubernetes platform for deploying, provisioning, and operating applications and AI workloads in customers' own cloud accounts.",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_bcace5d767f8944d13d8",
+        "evidence_fcfaa5919cbb160b6dc4",
+        "evidence_d1d996c34f2fb217d6df",
+        "evidence_5995c572099ef29ee322"
+      ]
+    },
+    "jurisdictions": [
+      {
+        "entity_name": "Qovery",
+        "country": "FR",
+        "role": "operational_headquarters",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_bcace5d767f8944d13d8"
+        ]
+      },
+      {
+        "entity_name": "BIRDSIGHT (Qovery)",
+        "country": "FR",
+        "role": "registered_jurisdiction",
+        "support_type": "inferred",
+        "evidence_ids": [
+          "evidence_bcace5d767f8944d13d8"
+        ]
+      }
+    ],
+    "employee_count_band": {
+      "value": "11-50",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_bcace5d767f8944d13d8"
+      ]
+    },
+    "cloud_signals": [
+      {
+        "value": "Qovery's platform runs in customers' own cloud accounts and VPCs, including AWS, GCP, Azure, and other providers.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_fcfaa5919cbb160b6dc4",
+          "evidence_5995c572099ef29ee322"
+        ]
+      },
+      {
+        "value": "Qovery provisions and manages Kubernetes clusters, cloud resources, networking, IAM, encryption, autoscaling, upgrades, patches, and day-2 operations.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_5995c572099ef29ee322"
+        ]
+      },
+      {
+        "value": "Qovery provides deployment pipelines, preview environments, rollbacks, deployment logs, Terraform integration, and AI-agent infrastructure controls.",
+        "support_type": "direct",
+        "evidence_ids": [
+          "evidence_d1d996c34f2fb217d6df",
+          "evidence_fcfaa5919cbb160b6dc4"
+        ]
+      }
+    ],
+    "proposed_cloud_category": {
+      "value": "substantial_cloud",
+      "support_type": "inferred",
+      "evidence_ids": [
+        "evidence_fcfaa5919cbb160b6dc4",
+        "evidence_d1d996c34f2fb217d6df",
+        "evidence_5995c572099ef29ee322"
+      ]
+    },
+    "competitive_overlap": {
+      "value": "adjacent_service",
+      "support_type": "direct",
+      "evidence_ids": [
+        "evidence_d1d996c34f2fb217d6df",
+        "evidence_5995c572099ef29ee322"
+      ]
+    },
+    "missing_facts": [
+      "The exact registered legal entity name and registration details were not established.",
+      "The contracting entity was not established.",
+      "The ultimate parent company was not established.",
+      "The exact employee count was not established."
+    ],
+    "conflicts": [],
+    "sales_summary": [
+      {
+        "text": "Qovery sells a production-grade infrastructure platform for Kubernetes provisioning, application deployment, and day-2 cloud operations, primarily in customers' own cloud accounts.",
+        "evidence_ids": [
+          "evidence_bcace5d767f8944d13d8",
+          "evidence_fcfaa5919cbb160b6dc4",
+          "evidence_d1d996c34f2fb217d6df",
+          "evidence_5995c572099ef29ee322"
+        ]
+      },
+      {
+        "text": "Its offering is adjacent to cloud cost optimization and FinOps through general infrastructure provisioning and application deployment, but the evidence does not show core FinOps capabilities such as spend optimization, rightsizing, or commitment optimization.",
+        "evidence_ids": [
+          "evidence_d1d996c34f2fb217d6df",
+          "evidence_5995c572099ef29ee322"
+        ]
+      },
+      {
+        "text": "Qovery reports more than 200 organizations and a team of more than 40 members across Europe and North America.",
+        "evidence_ids": [
+          "evidence_bcace5d767f8944d13d8"
+        ]
+      }
+    ]
+  },
+  "review": {
+    "requested_model": "jev-latest",
+    "resolved_model": "jev-1.13.0",
+    "raw_answers": {
+      "claim__identity": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 1.0,
+          "insufficient": 0.0
+        },
+        "confidence": 1.0
+      },
+      "claim__business_description": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 1.0,
+          "insufficient": 0.0
+        },
+        "confidence": 1.0
+      },
+      "claim__employee_count_band": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.02,
+          "supported": 0.95,
+          "insufficient": 0.03
+        },
+        "confidence": 0.93
+      },
+      "claim__proposed_cloud_category": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.08,
+          "supported": 0.74,
+          "insufficient": 0.18
+        },
+        "confidence": 0.62
+      },
+      "claim__competitive_overlap": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 0.93,
+          "insufficient": 0.07
+        },
+        "confidence": 0.89
+      },
+      "claim__jurisdiction_0": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 1.0,
+          "insufficient": 0.0
+        },
+        "confidence": 1.0
+      },
+      "claim__jurisdiction_1": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 0.94,
+          "insufficient": 0.06
+        },
+        "confidence": 0.91
+      },
+      "claim__cloud_signal_0": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 1.0,
+          "insufficient": 0.0
+        },
+        "confidence": 1.0
+      },
+      "claim__cloud_signal_1": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 1.0,
+          "insufficient": 0.0
+        },
+        "confidence": 0.99
+      },
+      "claim__cloud_signal_2": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 1.0,
+          "insufficient": 0.0
+        },
+        "confidence": 1.0
+      },
+      "summary__0": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 1.0,
+          "insufficient": 0.0
+        },
+        "confidence": 1.0
+      },
+      "summary__1": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 0.92,
+          "insufficient": 0.08
+        },
+        "confidence": 0.87
+      },
+      "summary__2": {
+        "type": "choice",
+        "choice": "supported",
+        "probabilities": {
+          "contradicted": 0.0,
+          "supported": 1.0,
+          "insufficient": 0.0
+        },
+        "confidence": 1.0
+      },
+      "employee_count_category": {
+        "type": "choice",
+        "choice": "11-50",
+        "probabilities": {
+          "51-200": 0.0,
+          "1-10": 0.0,
+          "unknown": 0.01,
+          "201+": 0.0,
+          "conflicting": 0.0,
+          "11-50": 0.99
+        },
+        "confidence": 0.98
+      },
+      "cloud_category": {
+        "type": "choice",
+        "choice": "substantial_cloud",
+        "probabilities": {
+          "minimal": 0.0,
+          "substantial_cloud": 0.88,
+          "unknown": 0.01,
+          "production_cloud": 0.11,
+          "digital_product": 0.0,
+          "conflicting": 0.0
+        },
+        "confidence": 0.85
+      },
+      "unlisted_competitor_overlap": {
+        "type": "score",
+        "score": 0.97,
+        "probabilities": {
+          "0": 0.03,
+          "1": 0.97,
+          "2": 0.0,
+          "3": 0.0
+        },
+        "confidence": 0.96,
+        "legend": {
+          "0": "No material overlap: evidence establishes a different product category and no core competitive capability is sold.",
+          "1": "Adjacent only: the company sells related cloud or infrastructure capabilities, but no core competitive capability.",
+          "2": "Material overlap: the company sells at least one core competitive capability, but it is limited or ancillary.",
+          "3": "Direct competitor: cloud cost optimization or FinOps is a core offering with multiple competitive capabilities."
+        }
+      },
+      "compliance_follow_up": {
+        "type": "choice",
+        "choice": "jurisdiction",
+        "probabilities": {
+          "none": 0.04,
+          "spendwise_cloud": 0.0,
+          "jurisdiction": 0.96,
+          "cloudtrim_inc": 0.0,
+          "rightsize_cloud_co": 0.0
+        },
+        "confidence": 0.95
+      },
+      "competitor_basis__cloudtrim_inc": {
+        "type": "choice",
+        "choice": "no_indication",
+        "probabilities": {
+          "insufficient_identity": 0.0,
+          "no_indication": 0.55,
+          "distinct_entity": 0.44,
+          "likely_alias": 0.0,
+          "plausible_partial": 0.01
+        },
+        "confidence": 0.43
+      },
+      "competitor_evidence__cloudtrim_inc": {
+        "type": "choice",
+        "choice": "none",
+        "probabilities": {
+          "evidence_e1c1af63c495d46405e7": 0.0,
+          "submitted_name": 0.13,
+          "evidence_9087486d577459423448": 0.01,
+          "evidence_65b665672831a5a1a7bf": 0.0,
+          "evidence_7b0c4daacc6202a9fc03": 0.0,
+          "evidence_baceff8d4951defd0ebf": 0.0,
+          "evidence_617478cb42e70b3cac8e": 0.01,
+          "evidence_ceb86a070066d2560426": 0.0,
+          "none": 0.51,
+          "evidence_29d8d11bf0f1243f2acc": 0.0,
+          "evidence_b214c960006631534df2": 0.0,
+          "evidence_5995c572099ef29ee322": 0.07,
+          "evidence_678565407e61c18aae72": 0.0,
+          "evidence_5fe0fd1ec0571da54748": 0.0,
+          "evidence_bcace5d767f8944d13d8": 0.01,
+          "evidence_fcfaa5919cbb160b6dc4": 0.04,
+          "evidence_09f17a6b952edef9dd3d": 0.01,
+          "evidence_95248f2b851b0ad1cbc8": 0.0,
+          "evidence_168ada9c3f2187d0fd3a": 0.0,
+          "evidence_d1d996c34f2fb217d6df": 0.19,
+          "evidence_3c54632f0e0d12011a1f": 0.0,
+          "evidence_2e7220c90ae5f9165bb1": 0.0,
+          "evidence_1198130f12b9a159582a": 0.0,
+          "evidence_57386d27bdc2ee0afb9a": 0.0,
+          "evidence_862c56c170ca0f69f19d": 0.02,
+          "evidence_752dcdbb1bfc169caa61": 0.0
+        },
+        "confidence": 0.48
+      },
+      "competitor_basis__spendwise_cloud": {
+        "type": "choice",
+        "choice": "distinct_entity",
+        "probabilities": {
+          "no_indication": 0.47,
+          "insufficient_identity": 0.0,
+          "likely_alias": 0.0,
+          "distinct_entity": 0.52,
+          "plausible_partial": 0.01
+        },
+        "confidence": 0.4
+      },
+      "competitor_evidence__spendwise_cloud": {
+        "type": "choice",
+        "choice": "none",
+        "probabilities": {
+          "evidence_e1c1af63c495d46405e7": 0.0,
+          "evidence_3c54632f0e0d12011a1f": 0.0,
+          "evidence_9087486d577459423448": 0.02,
+          "evidence_65b665672831a5a1a7bf": 0.0,
+          "submitted_name": 0.05,
+          "none": 0.37,
+          "evidence_617478cb42e70b3cac8e": 0.01,
+          "evidence_ceb86a070066d2560426": 0.0,
+          "evidence_baceff8d4951defd0ebf": 0.0,
+          "evidence_29d8d11bf0f1243f2acc": 0.0,
+          "evidence_b214c960006631534df2": 0.0,
+          "evidence_5995c572099ef29ee322": 0.19,
+          "evidence_fcfaa5919cbb160b6dc4": 0.04,
+          "evidence_5fe0fd1ec0571da54748": 0.0,
+          "evidence_bcace5d767f8944d13d8": 0.01,
+          "evidence_678565407e61c18aae72": 0.0,
+          "evidence_95248f2b851b0ad1cbc8": 0.0,
+          "evidence_09f17a6b952edef9dd3d": 0.0,
+          "evidence_168ada9c3f2187d0fd3a": 0.0,
+          "evidence_d1d996c34f2fb217d6df": 0.31,
+          "evidence_7b0c4daacc6202a9fc03": 0.0,
+          "evidence_2e7220c90ae5f9165bb1": 0.0,
+          "evidence_1198130f12b9a159582a": 0.0,
+          "evidence_57386d27bdc2ee0afb9a": 0.0,
+          "evidence_862c56c170ca0f69f19d": 0.0,
+          "evidence_752dcdbb1bfc169caa61": 0.0
+        },
+        "confidence": 0.33
+      },
+      "competitor_basis__rightsize_cloud_co": {
+        "type": "choice",
+        "choice": "distinct_entity",
+        "probabilities": {
+          "no_indication": 0.46,
+          "insufficient_identity": 0.0,
+          "likely_alias": 0.0,
+          "distinct_entity": 0.53,
+          "plausible_partial": 0.01
+        },
+        "confidence": 0.4
+      },
+      "competitor_evidence__rightsize_cloud_co": {
+        "type": "choice",
+        "choice": "none",
+        "probabilities": {
+          "evidence_e1c1af63c495d46405e7": 0.0,
+          "evidence_3c54632f0e0d12011a1f": 0.0,
+          "evidence_9087486d577459423448": 0.02,
+          "evidence_65b665672831a5a1a7bf": 0.0,
+          "evidence_2e7220c90ae5f9165bb1": 0.0,
+          "none": 0.46,
+          "evidence_617478cb42e70b3cac8e": 0.01,
+          "evidence_ceb86a070066d2560426": 0.0,
+          "evidence_5995c572099ef29ee322": 0.2,
+          "evidence_29d8d11bf0f1243f2acc": 0.0,
+          "evidence_b214c960006631534df2": 0.0,
+          "evidence_baceff8d4951defd0ebf": 0.0,
+          "evidence_678565407e61c18aae72": 0.0,
+          "evidence_5fe0fd1ec0571da54748": 0.0,
+          "evidence_bcace5d767f8944d13d8": 0.01,
+          "evidence_fcfaa5919cbb160b6dc4": 0.04,
+          "evidence_95248f2b851b0ad1cbc8": 0.01,
+          "evidence_09f17a6b952edef9dd3d": 0.01,
+          "evidence_168ada9c3f2187d0fd3a": 0.0,
+          "evidence_d1d996c34f2fb217d6df": 0.14,
+          "evidence_7b0c4daacc6202a9fc03": 0.0,
+          "evidence_862c56c170ca0f69f19d": 0.02,
+          "evidence_1198130f12b9a159582a": 0.0,
+          "evidence_57386d27bdc2ee0afb9a": 0.0,
+          "submitted_name": 0.08,
+          "evidence_752dcdbb1bfc169caa61": 0.0
+        },
+        "confidence": 0.43
+      }
+    },
+    "claim_support": {
+      "identity": "supported",
+      "business_description": "supported",
+      "employee_count_band": "supported",
+      "proposed_cloud_category": "supported",
+      "competitive_overlap": "supported",
+      "jurisdiction_0": "supported",
+      "jurisdiction_1": "supported",
+      "cloud_signal_0": "supported",
+      "cloud_signal_1": "supported",
+      "cloud_signal_2": "supported"
+    },
+    "claim_confidence": {
+      "identity": 1.0,
+      "business_description": 1.0,
+      "employee_count_band": 0.93,
+      "proposed_cloud_category": 0.62,
+      "competitive_overlap": 0.89,
+      "jurisdiction_0": 1.0,
+      "jurisdiction_1": 0.91,
+      "cloud_signal_0": 1.0,
+      "cloud_signal_1": 0.99,
+      "cloud_signal_2": 1.0
+    },
+    "employee_count_category": "11-50",
+    "employee_count_confidence": 0.98,
+    "cloud_category": "substantial_cloud",
+    "cloud_confidence": 0.85,
+    "competitor_basis": {
+      "cloudtrim_inc": "no_indication",
+      "spendwise_cloud": "distinct_entity",
+      "rightsize_cloud_co": "distinct_entity"
+    },
+    "competitor_evidence": {
+      "cloudtrim_inc": "none",
+      "spendwise_cloud": "none",
+      "rightsize_cloud_co": "none"
+    },
+    "competitor_confidence": {
+      "cloudtrim_inc": 0.43,
+      "spendwise_cloud": 0.33,
+      "rightsize_cloud_co": 0.4
+    },
+    "unlisted_competitor_score": 0.97,
+    "unlisted_competitor_probabilities": {
+      "0": 0.03,
+      "1": 0.97,
+      "2": 0.0,
+      "3": 0.0
+    },
+    "unlisted_competitor_confidence": 0.96,
+    "compliance_follow_up": "jurisdiction",
+    "follow_up_confidence": 0.95,
+    "summary_support": [
+      "supported",
+      "supported",
+      "supported"
+    ],
+    "summary_confidence": [
+      1.0,
+      0.87,
+      1.0
+    ],
+    "validation_errors": []
+  },
+  "expected": {
+    "final_status": "review_required",
+    "compliance_outcome": "clear",
+    "score": 15,
+    "score_status": "provisional"
+  }
+}

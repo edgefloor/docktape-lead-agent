@@ -2,22 +2,21 @@ from __future__ import annotations
 
 import pytest
 
-from models import (
-    CertificateContext,
+from docktape_lead_agent.domain.evidence import CertificateContext, EvidenceRecord, ResearchAttempt
+from docktape_lead_agent.domain.judgments import JevAssessment
+from docktape_lead_agent.domain.profiles import (
+    CompanyProfile,
+    JurisdictionFact,
+    MaterialClaim,
+    SummarySentence,
+)
+from docktape_lead_agent.domain.submissions import (
     ClaimVerdict,
     CloudCategory,
-    CompanyProfile,
     CompetitorBasis,
-    CompetitiveOverlap,
     EmployeeBand,
-    EvidenceRecord,
-    JevAssessment,
-    JurisdictionFact,
     JurisdictionRole,
     LeadSubmission,
-    MaterialClaim,
-    ResearchAttempt,
-    SummarySentence,
 )
 
 
@@ -71,7 +70,11 @@ def profile() -> CompanyProfile:
         competitive_overlap=claim("no_overlap"),
         missing_facts=[],
         conflicts=[],
-        sales_summary=[SummarySentence(text="Example Cloud runs customer workloads on AWS.", evidence_ids=["evidence_page"])],
+        sales_summary=[
+            SummarySentence(
+                text="Example Cloud runs customer workloads on AWS.", evidence_ids=["evidence_page"]
+            )
+        ],
     )
 
 
